@@ -1,0 +1,22 @@
+爬取代码在Crawl目录下
+
+（1）根据Journal list列表中列出的期刊，从Scopus中爬取对应期刊在2012到2023年期间发表的论文，以csv形式存储在对应文件夹中
+
+（2）将不同期刊数据进行合并，得到all.xlsx文件
+
+（3）对于all.xlsx，保留核心字段，去除掉keywords不足6个的论文，去除掉摘要为空的论文，得到expe_data.xlsx
+
+（4）获取expe_data.xlsx论文对应的pii链接
+
+在上述处理过程中， 由于JOI数据是早期下载的，因此在处理流程上并没有完全保持一致，代码和爬取逻辑都是先用JOI数据做测试，然后再应用在其他期刊的数据上
+
+（1）原始数据JOI.xlsx
+
+（2）根据JOI论文的title获取对应论文的pii链接，存储在joi-paper-links.txt
+
+（3）将JOI和JOI-paper-links.txt合并，执行过滤操作，得到expe_data(JOI).xlsx
+
+（4）获取expe_data(JOI).xlsx论文对应的pii链接
+
+
+上面是爬取的预处理代码，即获得对应论文的pii链接
