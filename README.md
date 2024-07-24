@@ -1,6 +1,13 @@
-# Highlight-KPE
+# Highlight-KPE: An Unsupervised Keyword Extraction Method Integrating Summary and Contribution Information from Academic Papers
 
-The code and dataset for this paper: 利用学术论文higlight信息提高无监督关键词抽取性能
+## Overview
+<b> The code and dataset for this paper: Highlight-KPE: An Unsupervised Keyword Extraction Method Integrating Summary and Contribution Information from Academic Papers
+
+The primary objective of this paper is to investigate how the integration of highlight information, which describes the contributions of academic papers, can enhance the performance of unsupervised keyword extraction in traditional research that solely relies on abstracts. We have selected the following four extraction models:
+* ** TextRank
+* ** PositionRank
+* ** MDERank
+* ** PromptRank
 
 <pre>
 Highlight-KPE
