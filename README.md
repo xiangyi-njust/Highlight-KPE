@@ -13,7 +13,7 @@ On this basis, we have investigated several approaches to integrating summaries 
 * Direct text concatenation; we considered the order of concatenation, assessing the differences in extraction performance when using "Abstract + Highlights" versus "Highlights + Abstract" as inputs for the extraction model.
 * Given that summaries may contain much information irrelevant to keyword extraction, we segmented the abstract into a set of sentences and utilized the similarity between sentences and highlights to filter out sentences in the abstract that are less relevant to the current task. This process yields a filtered abstract. Subsequently, we concatenated the filtered abstract with the highlights.
 
-
+We utilized datasets from both the computer science and library information science fields to test the performance of the method proposed in this study.
 
 <pre>
 Highlight-KPE
