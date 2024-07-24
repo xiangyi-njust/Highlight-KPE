@@ -11,9 +11,9 @@ The primary objective of this paper is to investigate how the integration of hig
 (d) PromptRank    https://aclanthology.org/2023.acl-long.545/
 </pre>
 
-On this basis, we have investigated several approaches to integrating summaries with highlight information:
+We have investigated several approaches to integrating summaries with highlight information:
 
-(1) Direct text concatenation; we considered the order of concatenation, assessing the differences in extraction performance when using "Abstract + Highlights" versus "Highlights + Abstract" as inputs for the extraction model.
+(1) Direct text concatenation: we considered the order of concatenation, assessing the differences in extraction performance when using "Abstract + Highlights" versus "Highlights + Abstract" as inputs for the extraction model.
 
 (2) Given that summaries may contain much information irrelevant to keyword extraction, we segmented the abstract into a set of sentences and utilized the similarity between sentences and highlights to filter out sentences in the abstract that are less relevant to the current task. This process yields a filtered abstract. Subsequently, we concatenated the filtered abstract with the highlights.
 
@@ -52,7 +52,6 @@ CS Dataset
 | |PositionRank|9.94|5.02|7.84|10.70|10.74|9.10|9.10|
 | |MDERank|11.54|7.06|10.58|12.80|12.88|11.71|11.69|
 | |PromptRank|12.95|7.19|10.42|13.90|13.85|11.69|11.60|
-
 
 ## Directory Structure
 <pre>
