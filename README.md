@@ -54,7 +54,7 @@ CS Dataset
 | |PromptRank|12.95|7.19|10.42|13.90|13.85|11.69|11.60|
 
 
-The Structure of Project
+## Directory Structure
 <pre>
 Highlight-KPE
 ├─ README.md
@@ -82,4 +82,4 @@ Highlight-KPE
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
 
-> 
+> Yi Xiang, Chengzhi Zhang\*. Highlight-KPE: An Unsupervised Keyword Extraction Method Integrating Summary and Contribution Information from Academic Papers. ***Information Processing and Management***, 2024, (submitted)  [[doi]]() [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-KPE)
