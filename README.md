@@ -15,8 +15,9 @@ On this basis, we have investigated several approaches to integrating summaries 
 * Direct text concatenation; we considered the order of concatenation, assessing the differences in extraction performance when using "Abstract + Highlights" versus "Highlights + Abstract" as inputs for the extraction model.
 * Given that summaries may contain much information irrelevant to keyword extraction, we segmented the abstract into a set of sentences and utilized the similarity between sentences and highlights to filter out sentences in the abstract that are less relevant to the current task. This process yields a filtered abstract. Subsequently, we concatenated the filtered abstract with the highlights.
 
-We utilized datasets from both the computer science and library information science fields to test the performance of the method proposed in this study.
+We utilized datasets from both the computer science(CS) and library information science(LIS) fields to test the performance of the method proposed in this study. The results are as follows:
 
+LIS Dataset
 |F1@K|Method||||Input||||
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
 | | |A|H|FA|A+H|H+A|FA+H|H+FA|
@@ -33,28 +34,47 @@ We utilized datasets from both the computer science and library information scie
 | |MDERank|17.17|13.27|16.89|19.21|19.27|18.49|18.52|
 | |PromptRank|18.78|12.76|16.37|19.95|20.28|18.39|18.34|
 
+CS Dataset
+|F1@K|Method||||Input||||
+|:----|:----|:----|:----|:----|:----|:----|:----|:----|
+| | |A|H|FA|A+H|H+A|FA+H|H+FA|
+|5|TextRank|11.76|6.69|10.98|12.22|12.22|11.31|11.40|
+| |PositionRank|12.52|6.96|10.55|12.89|12.70|11.32|11.45|
+| |MDERank|12.02|8.95|11.11|14.02|13.99|13.07|12.88|
+| |PromptRank|16.44|8.44|14.24|16.91|16.53|14.84|14.53|
+|10|TextRank|11.43|5.64|9.74|11.98|12.03|10.90|10.92|
+| |PositionRank|11.46|5.66|9.48|12.19|12.12|10.64|10.64|
+| |MDERank|12.18|8.06|11.49|13.88|13.95|12.76|12.91|
+| |PromptRank|15.03|7.50|12.31|15.89|15.82|13.80|13.64|
+|15|TextRank|9.99|5.04|7.95|10.64|10.81|9.18|9.18|
+| |PositionRank|9.94|5.02|7.84|10.70|10.74|9.10|9.10|
+| |MDERank|11.54|7.06|10.58|12.80|12.88|11.71|11.69|
+| |PromptRank|12.95|7.19|10.42|13.90|13.85|11.69|11.60|
+
+
+The Structure of Project
 <pre>
 Highlight-KPE
 ├─ README.md
 ├─ code
-│    ├─ EDA.ipynb
-│    ├─ LLM.ipynb
-│    ├─ LLMClassify.ipynb
-│    ├─ PositionRank.ipynb
-│    ├─ TextRank.ipynb
-│    └─ prompt.ini
+│    ├─ EDA.ipynb		Data Pattern Exploration, Result Analysis, and Visualization
+│    ├─ LLM.ipynb               Extracting Keywords Using Large Language Models
+│    ├─ LLMClassify.ipynb       Sentence Classify Using Large Language Models
+│    ├─ PositionRank.ipynb      Extracting Keywords Using PositionRank
+│    ├─ TextRank.ipynb          Extracting Keywords Using TextRank
+│    └─ prompt.ini              Designing Prompt Templates for Keyword Extraction Using Large Language Models
 ├─ crawl
-│    ├─ crawl-cs.ipynb
-│    └─ crawl-lis.ipynb
+│    ├─ crawl-cs.ipynb          Data Crawling, Preprocessing, and Consolidation in the Field of Computer Science Research Papers
+│    └─ crawl-lis.ipynb		Data Crawling, Preprocessing, and Consolidation in the Field of Library Information Science Research Papers
 └─ data
-     ├─ Elsevier-CS
-     │    ├─ Keywords.json
-     │    ├─ Texts_3000-lite-abstract.xlsx
-     │    └─ Texts_3000.xlsx
-     └─ Elsevier-LIS
-    	  ├─ Keywords.json
-	  ├─ Texts-lite-abstract.xlsx
-	  ├─ Texts.xlsx
+     ├─ Elsevier-CS				Computer Science Papers
+     │    ├─ Keywords.json			Set of Keywords for the Paper	
+     │    ├─ Texts_3000-lite-abstract.xlsx	Text Content of the Paper, including the filter abstract and highlight
+     │    └─ Texts_3000.xlsx			Text Content of the Paper, including the abstract and highlight
+     └─ Elsevier-LIS				Library Information Papers
+    	  ├─ Keywords.json			Set of Keywords for the Paper
+	  ├─ Texts-lite-abstract.xlsx		Text Content of the Paper, including the filter abstract and highlight
+	  ├─ Texts.xlsx				Text Content of the Paper, including the abstract and highlight
 </pre>
 
 ## Citation
