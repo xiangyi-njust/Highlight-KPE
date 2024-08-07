@@ -5,10 +5,10 @@
 
 The primary objective of this paper is to investigate how the integration of highlight information, which describes the contributions of academic papers, can enhance the performance of unsupervised keyword extraction in traditional research that solely relies on abstracts. We have selected the following four extraction models:
 <pre>
-(a) TextRank      https://aclanthology.org/W04-3252/
-(b) PositionRank  https://aclanthology.org/P17-1102/
-(c) MDERank       https://aclanthology.org/2022.findings-acl.34/
-(d) PromptRank    https://aclanthology.org/2023.acl-long.545/
+  - extRank      https://aclanthology.org/W04-3252/
+  - PositionRank  https://aclanthology.org/P17-1102/
+  - MDERank       https://aclanthology.org/2022.findings-acl.34/
+  - PromptRank    https://aclanthology.org/2023.acl-long.545/
 </pre>
 
 We have investigated several approaches to integrating summaries with highlight information:
