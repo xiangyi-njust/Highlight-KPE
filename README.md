@@ -56,26 +56,27 @@ CS Dataset
 ## Directory Structure
 <pre>
 Highlight-KPE
-├─ README.md
+
 ├─ code
-│    ├─ EDA.ipynb		Data Pattern Exploration, Result Analysis, and Visualization
-│    ├─ LLM.ipynb               Extracting Keywords Using Large Language Models
-│    ├─ LLMClassify.ipynb       Sentence Classify Using Large Language Models
-│    ├─ PositionRank.ipynb      Extracting Keywords Using PositionRank
-│    ├─ TextRank.ipynb          Extracting Keywords Using TextRank
-│    └─ prompt.ini              Designing Prompt Templates for Keyword Extraction Using Large Language Models
+│    ├─ EDA.ipynb		                Data Pattern Exploration, Result Analysis, and Visualization
+│    ├─ LLM.ipynb                               Extracting Keywords Using Large Language Models
+│    ├─ LLMClassify.ipynb                       Sentence Classify Using Large Language Models
+│    ├─ PositionRank.ipynb                      Extracting Keywords Using PositionRank
+│    ├─ TextRank.ipynb                          Extracting Keywords Using TextRank
+│    └─ prompt.ini                              Designing Prompt Templates for Keyword Extraction Using Large Language Models
 ├─ crawl
-│    ├─ crawl-cs.ipynb          Data Crawling, Preprocessing, and Consolidation in the Field of Computer Science Research Papers
-│    └─ crawl-lis.ipynb		Data Crawling, Preprocessing, and Consolidation in the Field of Library Information Science Research Papers
+│    ├─ crawl-cs.ipynb                          Data Crawling, Preprocessing, and Consolidation in the Field of Computer Science Research Papers
+│    └─ crawl-lis.ipynb		                Data Crawling, Preprocessing, and Consolidation in the Field of Library Information Science Research Papers
 └─ data
-     ├─ Elsevier-CS				Computer Science Papers
-     │    ├─ Keywords.json			Set of Keywords for the Paper	
-     │    ├─ Texts_3000-lite-abstract.xlsx	Text Content of the Paper, including the filter abstract and highlight
-     │    └─ Texts_3000.xlsx			Text Content of the Paper, including the abstract and highlight
-     └─ Elsevier-LIS				Library Information Papers
-    	  ├─ Keywords.json			Set of Keywords for the Paper
-	  ├─ Texts-lite-abstract.xlsx		Text Content of the Paper, including the filter abstract and highlight
-	  ├─ Texts.xlsx				Text Content of the Paper, including the abstract and highlight
+│    ├─ Elsevier-CS				Computer Science Papers
+│    │    ├─ Keywords.json			Set of Keywords for the Paper	
+│    │    ├─ Texts_3000-lite-abstract.xlsx	Text Content of the Paper, including the filter abstract and highlight
+│    │    └─ Texts_3000.xlsx			Text Content of the Paper, including the abstract and highlight
+│    └─ Elsevier-LIS				Library Information Papers
+│    	  ├─ Keywords.json			Set of Keywords for the Paper
+│	  ├─ Texts-lite-abstract.xlsx		Text Content of the Paper, including the filter abstract and highlight
+│	  ├─ Texts.xlsx				Text Content of the Paper, including the abstract and highlight
+├─ README.md
 </pre>
 
 ## Citation
