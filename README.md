@@ -56,7 +56,6 @@ CS Dataset
 ## Directory Structure
 <pre>
 Highlight-KPE
-
 ├─ code
 │    ├─ EDA.ipynb		                Data Pattern Exploration, Result Analysis, and Visualization
 │    ├─ LLM.ipynb                               Extracting Keywords Using Large Language Models
