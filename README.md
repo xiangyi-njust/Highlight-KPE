@@ -19,7 +19,7 @@ We have investigated several approaches to integrating summaries with highlight 
 
 We utilized datasets from both the computer science(CS) and library information science(LIS) fields to test the performance of the method proposed in this study. The results are as follows:
 
-LIS Dataset
+Table1. Keyword extraction performance under different inputs on the LIS dataset
 |F1@K|Method||||Input||||
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
 | | |A|H|FA|A+H|H+A|FA+H|H+FA|
@@ -36,7 +36,7 @@ LIS Dataset
 | |MDERank|17.17|13.27|16.89|19.21|19.27|18.49|18.52|
 | |PromptRank|18.78|12.76|16.37|19.95|20.28|18.39|18.34|
 
-CS Dataset
+Table2. Keyword extraction performance under different inputs on the CS dataset
 |F1@K|Method||||Input||||
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
 | | |A|H|FA|A+H|H+A|FA+H|H+FA|
