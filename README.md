@@ -17,6 +17,46 @@ We have investigated several approaches to integrating summaries with highlight 
 
 We utilized datasets from both the computer science(CS) and library information science(LIS) fields to test the performance of the method proposed in this study. The results are as follows:
 
+<table>
+	<tr>
+	    <th colspan="3">计算机网络分层模型</th>
+	</tr >
+	<tr>
+	    <td >OSI七层模型</td>
+	    <td>TCP/IP四层模型</td>
+	    <td>TCP/IP五层模型</td>  
+	</tr >
+	<tr >
+	    <td>应用层</td>
+	    <td rowspan="3">应用层</td>
+	    <td rowspan="3">应用层</td>
+	</tr>
+	<tr>
+	    <td>表示层</td>
+	</tr>
+	<tr>
+	    <td>会话层</td>
+	</tr>
+	<tr>
+	    <td>传输层</td>
+	    <td>传输层</td>
+       <td>传输层</td>
+	</tr>
+	<tr>
+       <td>网络层</td>
+	    <td>网络层</td>
+       <td>网络层</td>
+	</tr>
+	<tr>
+	    <td>数据链路层</td>
+	    <td rowspan="2">网络接口层</td>
+       <td>数据链路层</td>
+	</tr>
+	<tr>
+	    <td>物理层</td>
+	    <td>物理层</td>
+	</tr>
+</table>
 <b>Table1. Keyword extraction performance under different inputs on the LIS dataset</b>
 |F1@K|Method||||Input||||
 |:----|:----|:----|:----|:----|:----|:----|:----|:----|
