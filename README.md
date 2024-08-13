@@ -1,4 +1,4 @@
-# HHighlight-KPE: Improving Unsupervised Keyword Extraction in Academic Papers by Integrating Highlights with Abstracts
+# Highlight-KPE: Improving Unsupervised Keyword Extraction in Academic Papers by Integrating Highlights with Abstracts
 
 ## Overview
 <b> The code and dataset for this paper: Highlight-KPE: Improving Unsupervised Keyword Extraction in Academic Papers by Integrating Highlights with Abstracts.</b> 
