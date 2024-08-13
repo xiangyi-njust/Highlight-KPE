@@ -1,7 +1,7 @@
-# Highlight-KPE: An Unsupervised Keyword Extraction Method Integrating Summary and Contribution Information from Academic Papers
+# Highlight-KPE: Enhancing Unsupervised Keyword Extraction in Academic Papers through Integration of Highlights and Abstracts
 
 ## Overview
-<b> The code and dataset for this paper: Highlight-KPE: An Unsupervised Keyword Extraction Method Integrating Summary and Contribution Information from Academic Papers.</b> 
+<b> The code and dataset for this paper: Highlight-KPE: Enhancing Unsupervised Keyword Extraction in Academic Papers through Integration of Highlights and Abstracts.</b> 
 
 The primary objective of this paper is to investigate how the integration of highlight information, which describes the contributions of academic papers, can enhance the performance of unsupervised keyword extraction in traditional research that solely relies on abstracts. We have selected the following four extraction models:
   - [TextRank](https://aclanthology.org/W04-3252/)
@@ -327,4 +327,4 @@ Highlight-KPE
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
 
-> Yi Xiang, Chengzhi Zhang\*. Highlight-KPE: An Unsupervised Keyword Extraction Method Integrating Summary and Contribution Information from Academic Papers. ***Information Processing and Management***, 2024, (submitted)  [[doi]]() [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-KPE)
+> Yi Xiang, Chengzhi Zhang\*. Highlight-KPE: Enhancing Unsupervised Keyword Extraction in Academic Papers through Integration of Highlights and Abstracts. ***Information Processing and Management***, 2024, (submitted)  [[doi]]() [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-KPE)
