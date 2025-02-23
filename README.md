@@ -327,4 +327,4 @@ Highlight-KPE
 ## Citation
 Please cite the following paper if you use these codes and datasets in your work.
 
-> Yi Xiang, Chengzhi Zhang\*. Enhancing Unsupervised Keyword Extraction in Academic Papers through the Integration of Highlights and Abstracts. ***Information Processing and Management***, 2024, (submitted)  [[doi]]() [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-KPE)
+> Yi Xiang, Chengzhi Zhang\*. Enhancing Unsupervised Keyword Extraction in Academic Papers through the Integration of Highlights and Abstracts. ***Scientometrics***, 2024, (submitted)  [[doi]]() [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-KPE)
