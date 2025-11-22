@@ -1,0 +1,100 @@
+10.1007/s40710-025-00781-3\tRemote Sensing;Self-Organizing Maps;Vegetation Indices;Soil Moisture Monitoring;Sentinel-2 Imagery;Ecosystem Restoration
+10.1007/s40710-025-00786-y\tAgricultural basin;Groundwater vulnerability;Pollution to nitrates;DRASTIC-LU;Canter-LU;AHP
+10.1007/s40710-025-00784-0\tGadolinium-based contrast agents;Urban aquifer;Hydrochemical modelling;Batch experiment;Sorption
+10.1007/s40710-025-00783-1\tAquatic Macrophytes;Nutrient Depletion;Root Elongation;Ecotoxicity;Chronic Exposure
+10.1007/s40710-025-00782-2\tCoastal watershed;Source area;Nutrient loading;Nitrogen;Phosphorus
+10.1007/s40710-025-00778-y\tGreen synthesis;Porous polyimide;Pharmaceutical pollutant;Adsorption mechanism
+10.1007/s40710-025-00777-z\tMustard oil cake;Cruciferin protein flocculant;Autodock vina;Metronidazole;Perikinetics;Circular economy;Agro-waste valorisation;Pharmaceutical effluent
+10.1007/s40710-025-00776-0\tNutrient load;Phosphorus;Nitrogen;Gross primary production;Phytoplankton growth rate;The KDD approach
+10.1007/s40710-025-00770-6\tFlow electrode capacitive deionization;Carbon black;Activated carbon;Phosphate removal;Removal and recovery;Response surface methodology;Optimization
+10.1007/s40710-025-00774-2\tEnvironmental flow envelope;Streamflow violations;Regulated river;Future climate change;Reliability;Resilience;Violation ratio;Violation frequency;CMIP6
+10.1007/s40710-025-00771-5\tOil spill remediation;Contaminated seabird;Natural fibers;Kapok;Sorbent materials;Composite regeneration
+10.1007/s40710-025-00767-1\tActual textile wastewater;MXene;Nanofiltration membrane;COD removal;Wastewater treatment
+10.1007/s40710-024-00691-w\tClimate change adaptation;Water infrastructure;Climate proofing;Climate risk and vulnerability assessment
+10.1007/s40710-024-00693-8\tPhysical characteristics;Polymer composition;Size;Shape
+10.1007/s40710-024-00692-9\tRiver Basin Management Plan;Water Pricing;Water Management Efficiency;Economic Instruments
+10.1007/s40710-024-00689-4\tWater-energy nexus;Carbon balance;Axarquia (Spain);Deficit irrigation;Non-conventional water sources;Subtropical crops;Climate change;CO2 equivalent
+10.1007/s40710-024-00707-5\tDewatering plant;Polymer dosage;Flocculation;Image analysis;Semantic segmentation;Automatic control
+10.1007/s40710-024-00701-x\tNitrogen;Bioreactor;Wastewater;Denitrification;In-stream processing;Septic system
+10.1007/s40710-024-00696-5\tWater quality monitoring;Fluorescence spectroscopy;E. coli;Tryptophan;Indole pulse
+10.1007/s40710-024-00711-9\tMicrobial Community;Oil Fate and Effect;Low Energy Tidal Flushing;Sediments
+10.1007/s40710-024-00720-8\tCadmium;Urban rivers;Sediments;Spatial–temporal distribution;Risks;Co-occurrence
+10.1007/s40710-024-00721-7\tContraction scour depth;Flood mapping;HEC-RAS model;LiDAR data;Manning n-coefficient;Red River
+10.1007/s40710-024-00726-2\tOrganic Contaminants;Lignin Derived Phenolic Compounds;Zeolites;Water Remediation;Competitive Adsorption
+10.1007/s40710-024-00719-1\tDye removal;Adsorption and electrochemical treatment;Artificial neural network;Support vector machine;Random forest;Monte Carlo simulation
+10.1007/s40710-024-00736-0\tAlpine;Carbon emissions;Disturbance;Soil carbon;Sphagnum;Subalpine
+10.1007/s40710-024-00731-5\tHoney;Hydrothermal;Functionalized hydrochar;Stable free radical;Dye removal;Methylene blue;Doxorubicin;Fluorescein;Environmental remediation
+10.1007/s40710-024-00740-4\tDesorption;Vancomycin;Rifampicin;Activated carbon;Antibiotic resistance;Water treatment
+10.1007/s40710-025-00744-8\tStream transport capacity;Soil loss modelling;Phosphorus transport;Sediment concentration;Eutrophication
+10.1007/s40710-025-00747-5\tRiver restoration;Habitat quality;System of environmental flow analysis;Regression analysis;Machine learning
+10.1007/s40710-025-00750-w\tGas treatment;Electro-absorption;Benzene;P-xylene;Packed column;Jet mixer
+10.1007/s40710-025-00743-9\tGroundwater footprint;Expert opinion;Land-scoring mapping method;Ecosystem services;SDGs;Environmental flow
+10.1007/s40710-025-00755-5\tGR2M;Hydrological modeling;SSP1-2.6 and SSP5-8.5;Climate change impact assessment;CMIP6;Temperature;Rainfall;Meteorological drought
+10.1007/s40710-025-00780-4\tDrinking water treatment sludge reuse;Sludge characterization;Phosphate adsorption;Water treatment
+10.1007/s40710-025-00759-1\tCotton stalk residues;Lignocellulose;Rumen fluid;Rumen microbiota;Candidatus Cloacimonas;Methanothrix
+10.1007/s40710-025-00762-6\tWater management;Pumped hydro storage;Hydrogen storage solution;Desalination;Hybrid renewable energy systems;Paxos and antipaxos islands
+10.1007/s40710-025-00765-3\tFuzzy cognitive maps;Stakeholder engagement;Integrated water resources management;Mediterranean river basin;Partnerships for the goals
+10.1007/s40710-025-00757-3\tSustainable wastewater treatment;Energy-efficient desalination;Resource recovery technology;Zero-waste wastewater treatment;Industrial effluent treatment
+10.1007/s40710-025-00772-4\tUrban environment;Formaldehyde;HCHO;Outdoor air pollution;Ecosystem services;Air quality;Vilnius
+10.1007/s40710-025-00773-3\tWastewater treatment;Microalgae-bacteria consortia;Nitrates;Phosphorus;Removal kinetics;Dark-light conditions
+10.1007/s40710-025-00775-1\tBiomass valorisation;Pyrolysis;Wastewater treatment;Dynamic column adsorption;Adsorbent regeneration
+10.1007/s40710-025-00779-x\tAntibiotic-resistant bacteria;Antibiotic resistance genes;Chlorination;Constructed wetlands;Upflow anaerobic sludge blanket reactors;UV disinfection
+10.1007/s40710-025-00758-2\tMeteorological Data;SQL Database;Open-source;Weather Stations;Crete Region;Hydrological Data
+10.1007/s40710-025-00768-0\tIron removal;Seasonal variation;Water treatment;Full-scale lagoons;Full-scale wetlands;Mine discharge
+10.1007/s40710-025-00769-z\tMAR typology;Stakeholder-adapted approach;Analytical hierarchical process;MAR planning;Decision-making
+10.1007/s40710-025-00785-z\tEnvironmental flow;Large scale hydrological modelling;Ungauged basins;LISFLOOD;Greek rivers;Water framework directive
+10.1007/s40710-025-00752-8\tKarst hydrogeology;Ambient noise monitoring;Non-invasive investigation;Flow dynamics and turbulence
+10.1007/s40710-024-00722-6\tDigital soil mapping;Erosion;Machine learning;Soil thickness;Soil type
+10.1007/s40710-024-00694-7\tPlastic;Microplastic;Hospital wastewater;Polymer;Abundance
+10.1007/s40710-024-00723-5\tWater quality assessment;Dinaric karst lakes;Freshwater management;Macroinvertebrate bioassessment;Reference conditions
+10.1007/s40710-024-00716-4\tMachine learning;Air temperature;Water temperature;River discharge;Signal decomposition;Extreme learning machine (ELM);ORELM;RELM;WRELM
+10.1007/s40710-025-00749-3\tClimate change impacts;Adaptation;Drinking water systems;Perceptions;Behaviors;Decision support systems
+10.1007/s40710-025-00751-9\tGroundwater quality index;Water quality parameters;Machine learning;Multi-gene genetic programming;XGBoost
+10.1007/s40710-024-00724-4\tPaint wastewater;Adsorption kinetics;Coagulation;Decentralized treatment;Water reuse;Sustainability
+10.1007/s40710-024-00700-y\tHydrogeophysics;Geophysical imaging;Fractured basalt;Site conceptual model;Groundwater pollution;Landfills
+10.1007/s40710-025-00760-8\tWetland pollution;Antiparasitic drugs mobility;Ivermectin;Livestock;Soil organic matter;Environmental fate;Environmental distribution
+10.1007/s40710-024-00713-7\tCu-TiO2-Aluminosilicate;Promising photocatalyst;Taguchi method;Toxicity assessment
+10.1007/s40710-024-00727-1\tHydraulic Barrier;Hazardous Leachate;Organoclay;Heavy Metals;Adsorption;Bentonite
+10.1007/s40710-025-00745-7\tUrban morphology;Vertical temperature-humidity profiles;Thermal inversions;Urban canyon microclimate
+10.1007/s40710-024-00730-6\tPharmaceuticals;Pervious Concrete Filters;Alum Sludge;Amoxicillin Removal;Wastewater Treatment
+10.1007/s40710-024-00718-2\tАntibiotics;Cefoperazone;Nanomaterials;Co-MOF;NiCo-MOF;Photocatalytic degradation;Water treatment
+10.1007/s40710-024-00732-4\tPhytoremediation;Heavy metals;Trace elements;Soil pollution;Bradyrhizobium
+10.1007/s40710-024-00738-y\tAgricultural residues;Anaerobic digestion;Biogas enhancement;Lignocellulosic biomass hydrolysis;Rumen microbiota
+10.1007/s40710-024-00725-3\tLife cycle assessment;Bottom ash;Environmental impact assessment;Flue gas;Global warming
+10.1007/s40710-024-00742-2\tTechnological innovation;Load capacity factor;Globalization;Economic growth;Energy use;Sustainable development
+10.1007/s40710-024-00714-6\tFuzzy-AHP;Analytic Hierarchy Process;Multi-criteria decision analysis;Sensitivity analysis;Water monitoring network;River monitoring;Automatic stations
+10.1007/s40710-024-00705-7\tPhotocatalytic Cr(VI) Reduction;Ag/g-C3N4;Hole Scavenger;Visible Light Irradiation;Electron-hole Pair Recombination
+10.1007/s40710-025-00753-7\tHerbicides;Water quality;Time series analysis;Conservation practices;Atrazine;Metolachlor;Simazine
+10.1007/s40710-024-00706-6\tGlaciers;Organomineral sediments;Soils;Organic carbon;Biogeochemical cycles;Trace elements
+10.1007/s40710-025-00748-4\tBibliometric analysis;Roof-top rainwater harvesting;Rainwater quality;Microbiological contamination;First flush
+10.1007/s40710-024-00697-4\tElectrospinning;Polyurethane;Fenton catalyst;Reaction kinetics;Degradation
+10.1007/s40710-024-00699-2\tDissolved Organic Carbon (DOC);Tangential ultrafiltration;Cryo-HRSEM;Coagulated Dissolved Organic Matter (DOM);3D micromorphology;Nanostructural gelation;Monimolimnion;Lac Pavin
+10.1007/s40710-024-00702-w\tCattail;Hydrothermal-alkaline pretreatment;Deep Eutectic solvents;Microfiber;Oil adsorption
+10.1007/s40710-024-00704-8\tProduced water management;Saltwater disposal;Unconventional formations;Water chemistry;Hydraulic fracturing
+10.1007/s40710-024-00708-4\tMicroplastics;Spatial variation;FTIR;Pollution Load Index;Relative contributory score
+10.1007/s40710-024-00695-6\tNatural rubber glove;Klebsiella aerogenes;Biodegradation;Devulcanization;Waste to enzymes;Rubber waste management
+10.1007/s40710-024-00741-3\tMesoporous fibrous silica;Polyaniline;Hydrothermal synthesis;Crystal violet;Wastewater treatment
+10.1007/s40710-024-00712-8\tAdsorption;2,4-Dichlorophenoxyacetic acid;Cement kiln dust;Adsorption isotherm;Kinetics
+10.1007/s40710-024-00737-z\tHighway;Heavy metals;Microplastics;Pollution index;Rest area;Sediment
+10.1007/s40710-024-00733-3\tElectrocoagulation;Ultrasound-assisted Electrocoagulation;Tetracycline Remova;Al-Fe Electrode;Hybrid Electrode;Operation Costs
+10.1007/s40710-024-00734-2\tAgTiO3;Ananas leaf;Chlorpyrifos;Near-infrared light;Perovskite;Photocatalysis;Tetracycline
+10.1007/s40710-024-00709-3\tFouling;Humic acid;Carbon nanotubes;Silver nanoparticles;Solar-interfacial evaporation
+10.1007/s40710-025-00756-4\tWater quality;Treated wastewater;Reuse;Resource utilization
+10.1007/s40710-024-00685-8\tCuO nanoparticles;Graphene oxide;Multi-walled carbon nanotubes;UV irradiation;Photocatalyst;Ammonia
+10.1007/s40710-025-00763-5\tAminoglycoside antibiotics;Calendula (Calendula officinalis);Escherichia coli;Licorice (Glycyrrhiza glabra L.);pH modulation;Plant-derived surfactants
+10.1007/s40710-024-00728-0\tBio-electricity;COD;Coulombic efficiency;BOD;Fruit wastes;Microbial fuel cell;Pharmaceutical wastewater;Box-Behken design
+10.1007/s40710-024-00703-9\tBTEX compounds;PAH compounds;Inhalation exposure;Health risk assessment;Burnt oil recycling factory
+10.1007/s40710-025-00754-6\tMesoporous adsorbent;Alginate-derived carbon beads;Methylene blue;Adsorption;Isotherm and kinetic studies;Machine learning modeling
+10.1007/s40710-025-00761-7\tXPS surface investigation;Mesoporous nanocomposites;Metal Adsorption isotherm;Adsorption thermodynamics;Activation energy
+10.1007/s40710-024-00717-3\tNanoparticles;In-vitro dissolution;Mixture risk;Human health risk;Antibiotics
+10.1007/s40710-024-00710-w\tWRTDS_BT;Trend Analysis;Total Phosphorus;Total Suspended Sediments;Lake Erie;Lake Huron;Lake Ontario
+10.1007/s40710-024-00739-x\tEmerging contaminant;Electrolysis;Colloidal particles;Iron electrodes;Removal efficiency
+10.1007/s40710-024-00735-1\tOrchard management;Element loss;Soil cracking;Seasonal soil variability;Soil organic matter
+10.1007/s40710-025-00746-6\tHigh grade adsorbents;Acid dyes;Recycling;Selection guide
+10.1007/s40710-025-00766-2\tFlooding;Uncertainty analysis;Monte Carlo simulations;Analytical hierarchical process;GIS
+10.1007/s40710-024-00684-9\tClimate Change;Environmental Degradation;CO2 Emissions;Agro Export;Australia
+10.1007/s40710-025-00764-4\tGroundwater-surface water interactions;Groundwater-dependent ecosystems;Electrical conductivity;Stream discharge;Headwater catchments;Wüstebach catchment
+10.1007/s40710-024-00680-z\tStreamflow characterization;Baseflow estimation methods;Relative evaluation;Verification of the methods;Baseflow Index;Goodness-of-fit criteria;Himalayan region
+10.1007/s40710-024-00683-w\tFlood risk;Flood hazard;Flood vulnerability;GIS;Graph theory;DEMATEL
+10.1007/s40710-024-00690-x\tDensely Built area;Rain run-off;Rain Garden;Permeable Pavement;Pocket park;Sustainable Drainage Systems (SuDS)
+10.1007/s40710-024-00686-7\tTipping bucket rain gauge;Data logger;Electronic board;Arduino UNO;Raspberry Pi;Athens
