@@ -1,0 +1,2180 @@
+Start Testing ...
+TOP-K 0: ['tropical india', 'vertical water vapour profiles', 'pwv increase', 'water vapour profiles', 'moist lapse rate', 'vertical temperature', 'precipitable water', ['scale height'], 'long period', 'wm −', 'actual values'] 
+
+Reference 0: ['lapse rate', 'precipitable water vapour', 'scale height', 'temperature', 'vertical profile'] 
+
+TOP-K 1: ['microwave observations', 'machine learning algorithms'] 
+
+Reference 1: ['water vapor', 'fy-3g/mwri-rm', 'era5', 'radiosonde'] 
+
+TOP-K 2: ['smap soil moisture data', ['dbn'], 'various input model parameters', 'various land cover types', 'deep belief networkis'] 
+
+Reference 2: ['dbn', 'soil moisture', 'downscaling', 'spatial resolution', 'land cover'] 
+
+TOP-K 3: ['space film mechanisms', 'crease-contact model', 'aerospace design', 'extreme temperatures'] 
+
+Reference 3: ['space membrane structure', 'crease dynamics', 'dynamics simulation and experiment', 'ancf'] 
+
+TOP-K 4: ['global pre-midnight epb patterns', 'south america', 'post-midnight epbs', 'december solstice maximum', 'geomagnetic disturbances', 'non-significant pre-midnight suppression', 'statistical confidence analysis', 'dual-parameter detection', 'sensitivity testing', 'icon data', 'strong peak'] 
+
+Reference 4: ['equatorial plasma bubbles', 'ionospheric irregularities', 'icongeomagnetic activity', 'seasonal variability'] 
+
+TOP-K 5: ['semi-automatic approach', 'propagation parameters', 'plasma structures', 'new automatic method', 'automatic approach', 'low time complexity', 'minimum dependency'] 
+
+Reference 5: ['all-sky airglow imager', 'image segmentation', 'mid-latitude ionospheric plasma structure', 'deep learning'] 
+
+TOP-K 6: ['hunga eruption', 'ionosphere-thermosphere system', 'dip equator', 'moderate storm', ['ion density'], 'wind dynamics', ['wind speed']] 
+
+Reference 6: ['ionosphere and thermosphere', 'ion density', 'wind speed', 'geomagnetic storm', 'volcanic eruption'] 
+
+TOP-K 7: ['post-sunset esf', 'sts', 'esf onset', 'low solar activity', 'high solar activity', 'st occurrences peak', 'solar levels', 'layer heightincrease', 'reliable precursor'] 
+
+Reference 7: ['equatorial spread f', 'satellite traces', 'sts with or without esf', 'solar flux', 'seasonal variability of sts'] 
+
+TOP-K 8: ['high-fidelity dynamic models', 'low-frequency control', 'segmented multi-objective optimization method', 'tianqin constellation', 'active configuration maintenance', 'cooperative control strategy', 'geometric stability', 'optimal geometric stability', 'fuel consumption'] 
+
+Reference 8: ['configuration maintenance', 'cooperative control', 'multi-objective optimization', 'cost-benefit analysis', 'gravitational wave detection'] 
+
+TOP-K 9: ['spacecraft maneuver detection method', 'post-maneuver orbit', ['nonlinear uncertainty propagation'], 'spacecraft pre-maneuver orbit', 'orbital uncertainty', 'combined gaussian mixture model', 'space situational awareness mission', 'orbital arc', 'data association', 'method'] 
+
+Reference 9: ['spacecraft maneuver detection', 'nonlinear uncertainty propagation', 'orbital maneuver', 'space situational awareness'] 
+
+TOP-K 10: ['meter-sized meteoroids', 'n-body meteoroid', 'equivalent cross-sectional diameter', 'new model', 'atmospheric evolution', 'light curve'] 
+
+Reference 10: ['atmospheric entry of meteoroids', 'discrete element method', 'meter-sized meteoroid2023 beijing meteoroid', 'asteroid 2024 bx1'] 
+
+TOP-K 11: ['non-loading errors', 'draconitic errors', 'repro2 gcm', 'gcm estimates', 'repro2 gy', 'annual phase deviations', 'position level', 'comparable level'] 
+
+Reference 11: ['geocenter motion', 'gnss inversion', 'igs reprocessing campaigns', 'seasonal variations', 'intra-seasonal variations'] 
+
+TOP-K 12: ['reclaimed-land subsidence monitoring', 'tianjin binhai new area', 'reclaimed-land subsidence mechanism analysis', 'time-series insar', 'geotechnical model', 'subsidence evolution'] 
+
+Reference 12: ['land reclamation', 'ground subsidence', 'in', 'sar', 'mechanism analysis', 'deformation prediction'] 
+
+TOP-K 13: ['surface water salinity', 'surface water salinity map', 'mapping salinity surface water', 'machine learning models', 'model selection', 'bayesian model', 'modeling', 'data', 'hourly salinity', 'input data'] 
+
+Reference 13: ['salinity intrusion', 'remote sensing', 'landsat-8machine learning', 'mekong delta', 'vietnam'] 
+
+TOP-K 14: ['eco-environmental quality', 'industrial structure diversity', ['industrial structure'], 'advanced industrial structure', 'industrial structure indicators', 'statistical indicators', 'ecological environment', 'dynamic impact', 'significant positive impact', 'different years'] 
+
+Reference 14: ['industrial structure', 'ecological environment quality', 'pvar', 'impulse response', 'variance decomposition', 'granger causality'] 
+
+TOP-K 15: ['era5 reanalysis data', 'zwd modeling', 'surface meteorological observations', 'prediction accuracy', 'spatiotemporal variability', 'climatic conditions', 'advanced machine', 'excellent capability'] 
+
+Reference 15: ['tropospheric wet delay', 'machine learning', 'xg', 'boost', 'light', 'gbm'] 
+
+TOP-K 16: ['modis ndvi', 'model inputs', 'dummy variables', 'soybean yields', 'tvdi monthly inputs', 'lst', 'models', 'summer crop seasons', 'departmental differences', 'ndviand factors'] 
+
+Reference 16: ['ndvilsttdvi', 'water stress'] 
+
+TOP-K 17: ['fvc estimation', 'sub-regional driver analysis', 'nonnegative matrix factorizationmethod', 'large-scale vegetation dynamics', 'multifaceted framework', 'local drivers', 'geographic models'] 
+
+Reference 17: ['fractional vegetation coverage', 'improved constrained nonnegative matrix factorization', 'optimal parameter-based geographic detector', 'geographically weighted random forest', 'ecological protection'] 
+
+TOP-K 18: ['cold gas', 'design adequacy', 'propulsion system', 'sea-level thrust', 'system requirements', 'system performance', ['pulse width modulation'], 'flow control', 'key design aspects', 'steady state operation', 'fcv effects'] 
+
+Reference 18: ['cold gas thrusters', 'cube', 'sat propulsion', 'pull in voltage', 'cyclic life', 'on-response', 'pulse width modulation'] 
+
+TOP-K 19: [['zhinyu crater'], 'ejecta thicknesses', 'basalt layers', 'vertical impact', 'compositional rings', 'diameter projectile'] 
+
+Reference 19: ['impact crater', 'ejecta', 'numerical simulation', 'zhinyu crater'] 
+
+TOP-K 20: ['bended piezoelectric semiconductor beam', 'nonlinear model', ['differential quadrature method'], ['iteration procedure'], 'potential barriers', 'constitutive relation'] 
+
+Reference 20: ['nonlinear analysis', 'bended piezoelectric semiconductor', 'variable cross section', 'iteration procedure', 'differential quadrature method', 'electro-elastic properties'] 
+
+TOP-K 21: [['flexural-gravity waves'], 'linear water wave theory', ['flexural-gravity wave'], 'bragg resonance', ['asymptotic approach'], 'undulating bottom', 'second-order solutions', 'bottom ripples', 'frequency domain analysis', 'time domain', 'mathematical model'] 
+
+Reference 21: ['flexural-gravity wave', 'uniform current', 'bottom undulation', 'asymptotic approach', 'fourier transform', 'reflection coefficient', 'time-domain analysis'] 
+
+TOP-K 22: ['supplier selection problem', 'solution algorithm', 'uncertain demand', 'buyback contract', 'defective units', 'uses mathematical programming', 'reports interesting findings'] 
+
+Reference 22: ['supplier selection', 'newsvendor model', 'uncertain supply', 'buyback/return policy'] 
+
+TOP-K 23: ['bogie hunting stability', 'typical hunting bifurcations', ['hunting stability'], 'lateral suspension', 'adaptive constraint-following control method', ['high-speed train'], ['active suspension system']] 
+
+Reference 23: ['high-speed train', 'hunting stability', 'nonlinear damping', 'active suspension system', 'bifurcation control', 'constraint-following control'] 
+
+TOP-K 24: [['anisotropic nano-beams'], 'ct beams', 'stress fields', 'gradient elasticity models', 'gradient stress fields', 'significant strain gradient effects', 'gradient airy stress function', 'gradient coefficient c', 'literature solutions', 'exact solutions', 'c approaches infinity'] 
+
+Reference 24: ['anisotropic nano-beams', 'nonlocal elasticity', 'stress and strain gradient elasticity', 'analytical solutions', 'micro-size effects'] 
+
+TOP-K 25: ['hong kong', 'transmission degree', 'disease severity', 'booster doses', 'transmission advantage', 'age groups', 'full-spectrum dynamics', 'average death rate', 'group', 'high degree'] 
+
+Reference 25: ['omicron', 'age-stratified transmission model', 'booster vaccinations', 'counterfactual scenarios'] 
+
+TOP-K 26: [['favre waves'], 'favre waves laboratory experiments', 'wave propagation', 'dispersive terms integration', 'arbitrary cross-sections', 'dissipative behaviours', ['finite element'], 'shallow water solver', 'key propagation phenomena', 'computational flexibility', 'model', 'hybrid discretization method', 'long propagation times', 'numerical model', 'numerical flux formulations'] 
+
+Reference 26: ['favre waves', 'dispersive waves', 'boussinesq-type model', 'finite volume', 'finite element', 'energy dissipation'] 
+
+TOP-K 27: ['tree multibody systems', 'recursive algorithm', 'recursive method', 'novel recursive method', 'eigenvalue problems', 'dynamical equations', ['finite element method'], 'flexible bodies', 'component mode synthesis', 'information transfer', 'rooted tree', 'steady-state responses'] 
+
+Reference 27: ['multibody system transfer matrix method', 'vibration analysis', 'finite element method', 'multibody systems'] 
+
+TOP-K 28: ['traffic sensor location', ['wasserstein metric'], 'real-word transportation network', 'numerical experiments', 'search strategy', ['greedy algorithm']] 
+
+Reference 28: ['transportation planning', 'sensor location', 'wasserstein metric', 'flow estimation', 'greedy algorithm'] 
+
+TOP-K 29: [['rigid-flexible coupling dynamics model'], 'multi-support reconfigurable compliant tooling', ['cfrp'], 'machining system', 'excitation test', 'milling test', 'optimization model', 'modal test', 'different layout', 'dynamics characteristics', 'overall layout'] 
+
+Reference 29: ['rigid-flexible coupling dynamics model', 'transfer matrix method for multibody systems', 'cfrp', 'milling edge processing', 'support rigidity', 'vibration response'] 
+
+TOP-K 30: ['inversion energy term', ['energy method'], 'reaction angles', 'continuum mechanics models', ['elastic properties'], 'different bonds', 'bond angles', 'independent variable'] 
+
+Reference 30: ['boron nitride', 'elastic properties', 'molecular mechanics', 'thermal environment', 'energy method'] 
+
+TOP-K 31: ['chaotic system', 'microcontroller implementation', 'new chaos-based encryption algorithm', 'dynamic memory scheme', 'image security', 'systematic approach', 'folding trajectory'] 
+
+Reference 31: ['hidden attractor', 'no-equilibrium', 'multi-fold attractor', 'image encryption', 'hardware implementation'] 
+
+TOP-K 32: ['contact vibration model', 'dynamic contact stiffness', 'reciprocal receptance', ['couple stress'], 'internal friction', 'rigid punch', 'size effect', 'pronounced impact', 'real parts', 'peak effect'] 
+
+Reference 32: ['contact vibration', 'couple stress', 'perturbation method', 'hankel transform'] 
+
+TOP-K 33: ['effective outlier recovery', 'proximal gradient algorithm', 'proximal gradient', 'comprehensive framework', 'charge estimation problem', 'squares algorithms'] 
+
+Reference 33: ['adaptive accelerated proximal gradient', 'outputs with outliers', 'unbiased parameter estimate', 'recursive identification', 'convergence properties', 'state of charge'] 
+
+TOP-K 34: ['load-bearing paths', 'vibration-resistant structure', 'vibration resistance', 'random vibration loads', 'topology phase'] 
+
+Reference 34: ['multi-axis random vibration', 'topology optimization', 'hybrid cellular automata', 'analytic hierarchy process', 'fatigue'] 
+
+TOP-K 35: ['nonlinear multiple scattering method', 'multiple scatterers', 'second-harmonic waves', 'flexural waves', 'modeling thin plates', ['nonreciprocal transmission'], 'harmonic waves', 'defect modes', 'transmission properties'] 
+
+Reference 35: ['nonlinear multiple scattering', 'perturbation analysis', 'harmonic wave generation', 'stop-band formation', 'nonreciprocal transmission'] 
+
+TOP-K 36: ['timoshenko beam theory', 'compressor blades', 'ansys software', 'stiffness nonlinearity', 'new modeling approach', 'dynamic model', 'modeling method'] 
+
+Reference 36: ['cracked blade', 'breathing effect', 'finite element method', 'airfoil blade', 'nonlinear vibration'] 
+
+TOP-K 37: ['poe-based error model', 'mpc-based parameter identification approach', 'poe formula', 'calibration tasks', 'mpc-based identification approach', 'model accuracy', ['error model'], '5-dof pef', 'novel calibration method', 'measurement difficulty'] 
+
+Reference 37: ['parallel mechanism', 'kinematic calibration', 'error modeling', 'parameter identification', 'plane constraint'] 
+
+TOP-K 38: ['image denoising', 'regularization process', 'regularization model', 'additional guidance', 'satisfactory results'] 
+
+Reference 38: ['image restoration', 'variational regularization', 'guided regularization', 'admm'] 
+
+TOP-K 39: ['four-algorithm method', 'infeasible localization estimations', 'test bed', 'experimental data', 'tests results', 'hydraulic constraints'] 
+
+Reference 39: ['leak detection', 'hydraulic systems', 'inverse problems', 'monte carlo simulations'] 
+
+TOP-K 40: [['pain catastrophizing'], 'scd25 level', 'anxiodepressive symptoms', 'evaluative pain ratings', ['chronic pain'], 'prefrontal glx/gaba', 'elevated glx/gaba'] 
+
+Reference 40: ['chronic pain', 'anterior cingulate cortex', 'magnetic resonance spectroscopy', 'glutamate', 'gaba', 'soluble interleukin-2 receptor', 'pain catastrophizing'] 
+
+TOP-K 41: ['diabetes-associated cognitive decline', 'csf1r inhibitor plx5622', 'diabetic mice', 'gdf11 treatment', 'microglial depletion', 'neurogenic underpinnings', 'cognitive restoration', 'hippocampal neurogenesis', 'diabetic murine model', ['cognitive function'], 'memory deficits', 'potential therapeutic strategy'] 
+
+Reference 41: ['growth differentiation factor 11neurogenesis', 'cognitive function', 'type 2 diabetes', 'neuroinflammation'] 
+
+TOP-K 42: ['cfa intraplantar injection', 'spinal irf7', 'irf7', 'nf-κb pathways', 'inflammatory pain', ['spinal cord'], 'inflammatory mediators', 'important role', 'significant decrease'] 
+
+Reference 42: ['irf7inflammatory pain', 'spinal cord', 'high throughput sequencing', 'nf-κ', 'b', 'inflammatory cytokines'] 
+
+TOP-K 43: ['pregnancy adiponectin', 'pregnancy adipokines', ['infant negative affect'], 'pregnancy adiposity', 'negative affect', 'cord blood leptin', 'offspring risk', 'novel biomarkers'] 
+
+Reference 43: ['adiponectin', 'leptin', 'adipokine', 'adiposity', 'pregnancy', 'infant negative affect'] 
+
+TOP-K 44: ['mfg-insula/macc connectivity', 'middle frontal gyrusand insula', 'mfg function', 'depressive symptom', 'insular function', 'peripheral inflammation', 'physical abuse', 'childhood trauma', 'connectivity alteration', 'important roles', 'words count'] 
+
+Reference 44: ['bipolar ii depression', 'amplitude of low-frequency fluctuation', 'functional connectivity', 'childhood adversity', 'interleukin-1β', 'moderation analysis'] 
+
+TOP-K 45: ['hapoeε4 rats', 'parity', 'primiparous hapoeε4 rats', 'non-spatial cognitive strategy', 'wildtype rats', 'memory retrieval', 'neuroimmune milieu', 'active new neurons', 'region-specific manner'] 
+
+Reference 45: ['hippocampus', 'frontal cortex', 'neurogenesis', 'kynurenine', 'female', 'alzheimer’s disease', 'apoe', 'pregnancy'] 
+
+TOP-K 46: ['innate immunity', ['marital status'], ['immunity'], 'males', ['social health'], 'global cognition', 'plasma neurodegeneration markers', 'total brain volume', 'total tau', 'plasma levels'] 
+
+Reference 46: ['social health', 'marital status', 'neurodegeneration', 'immunity', 'mediation'] 
+
+TOP-K 47: ['ethanol-naïve males', 'poly', ['aie'], 'adult male nts', 'adult males', 'mg/kg poly', 'central cytokine response', 'females', 'fever response', 'adult female responsiveness', 'similar fever response', 'c'] 
+
+Reference 47: ['intermittent ethanol exposure', 'aie', 'adolescence', 'sex differences', 'fever', 'tlr3poly i:cil-1neuroimmune', 'brain'] 
+
+TOP-K 48: ['tertiary post-tbi lesions', 'tertiary neuroinflammatory processes', 'pediatric tbi', ['white matter lesions'], 'altered behaviors', 'close communication'] 
+
+Reference 48: ['tertiary lesions', 'chronic traumatic encephalopathy', 'microglia', 'white matter lesions', 'brain functional connectivity'] 
+
+TOP-K 49: ['p2x7r signaling', ['microglia'], 'p2x7r deficiency', 'gabaergic interneurons', 'anti-inflammatory phenotype', 'seizure severity', 'neuronal genes', 'seizures', 'genetic models'] 
+
+Reference 49: ['p2x7 receptor', 'status epilepticus', 'epilepsy', 'cell type-specific function', 'gab', 'aergic interneurons', 'microglia'] 
+
+TOP-K 50: ['chemokine activity', 'antenatal immune activity', 'immune dysregulation', ['low birthweight'], 'gestational age', 'pakistani population', 'high anxiety', ['pregnancy'], 'longitudinal change'] 
+
+Reference 50: ['anxiety', 'immune', 'pregnancy', 'postpartum', 'perinatal', 'women’s health', 'cytokine', 'chemokine', 'crp', 'low birthweight', 'small for gestational age', 'anxiety trajectories'] 
+
+TOP-K 51: ['neurotransmitter release', 'stimulant use', 'intervention-related decreases', 'oxytocin receptor genes', 'intervention effects', 'self-reported frequency', 'neural function', 'significant reductions'] 
+
+Reference 51: ['contingency management', 'hiv', 'men who have sex with men', 'methamphetamine', 'dna methylation', 'oxytocin', 'positive affect'] 
+
+TOP-K 52: [['tai chi'], ['insomnia'], 'insomnia treatment', 'breast cancer survivos', 'breast cancer survivors', 'disease recurrence', 'cognitive behavioral therapy', ['inflammation']] 
+
+Reference 52: ['breast cancer', 'cognitive-behavioral therapy', 'gene expression', 'inflammation', 'insomnia', 'tai chi'] 
+
+TOP-K 53: ['gsdmd-dependent pyroptosis', 'gsdmd pathway', 'meth', 'meth exposure', 'methamphetaminemeth exposure', 'cell membrane', 'rats', 'sh-sy5y cells', ['dopamine'], 'pore formation', 'vta', 'extracellular dopamine level', 'pore formation blockade', 'selective inhibition', 'overflow'] 
+
+Reference 53: ['methamphetamine', 'dopamine', 'pyroptosis', 'gsdmd', 'reinforcement', 'motivation'] 
+
+TOP-K 54: ['job stress-migraine link', 'psychosocial job stress', 'hs-crp/glyca levels', 'ltpa', 'job stress-tth link', 'glyca levels'] 
+
+Reference 54: ['physical activity', 'migraine', 'tension-type headache', 'c-reactive protein', 'acute phase glycoproteins', 'occupational health', 'occupational stress'] 
+
+TOP-K 55: ['il-6', 'il-6 reactivity', 'tka surgery', ['total knee arthroplasty'], 'pain', 'insomnia', 'patients', 'clinical pain 3-months'] 
+
+Reference 55: ['knee osteoarthritis', 'total knee arthroplasty', 'pain severity', 'interleukin-6insomnia'] 
+
+TOP-K 56: ['microbiome disruption', 'cognitive decline', 'unique chemotherapy-induced microbiome alterations', 'inflammation'] 
+
+Reference 56: ['cognitive impairment', 'subjective cognition', 'objective cognition', 'cytokines', 'differential abundance analysis', 'microbial diversity'] 
+
+TOP-K 57: ['post-exertional malaise', 'gulf war illness', 'exercise', 'study outcomes', 'exercise intensity', 'elevated risk', 'undesirable effects', 'response effects'] 
+
+Reference 57: ['cognition', 'health', 'patient reported outcome measures', 'physical activity', 'prescriptions'] 
+
+TOP-K 58: ['prenatal stress-induced cognitive impairment', 'maternal gut microbiota', 'stress', 'neurodevelopment effects', 'β-guanidinopropionic acidresults', 'rat offspring', 'stress-induced increase', 'behavioral changes'] 
+
+Reference 58: ['prenatal stress', 'microbiota', 'gpa', 'cognitive impairment', 'ampk'] 
+
+TOP-K 59: [['depression'], 'microglial phagocytosis', 'strem2', 'alzheimer', 'microglial marker', 'impaired microglial function', 'disease', 'early stages', 'known risk factor'] 
+
+Reference 59: ['depression', 'alzheimer’s disease', 'microglias', 'trem2amyloid beta', 'phagocytosis'] 
+
+TOP-K 60: [['antifouling strategies'], 'antifouling technologies', 'marine equipment', ['seawater resource utilization'], 'future research'] 
+
+Reference 60: ['biofouling', 'antifouling strategy', 'seawater resource utilization', 'environmentally friendly', 'fouling-release'] 
+
+TOP-K 61: ['n2o removal catalysts', 'main n2o removal methods', 'efficient n2o removal catalyst', 'various catalysts', 'previous mechanism studies', 'theoretical basis', 'improvement strategies', 'future development', 'data support'] 
+
+Reference 61: ['nitrous oxide', 'direct catalytic decomposition', 'scr', 'density functional theory', 'modification and rationally designed'] 
+
+TOP-K 62: ['hydrogel beads', 'stimuli-responsive properties', 'smart adsorption behaviors', 'adsorption mechanisms', 'aqueous solutions', 'unique properties', 'synthetic polymers', 'advanced techniques', 'recent advances', 'various contaminants', 'preparation'] 
+
+Reference 62: ['spherical hydrogels', 'microgels', 'organic dyes', 'heavy metals', 'emerging contaminants', 'water purification'] 
+
+TOP-K 63: ['cancer immunotherapy', 'traditional inorganic nanoparticles', 'various cancer types', 'cancer treatment', 'patient outcomes', 'small molecules', 'immune system', 'combined treatment approaches', 'future development directions', 'health field', 'cancer cells', 'transformative impact', 'many challenges', 'resistance mechanisms', 'significant opportunities'] 
+
+Reference 63: ['nanomaterials', 'tumor associated macrophages', 'cancer vaccines', 'immune cell targeting', 'combination nano-immunotherapy'] 
+
+TOP-K 64: ['electrospinning technology', 'fiber-based single-mode sensors', 'fiber-based sensors', 'current challenges', ['multifunctional sensors'], 'high-performance sensors', 'flexible temperature sensors', 'manufacturing methods', 'sensitive materials', 'performance matching', 'future advancements', 'forward-looking perspective', 'integration', 'sensitive mechanisms', 'exhaustive review'] 
+
+Reference 64: ['electrospinning', 'nanofibers', 'single function sensors', 'multifunctional sensors'] 
+
+TOP-K 65: ['electrocatalytic co2 rr', 'co2 rr electrocatalysis', 'mofs', 'electrocatalytic co2rr performance', 'cofs-based hybrid materials', 'synthetic fuels', 'cofs hybrid applications', 'novel characteristics'] 
+
+Reference 65: ['electrocatalysis', 'metal–organic frameworks', 'covalent-organic frameworks', 'co2-reduction reaction', 'faradic efficiency'] 
+
+TOP-K 66: ['sc-co2', 'biomass', 'physi-chemical properties', ['economic performance'], 'future perspectives', 'different routes', 'renewable conversion', ['working mechanisms'], 'reaction medium', 'influential parameters'] 
+
+Reference 66: ['supercritical carbon dioxide', 'biorefinery', 'working mechanism', 'physiochemical properties', 'economic performance'] 
+
+TOP-K 67: ['electrolyzer designs', 'electrolysis conditions', 'co2 mass transport', 'co2 mass transfer', 'eco2rr industrialization', 'potential solutions', 'effects', 'details strategies', 'comprehensive discussion'] 
+
+Reference 67: ['electrochemical co2 reduction reaction', 'mass transport', 'electrode', 'electrolyzere', 'co2rr performance'] 
+
+TOP-K 68: ['3d c3n4', 'various 3d c3n4-based photocatalysts', 'co2 photoreduction', 'photocatalytic performance', 'depth study'] 
+
+Reference 68: ['carbon nitride', 'co2 reduction', 'greenhouse gas', 'photocatalysis', 'porous structure'] 
+
+TOP-K 69: ['lmnps-based conductive hydrogels', ['conductive hydrogels'], ['interfacial engineering'], 'lmnps', 'various interfacial stabilizers', 'in-depth overview', 'versatile applications', 'current challenges', 'future prospects'] 
+
+Reference 69: ['liquid metal nanoparticle', 'conductive hydrogel', 'interfacial engineering', 'motion detection', 'human–machine interface'] 
+
+TOP-K 70: ['new hef reactors', 'catalysts', 'catalyst design', 'multiple perspectives', 'parameter optimization'] 
+
+Reference 70: ['heterogeneous electro-fenton', 'copper-based catalyst', 'emerging pollutants', 'machine learning', 'heterogeneous electro-fenton reactor'] 
+
+TOP-K 71: ['photothermal catalysis', ['light-assisted thermocatalysis'], ['heat-assisted photocatalysis'], 'light-driven thermal catalysis', 'highlight potential research directions', 'future limitations'] 
+
+Reference 71: ['photothermal catalytic', 'air pollutants', 'light-assisted thermocatalysis', 'heat-assisted photocatalysis', 'light-driven thermocoupled catalysis'] 
+
+TOP-K 72: ['uio-66 derivatives', 'catalytic biomass conversion', 'biomass conversion', 'catalytic mechanisms', ['catalytic performance']] 
+
+Reference 72: ['biochemical conversion', 'ui', 'o-66properties', 'catalytic performance'] 
+
+TOP-K 73: [['membrane fouling'], 'bfs', 'bioflocculantsin anmbrs', 'future research', 'conventional methods', 'specific investigations'] 
+
+Reference 73: ['anaerobic membrane bioreactors', 'membrane fouling', 'bioflocculant', 'membrane fouling mitigation'] 
+
+TOP-K 74: ['selective catalytic reduction', ['co-scr'], 'transition metal catalystsfor co-scr', 'efficient tmcs', 'practical factorson co-scr', 'reaction mechanisms'] 
+
+Reference 74: ['co-scr', 'transition metal catalysts', 'nitrogen oxides', 'carbon monoxide', 'environmental catalysis'] 
+
+TOP-K 75: ['crystal engineering', 'new energetic compounds', 'artificial intelligence approaches', 'powder modification techniques', 'key topics', 'future development', 'energy amount increases'] 
+
+Reference 75: ['energetic materials', 'high-nitrogen heterocycle', 'computational design', 'explosive'] 
+
+TOP-K 76: [['multifunctional flexible sensor'], 'tire structure deformation', 'sensor sensitivity', 'double conductive network', 'inner temperature'] 
+
+Reference 76: ['multifunctional flexible sensor', 'smart tire', 'non-destructive monitoring', 'synergistic conductive network'] 
+
+TOP-K 77: ['organic-inorganic hybrid mxene material', 'synergetic ionotronic property', '2d sandwich heterojunction', 'robust memristor', 'experimental demonstration', 'theoretical analysis'] 
+
+Reference 77: ['m', 'xene, memristor', 'surface engineering2d heterostructure', 'charge trapping', 'filamentary conduction'] 
+
+TOP-K 78: ['htfsi-mta-tms electrolyte', 'reversible proton storage property', 'excellent long-term cycling stability', 'wide electrochemical window', 'first time', 'co0 .2 mn0 .2', 'mn0 .2 co0 .2'] 
+
+Reference 78: ['acid-alkali coordinated regulation', 'organic liquid electrolytes', 'high-voltage proton batteries', 'metallic oxide cathode', 'mo', 'o3'] 
+
+TOP-K 79: ['sirna delivery system', 'di-aki', 'ktp modification', 'renal tubule selectivity', 'synergistic mitigation', 'multiple intrinsic biological activities', 'promising therapeutic target'] 
+
+Reference 79: ['acute kidney injury', 'nanoparticles', 'gene delivery', 'renal targeting', 'spermidine'] 
+
+TOP-K 80: [['dark chocolate'], 'significant non-linear dose-response relationships', 'nitric oxide', 'flavonoid dosage', 'cocoa dosage', 'studies', 'do/report testing', 'eligible cts', 'independent groups', 'sample sizes', 'appropriate design'] 
+
+Reference 80: ['cocoa', 'dark chocolate', 'flavonoids', 'inflammation', 'oxidative stress', 'meta-analysis'] 
+
+TOP-K 81: [['cognitive function'], 'functional independence', 'ad patients', ['physical function'], 'ad individuals', 'exercise interventions', 'exercise intervention', 'systematic reviews'] 
+
+Reference 81: ['alzheimer’s disease', 'physical activity', 'exercise', 'cognitive function', 'physical function', 'evidence synthesis'] 
+
+TOP-K 82: ['flaxseed supplementation', 'moderate-certainty evidence', 'bmi', 'studies', ['obesity indices'], 'body weight', 'adjuvant therapy', 'heavy metals', 'wc results', ['meta-analysis'], 'grade evaluation', ['systematic review'], '● flaxseed', 'intervention typesand dosage', 'blind evaluation'] 
+
+Reference 82: ['flaxseed', 'linum usitatissimum', 'obesity indices', 'systematic review', 'meta-analysis'] 
+
+TOP-K 83: ['sleep quality', 'adverse events', 'passive surveillance', 'blinding success', 'adverse effects', 'study'] 
+
+Reference 83: ['insomnia', 'sleep initiation and maintenance disorders', 'chamomile', 'matricaria chamomilla', 'traditional persian medicine', 'integrative medicine', 'meta-analysis'] 
+
+TOP-K 84: [['hibiscus sabdariffa'], 'h', 'sabdariffa extract', 'obesity treatment', 'first study', 'clinical benefit', 'pooled effects', 'safety concern'] 
+
+Reference 84: ['hibiscus sabdariffa', 'roselle', 'sour tea', 'obesity', 'overweight'] 
+
+TOP-K 85: ['chronic pain management', ['tuina'], ['chronic pain']] 
+
+Reference 85: ['tuina', 'chronic pain', 'bibliometric analysis', 'co-citation analysis'] 
+
+TOP-K 86: ['post-void residual volume', 'medph', 'med group', 'usg kub parameters', 'ipss score', 'chakra intensity', 'sleep onset', 'incomplete bladder'] 
+
+Reference 86: ['biofieldchakra', 'integrative medicineprana', 'quality of life'] 
+
+TOP-K 87: ['post-stroke depression', 'acupuncture treatment', ['research direction'], 'global trends', 'first bibliometric analysis', ['bibliometric analysis']] 
+
+Reference 87: ['acupuncture', 'post stroke depression', 'bibliometric analysis', 'vo', 'sviewer', 'research direction'] 
+
+TOP-K 88: ['bryonia/spongia comp', 'anthroposophic remedies', 'integrative-anthroposophic guideline', 'larynx/apis comp', 'chest embrocation', 'external application', 'lavender oil', 'supportive treatment'] 
+
+Reference 88: ['delphi process', 'pseudocroup', 'croup', 'anthroposophic medicine', 'bryonia/spongia comp.larynx/apis comp'] 
+
+TOP-K 89: ['tn treatment', 'fc', 'mc treatment', 'constipation symptom', 'shallow needling', 'prolonged retention', 'needle sensation', 'patients'] 
+
+Reference 89: ['thumbtack needling', 'functional constipation', 'pragmatic clinical trial', 'randomized controlled trial'] 
+
+TOP-K 90: ['anthracycline-induced cardiotoxicity', 'shenmai injection therapy', 'cardiac toxicity', 'methodological robustness', 'clinical decision-making', 'thorough supplementary materials', 'extant international guidelines', 'controlled trials', 'high standards', 'present study', 'valuable insights', 'inaugural evaluation'] 
+
+Reference 90: ['shenmai injection', 'anthracycline', 'cardiotoxicity', 'efficacy', 'safety'] 
+
+TOP-K 91: [['music therapy'], ['ophthalmic surgery'], 'ophthalmic procedures', 'patient well-being', 'diastolic blood pressure', 'positive effect'] 
+
+Reference 91: ['music therapy', 'ophthalmic surgery', 'cataract surgery', 'intravitreal injection', 'anxiety', 'pain', 'meta-analysis'] 
+
+TOP-K 92: ['microvascular decompressionsurgery', 'transcutaneous electrical acupoint', 'dizziness rate', 'patient recovery', 'surgery', 'daily practice', 'h', 'surgeryand severity'] 
+
+Reference 92: ['acupuncture', 'dizziness', 'hemifacial spasm', 'microvascular decompression'] 
+
+TOP-K 93: [['auriculotherapy'], 'sham group', 'sham groups', 'vaccaria seeds', 'non-invasive complementary therapy', 'depression scores', 'adhesive tape', 'controlled clinical trial', 'study', 'intervention group', 'specific points', 'significant differences'] 
+
+Reference 93: ['auriculotherapy', 'ear acupressure', 'depression', 'older adulthood'] 
+
+TOP-K 94: [['traditional thai massage'], ['muscle fatigue'], 'fatigue-inducement protocol', 'control condition', 'effective intervention', 'median frequency', 'first study'] 
+
+Reference 94: ['traditional thai massage', 'muscle fatigue', 'stretching', 'muscle power', 'electromyography'] 
+
+TOP-K 95: ['remote mindfulness self-management course', 'self-management', 'mindfulness courses', 'mindfulness', 'stress management', 'remote delivery', 'mixed-methods study', 'minimal qualitative data', 'diabetes', 'qualitative findings', 'important skills', 'type'] 
+
+Reference 95: ['remote mindfulness intervention for type 2 diabetes self-management', 'qualitative research type 2 diabetes', 'self-management of type 2 diabetes', 'self-efficacy and type 2 diabetes self-management'] 
+
+TOP-K 96: ['systolic blood pressure', ['antihypertensive drugs'], 'triglycerides chinese herbal medicine', 'high blood pressure', 'herbs meta-analysis'] 
+
+Reference 96: ['blood pressure', 'triglycerides', 'haemoglobin', 'obesity', 'hypertension', 'complementary', 'herbs', 'antihypertensive drug'] 
+
+TOP-K 97: ['ms', 'pa', 'aerobic pa protocol', 'low-grade inflammation', 'positive influence', 'reliable complementary therapy'] 
+
+Reference 97: ['inflammation', 'multiple sclerosis', 'physical activity', 'complementary therapies', 'tertiary prevention'] 
+
+TOP-K 98: ['insufficient tcmi-abc purity/potency', 'tcm products', 'rcts', 'china', 'malignant arrhythmia', 'methodological weaknesses', 'additional clinical value', 'patients', 'global use', 'major studies', 'allocation concealment'] 
+
+Reference 98: ['acute myocardial infarction', 'traditional chinese medicine', 'traditional chinese medicine injections', 'systematic review'] 
+
+TOP-K 99: ['musculoskeletal changes', 'clinical implications', 'biological responses', 'robust research'] 
+
+Reference 99: ['osteopathic manipulative treatment', 'biological', 'review', 'manual therapy'] 
+
+TOP-K 100: ['novel hybrid auxetic foam', 'hybrid auxetic foam', 'exceptional energy dissipation performance', 'hybrid auxetic materials', 'self-healing property', 'shear thickening properties', 'auxetic cell structures', 'high performance', 'synergistic effect', 'force reduction improvementof'] 
+
+Reference 100: ['auxetic foam', 'shear thickening gel', 'impact protection', 'self-healing'] 
+
+TOP-K 101: ['cu2o', 'thermal management materials', 'excellent reversible thermochromic capacities', 'composites', 'photothermal conversion', 'thermal conductivity', 'red transformation'] 
+
+Reference 101: ['flexible composites', 'multifunctional properties', 'polymer-matrix composites', 'thermochromic microcapsules'] 
+
+TOP-K 102: ['pla-based plastics', 'pla-based composites', 'cotton stalk fibers', 'pla-based composite', 'high impact resistance', 'cost-effective applications', 'crystalline performance', 'thermal stability', 'various properties', 'novel strategy'] 
+
+Reference 102: ['natural fibre composites', 'polylactic acid', 'impact behaviour', 'injection molding', 'crystallization control'] 
+
+TOP-K 103: ['3d braided composites', 'trans-scale damage analysis', 'porosity', 'unsupervised machine learning method', 'trans-scale modelling', 'real multiscale structure', ['mechanical properties'], 'experimental data', 'reduction ratio', 'damage modes'] 
+
+Reference 103: ['braided composites', 'multiscale modeling', 'defects', 'mechanical properties', 'damage mechanics'] 
+
+TOP-K 104: ['electromagnetic hopkinson bar', 'temperature-dependent interlaminar fracture toughness', 'dynamic dcb tests', 'mode', ['fracture toughness'], 'failure mechanism', 'analytical model', 'rate', 'different temperatures', 'rate dependency'] 
+
+Reference 104: ['polymer-matrix composites', 'fracture toughness', 'high-temperature properties', 'impact behavior', 'fractography'] 
+
+TOP-K 105: ['cnw@n-al2o3 nano hybrids', 'micro-nano-multi-level hybrid network structure', 'low interfacial thermal resistance', 'facile electrostatic self-assembly method', 'high-performance thermal interface material', 'pdms composite', 'high thermal conductivity', ['electrical insulation']] 
+
+Reference 105: ['carbon nanotube whisker', 'alumina', 'thermal conductivity', 'electric insulation', 'silicone rubber composites'] 
+
+TOP-K 106: [['checkerboard-shaped lay-up design'], 'checkerboard-shaped design', 'ballistic tests', 'ballistic performances', 'fe model', 'full-converge design', 'tensile failure', 'energy absorption'] 
+
+Reference 106: ['ballistic composites', 'checkerboard-shaped lay-up design', 'polycarbonate', 'aramid plain-woven fabric', 'ballistic mechanisms'] 
+
+TOP-K 107: ['mxene sedimentas filler', 'spva/mms multilayered composite film', ['multilayered composite film'], ['syndiotacticity-rich poly'], 'outstanding in-plane thermal conductivity', 'polymeric substrate', 'significant water resistance', 'x band', 'advantageable flame retardancy', 'novel kind'] 
+
+Reference 107: ['multilayered composite films', 'syndiotacticity-rich poly', 'm', 'xene sediment', 'electromagnetic interference shielding', 'thermal conductivity'] 
+
+TOP-K 108: [['pa66 fibers'], 'current two-step rf-free systems', 'traditional rfl system', 'high interfacial adhesion performance', 'equal interfacial adhesion', 'system', 'high cost', 'complex process'] 
+
+Reference 108: ['pa66 fiber', 'environmentally friendly', 'dipping treatment', 'interfacial adhesion', 'adhesion mechanism'] 
+
+TOP-K 109: ['phenolic hydroxyls', 'phenolic structures', 'kraft softwood lignin', 'interfacial adhesion', 'tensile properties', 'dynamic mechanical behaviors'] 
+
+Reference 109: ['fused depositional modeling', 'lignin polymer composites', 'structure-property relationship'] 
+
+TOP-K 110: ['mxene porous microspheres', 'multi-interfacial conductive structures', '3d-arranged al2o3 platelets', 'facile vortex flow technique', 'electrical insulation', 'epoxy resin'] 
+
+Reference 110: ['polymer-matrix composites', 'transport properties', 'electromagnetic interference shielding', 'electrical properties', 'isolated networks'] 
+
+TOP-K 111: ['thermal heat transfer parameters', ['bayesian optimization'], '3d parameters', 'bo', 'meaningful parameters'] 
+
+Reference 111: ['bayesian optimization', 'glass/epoxy composites fatigue testing', 'thermal properties', 'ir imaging'] 
+
+TOP-K 112: ['reversible chemical networks', 'composite fibers', ['sheath-core structures'], 'room-temperature self-healing sheath-core', 'human motion detection', 'personal thermal management', ['joule heating']] 
+
+Reference 112: ['strain sensing', 'joule heating', 'sheath-core structures', 'self-healing'] 
+
+TOP-K 113: ['bio-inspired fractal energy-absorbing structures', 'energy absorption mechanisms', 'basic geometry units', 'sub-circle sets', 'hierarchical fractal structures', 'composite sandwich structures', 'self-similar carbon fiber', 'additive manufacturing'] 
+
+Reference 113: ['polymer-matrix composites3d printing', 'mechanical properties', 'finite element analysis', 'bio-inspired structures'] 
+
+TOP-K 114: ['palm tree', 'cfrp toughness', 'cfrp strength'] 
+
+Reference 114: ['carbon fiber', 'carbon nanotubes', 'polymers', 'interface', 'fracture toughness'] 
+
+TOP-K 115: ['ep composites', 'amphiphilic catalyst', 'selective c-n bond cleavage', 'ep degradation', 'new polyurethane', 'carbon fiber', 'resin product'] 
+
+Reference 115: ['amine-cured epoxy resin', 'recycling', 'degradation', 'dodecylbenzene sulfonic acid', 'c-n bond'] 
+
+TOP-K 116: ['ppy/go composites', 'ema performance', 'thermal reduction', 'excellent rland eabwith', 'reduction temperature'] 
+
+Reference 116: ['graphene oxide', 'polypyrrole', 'electromagnetic absorption', 'dielectric loss'] 
+
+TOP-K 117: ['ml-based multiscale approach', 'ml model', 'trial-and-error methods', 'resin molecules', 'traditional finite element', ['mechanical properties'], 'experimental ones', 'good agreement'] 
+
+Reference 117: ['machine learning', 'multiscale modeling', 'mechanical properties', 'resins', 'cfrps'] 
+
+TOP-K 118: ['finite element method', 'electric field distribution', 'optimal ud', 'mechanical properties', 'j cm −', 'sandwich structure work'] 
+
+Reference 118: ['trilayer structured nanocomposite', 'bnkt-ssn n', 'ps', 'breakdown strength', 'energy storage'] 
+
+TOP-K 119: ['composite foam', 'conductive network', 'excellent reversible compressibility', 'high temperature', 'tunable emi', 'various deformations', 'single foam', 'dc supply'] 
+
+Reference 119: ['multifunctional composites', 'smart materials', 'mechanical properties'] 
+
+TOP-K 120: ['wetland hydrologic risk', 'wetland hydrologic stress', 'satellite data', 'ecologically-relevant wetland hydrologic metrics', 'stress', 'transferable approach', 'large scales', 'widespread evidence'] 
+
+Reference 120: ['wetland hydrology', 'hydrologic stress', 'climate change'] 
+
+TOP-K 121: ['lake shrinkage', ['climate change'], ['anthropogenic activities'], ['inner mongolia plateau'], 'precipitation intensity', 'inner mongolian plateau', 'rf methods', 'significant temporal variability', 'moderate rainfall', 'catchment perspective', 'impacts', 'lake areas', 'primary causes', 'evolution'] 
+
+Reference 121: ['anthropogenic activities', 'climate change', 'ecological restoration', 'inner mongolia plateau', 'lake'] 
+
+TOP-K 122: ['glcm texture indices', ['historical orthophotographs'], 'landscape composition', 'past years', 'community responses', 'present day material', 'models', 'years', 'dynamic metrics', 'valuable addition'] 
+
+Reference 122: ['ecological communities', 'extinction debt', 'gray level co-occurrence matrix', 'historical orthophotographs', 'landscape ecology', 'time lags', 'urban ecology'] 
+
+TOP-K 123: ['npp changes', 'annual npp', 'topographic factors', ['climate factors'], 'significant increase', 'threshold effect'] 
+
+Reference 123: ['npp', 'spatiotemporal variation', 'response', 'climatic factor', 'yangtze river economic belt'] 
+
+TOP-K 124: ['forest chlorophyll concentration', 'chlorophyll concentration retrieval', '3d rt simulations', 'spectral information', 'vegetation canopy structure', 'leaf area index disturbance', 'soil backgrounds', 'saturation effect'] 
+
+Reference 124: ['vegetation indices', 'chlorophyll concentration', 'saturation effect3-d radiative transfer model'] 
+
+TOP-K 125: ['condition indicators', 'metric flexibility', 'key habitats', 'simple evidence-based monitoring', 'indicator framework', 'literature review', 'comparable habitat condition assessments', 'habitat types', 'workshops iterations'] 
+
+Reference 125: ['ecological monitoring', 'management intervention', 'stakeholders engagement', 'framework development', 'rapid assessment'] 
+
+TOP-K 126: ['storm tides', 'compound-flooding events', 'easy-to-use empirical formula', 'copula-based analysis', 'compound flooding', 'conventional rainfall-based thresholds', 'coastal urban areas', 'heavy rainfall', 'compound-flooding formula', 'significant concern'] 
+
+Reference 126: ['compound-flooding threshold', 'coastal urban flooding', 'copula analysis', 'flood warning'] 
+
+TOP-K 127: ['white stork nest material', 'microplastics', 'microplastics amount', 'meadow coverage', 'nests', 'cattle density', 'land cover', 'farming type', 'common types'] 
+
+Reference 127: ['agriculture', 'environmental pollution', 'ftir'] 
+
+TOP-K 128: [['urban agglomerations'], 'key factors', 'rapid urbanization', 'distant urban agglomerations', 'economic development', 'energy intensity', 'industrial structure', 'yreb increases', 'cei', 'changes', 'upper reaches'] 
+
+Reference 128: ['carbon emissions', 'city-level carbon inequality', 'mean logarithmic deviation-index decomposition analysis', 'urban agglomerations', 'yangtze river economic belt'] 
+
+TOP-K 129: ['plant factors', 'plant community stability', 'light grazing', 'soil factors', 'grazing intensity treatment', 'heavy grazing', 'spec-occu plot', 'plant species', 'practice'] 
+
+Reference 129: ['grazing intensity', 'average variation degree', 'cohesion index', 'indicator species', 'driving factors', 'alpine meadow'] 
+
+TOP-K 130: ['riverine urban agglomerations', ['riverine wetlands'], 'riverine wetlands landscape', 'pressure-state-response model', 'object-oriented cart model', 'high-resolution identification'] 
+
+Reference 130: ['riverine wetland', 'urban agglomerations', 'cart', 'landscape index', 'p-s-r model'] 
+
+TOP-K 131: ['hfi', ['ecosystem surfaces'], 'different ecosystem surfaces', 'ecosystem surfaces gdp', 'main factors', 'new classification', 'spatial distribution'] 
+
+Reference 131: ['ecosystem surface', 'human footprint index', 'habitat quality', 'multi-factor knowledge', 'tree cover'] 
+
+TOP-K 132: ['water conservation capacity', ['water conservation'], 'marine-terrestrial gradient', 'natural factors', 'southwest coastal areas', 'evergreen coniferous forests', 'high-value areas', 'pearl river delta', 'socio-economic determinants', 'significant patterns', 'spatial differences', 'coastal areasfollows'] 
+
+Reference 132: ['water conservation', 'ecosystem services', 'spatiotemporal changes', 'coastal regions'] 
+
+TOP-K 133: [['sheep grazing'], ['wild bees'], 'livestock pastures', 'pasture plots', 'non-bee insects', 'insects', 'diverse communities', 'diversity'] 
+
+Reference 133: ['pasture management', 'biodiversity', 'wild bees', 'species richness', 'pollinators', 'sheep grazing'] 
+
+TOP-K 134: ['ecosystem stability indicators', ['ecosystem stability'], 'high spatial heterogeneity', 'land use types', 'socioeconomic factors', 'human activities', ['resilience'], 'low levels', 'high levels', 'medium', 'important role'] 
+
+Reference 134: ['resistance', 'resilience', 'ecosystem stability', 'influencing factors', 'land use/land cover', 'the agro- pastoral transitional zone'] 
+
+TOP-K 135: ['planning-scale flood risk assessment', 'hong kong', 'flood risk management', 'flood risk', 'urban planning', 'coastal areas', 'temporal patterns', 'uneven patterns'] 
+
+Reference 135: ['urban flood', 'risk assessment', 'climate change', 'high-density city', 'urban vulnerability', 'planning units'] 
+
+TOP-K 136: ['long-term paddy cultivation', 'long-term paddy field cultivation', ['saline-sodic wasteland'], 'inorganic sulfur adsorption', 'organic amendments', ['sulfur bioavailability'], 'inorganic sulfur fractions', 'soil mineralization', 'soil properties', 'crucial mechanisms'] 
+
+Reference 136: ['saline-sodic wasteland', 'rice cultivation', 'sulfur bioavailability', 'soil salinization reduction'] 
+
+TOP-K 137: ['marbled murrelets', 'marbled murrelet research', 'pam', 'convolutional neural networkto', 'powerful tools'] 
+
+Reference 137: ['bioacoustics', 'convolutional neural network', 'brachyramphus marmoratus', 'machine learning', 'passive acoustic monitoring'] 
+
+TOP-K 138: ['rural housing-industry transformation', 'rural housing-industry transformation process', 'complex adaptability system theory', 'tgra', 'policy suggestions', 'general laws', 'pattern'] 
+
+Reference 138: ['housing-industry transformation', 'sustainable rural development', 'complex adaptive system', 'revitalization path', 'three gorges reservoir area'] 
+
+TOP-K 139: ['granulated waste', 'agricultural materials', 'new materials', ['granules'], 'plant stimulation', 'physical-mechanical properties', 'significant impact', 'detailed studies'] 
+
+Reference 139: ['granulates', 'disc granulation', 'protein waste', 'enzyme activity', 'phytotoxicity'] 
+
+TOP-K 140: ['co-creation methodologies', 'stakeholder inclusion', 'comprehensive ces assessment', 'ces features', 'reunion island', 'individual methods', 'tiered approach', 'holistic understanding', 'local municipality', 'integral part'] 
+
+Reference 140: ['pgis', 'socio-cultural assessment', 'coastal communities', 'island', 'outermost regions'] 
+
+TOP-K 141: ['agricultural landscapes', 'natural habitats', 'sustainable ecosystem service enhancement', 'soil erosion control', 'connectivity zones', 'es interactions hotspots', 'critical connectivity zones', 'study area', 'various es', ['network analysis'], 'carbon storage', 'land managers', 'pioneers integrative es', 'actionable insights', 'key mediators'] 
+
+Reference 141: ['ecosystem services', 'functional connectivity', 'spatial modeling', 'aries', 'in', 'vest', 'network analysis', 'landscape', 'land use'] 
+
+TOP-K 142: ['flood mitigation ecosystem service', 'mechanistic models', 'mechanistic modeling method', 'ecosystem service flows', 'hydrodynamic models', 'service flows', 'supply part', 'benefit part', 'accurate basis'] 
+
+Reference 142: ['flood mitigation service', 'flood peak flow', 'flood volume', 'flood inundation area', 'hydrologic simulation program fortran', 'environmental fluid dynamics code'] 
+
+TOP-K 143: ['climate change', 'south-eastern regions', 'es', 'ecosystem servicesin austria', 'cultural es', 'western mountain regions', 'different governance levels', 'potential impacts'] 
+
+Reference 143: ['global warming', 'nature’s contributions to people', 'biogeographical regions', 'spatial patterns', 'mapping', 'mountain regions'] 
+
+TOP-K 144: ['ecosystem services', 'biodiversity features', 'planning', 'conservation plans', 'costly prioritisations', 'ecological infrastructureis', ['equitable access'], 'overall benefits', 'useful approach', 'explicit consideration', 'splitting input'] 
+
+Reference 144: ['ecological infrastructure', 'spatial prioritisation', 'scenario planning', 'marxan', 'equitable access', 'recreation', 'coastal protection'] 
+
+TOP-K 145: [['floodplains'], 'water quality', 'interdependent es', ['ecosystem services'], 'collaborative learning', 'wastewater pressure', 'comprehensive approach aids decision-making', 'management strategies', 'case study', 'fuzzy cognitive mapping', 'negative impact', 'novel integration', 'serbia new insights'] 
+
+Reference 145: ['ecosystem services', 'fuzzy-cognitive modeling and mapping', 'spatial visualization', 'stakeholders’ perspective', 'floodplains', 'koviljsko-petrovaradinski rit'] 
+
+TOP-K 146: ['large land-use changes', 'land-cover elasticity', 'ecosystem service values', 'ecosystem service value', 'natural capital', 'opportunity costs', 'constant ecosystem service values', 'changes', 'theoretical evidence', 'economical point'] 
+
+Reference 146: ['endogenous ecosystem service value coefficients', 'unit value benefit transfer', 'environmental valuation', 'scarcity', 'inverse demand functions', 'land use change'] 
+
+TOP-K 147: ['local stakeholder involvement', 'woodlands', 'ecosystem service benefits', 'upland areas', 'local stakeholders', 'livestock production', 'woodland creation scenario', 'disadvantageous societal consequences', 'many ecosystem service benefits', 'society'] 
+
+Reference 147: ['ecosystem services', 'woodland creation', 'landscape', 'uplands', 'afforestation'] 
+
+TOP-K 148: ['marine wetland ecosystems', 'wetland ecosystems', 'wetland valuations', 'state-of-the-art methodologies', 'stated preference methods', 'benefits transfer studies', 'valuation studies', 'small island', 'reliability testing', 'empirical research agenda'] 
+
+Reference 148: ['ecosystem services', 'state-of-the-art guidelines', 'small island developing states', 'validity and reliability'] 
+
+TOP-K 149: ['ecosystem services', ['critical ecological assets'], 'services', 'key words', 'climate changes', 'current applications', 'common root'] 
+
+Reference 149: ['rainfall pattern regulation', 'biomimicry', 'zoonotic disease control', 'critical ecological asset'] 
+
+TOP-K 150: ['landscape aesthetics', 'cultural landscape services', 'clss', 'positive sentiments', 'explainable machine learning', 'visitors', 'sentiments', 'relative importance', 'novel systematic framework'] 
+
+Reference 150: ['landscape services', 'social media', 'natural language processing', 'machine learning', 'decision tree'] 
+
+TOP-K 151: ['agri-environmental measures', 'es supply', 'linear elements', 'cultural es supply', 'cultural es', 'several agricultural practices', 'modelling changes', 'high supply'] 
+
+Reference 151: ['agri-environmental schemes', 'field margins', 'buffer strips', 'agricultural practices, modelling', 'scenarios'] 
+
+TOP-K 152: ['i-tree eco tool', 'trees', ['ecosystem service'], 'air emissions', 'global south', 'relevant data'] 
+
+Reference 152: ['i-tree eco', 'remote sensing', 'pollution removal', 'carbon sequestration', 'ecosystem services'] 
+
+TOP-K 153: [['ecosystem services flows'], 'landscape planning', 'ecosystems', 'field data', 'ecosystem boundaries', 'spatial linkages', 'ecosystem characteristics'] 
+
+Reference 153: ['church forests', 'wetlands', 'remote sensing', 'ecosystem service flows', 'gam', 'ms', 'spatial decay'] 
+
+TOP-K 154: ['green belt policy', 'green belt zones', 'urban edge areas', 'ecosystem service multifunctionality', ['ecosystem services'], 'potential development', 'significant variation', 'notable supplies'] 
+
+Reference 154: ['landscape planning', 'multifunctionality', 'planning policy', 'ecosystem services', 'in', 'vest', 'peri-urban'] 
+
+TOP-K 155: [['conservation preferences'], 'individual conservation preferences', 'positive conservation policy outcomes', 'non-use values', 'northeastern namibia', 'proxy conservation preferences', 'case study', 'common pitfalls', 'method', 'significant challenge'] 
+
+Reference 155: ['conservation preferences', 'conservation policy', 'donations', 'contingent valuation', 'deliberative monetary valuation', 'hypothetical bias'] 
+
+TOP-K 156: ['es co-production', 'aquatic es', 'argument analysis methodology', 'es valuation', 'social systems'] 
+
+Reference 156: ['ecosystem services co-production', 'aquatic ecosystem services', 'arguments', 'hydropower', 'nature’s contributions to people'] 
+
+TOP-K 157: ['mesopelagic fishes', 'mesopelagic ecosystem', 'mesopelagic layer', ['ecosystem services'], 'sustainable harvest rates', 'single stock scope', 'ecosystem services valuation', 'sea layer offers', 'big uncertainty'] 
+
+Reference 157: ['mesopelagics', 'economics', 'valuation', 'fishing', 'ecosystem services', 'uncertainty'] 
+
+TOP-K 158: ['ecosystem services', 'agroforestry systems', 'fragile karst desertification areas', 'peak-cluster-depression agroforestry development idea', 'functional biodiversity characteristics', ['ecological restoration'], 'integrated manner'] 
+
+Reference 158: ['agroforestry', 'ecological restoration', 'functional diversity', 'plant traits', 'species richness', 'taxonomic diversity'] 
+
+TOP-K 159: ['auroral ecosystem services', 'socio-ecological systems', 'auroral es', 'exosystem services', 'academic literature', 'initial cices classification', 'future research', 'systematic review', 'decision making', 'space environment', 'multiple opportunities', 'novel introduction'] 
+
+Reference 159: ['aurora', 'aurora borealis', 'northern lights', 'systematic literature review', 'ecosystem services', 'space weather'] 
+
+TOP-K 160: [['nursing aides'], 'condensed rooms', ['nurse aides'], 'limited ventilation', 'home healthcare workers', 'healthcare system', 'unique exposures', ['nurses'], 'physical tasks', 'patients', 'patient handling', 'verbal abuse'] 
+
+Reference 160: ['home healthcare', 'nurses', 'nurse aides', 'occupational exposures'] 
+
+TOP-K 161: [['stroke care system'], 'stroke patients', 'variability', 'functional approach', 'unacceptable outcomes'] 
+
+Reference 161: ['stroke care system', 'complexity', 'functional modelling', 'functional variability, health care professionals'] 
+
+TOP-K 162: ['digital health platform', 'design testing', 'multi-methods approach', 'usability issues', 'product development', 'design requirements', 'early identification', 'translation'] 
+
+Reference 162: ['informal caregivers', 'chronic disease management', 'usability testingm', 'health', 'heart failure', 'dyadic shared care'] 
+
+TOP-K 163: [['surgical instrument counting'], 'operation room nurses', 'multiple simultaneous responsibilities', 'surgical procedures'] 
+
+Reference 163: ['surgical instrument counting', 'workflow', 'efficiency', 'technology'] 
+
+TOP-K 164: ['patient handoffs', 'ep cognitive load', 'handoff procedures', 'eps', 'excess cognitive load', 'emergency departments', ['patient disposition'], 'load transfers', 'most-relevant information', 'state', 'potential measure'] 
+
+Reference 164: ['patient disposition', 'end of shift patient handoffs', 'emergency medicine', 'workload', 'qualitative analysis'] 
+
+TOP-K 165: ['eye drop self-administration', 'elderly individuals', 'predictable eye drop delivery', 'predictable eye drop administration', 'eye drop delivery challenge', 'physical barriers', 'device'] 
+
+Reference 165: ['glaucoma', 'medical device', 'eye drops', 'elderly population', 'device design', 'prototype', 'human factors'] 
+
+TOP-K 166: ['biomedical science', 'medical device development', 'medical devices', ['regulatory standards']] 
+
+Reference 166: ['human factors', 'regulatory standards', 'healthcare', 'normal use'] 
+
+TOP-K 167: ['patient empowerment', 'patients', 'healthcare professional outcomes', 'system factors', 'patient', 'organizational factors', 'care', 'home circumstances laws', 'patient involvement', 'healthcare providers', 'hospital stay', 'medication information', 'seamless transition', 'patient routines', 'key facilitators'] 
+
+Reference 167: ['multimorbidity', 'seips', 'transition of care', 'patient centered care', 'healthcare professionals'] 
+
+TOP-K 168: ['medicare decision-making', 'decision-making tendencies', 'technology utilization', ['technology'], 'medicare decision', 'extant findings', 'adults', 'training support'] 
+
+Reference 168: ['medicare', 'decision-making', 'older adults', 'technology', 'policy'] 
+
+TOP-K 169: ['patient stability', ['infection prevention'], 'patient comfort', ['task sequencing'], 'future research', 'contamination spread', 'priorities', 'salient feedback'] 
+
+Reference 169: ['task sequencing', 'patient care', 'infection prevention', 'high-fidelity simulation', 'nursing'] 
+
+TOP-K 170: ['technology acceptance model', 'adoption', 'non-native institution', 'new devices', 'widespread adoption', 'workflow disruption', 'device design', 'barriers', 'multiple systems'] 
+
+Reference 170: ['medication error', 'organizational tools', 'instrument design', 'technology acceptance'] 
+
+TOP-K 171: ['vap prevention measures', 'professional development opportunities', 'ongoing competency assessments', 'educational opportunities', 'nurses'] 
+
+Reference 171: ['knowledge', 'confidence', 'emergency department', 'mechanically ventilation', 'vap'] 
+
+TOP-K 172: [['disposition decision-making'], 'organization elements', 'current research', ['work system'], 'external environment elements', 'limited information'] 
+
+Reference 172: ['emergency medicine', 'disposition decision-making', 'work systems'] 
+
+TOP-K 173: ['invisible design', 'healthcare environments', 'personal experience', 'innovative approach', ['medication safety'], 'ideal candidates'] 
+
+Reference 173: ['medication safety', 'community pharmacy', 'stakeholder engagement', 'participatory design'] 
+
+TOP-K 174: ['rf-mac', 'patient compliance', 'device comfort', 'objective sleep measures', 'total sleep time', 'marginal evidence'] 
+
+Reference 174: ['venous thromboembolism', 'external mechanical compression', 'sleep quality', 'device usability', 'mobility', 'user-centered design'] 
+
+TOP-K 175: ['family experiences', 'wearables', 'wearable devices', 'physical therapy', 'vital human factor parameters', 'important first-time look', 'novel application', 'important step'] 
+
+Reference 175: ['usability', 'acceptability', 'idiopathic toe walking', 'motor re-learning', 'wearable assistive', 'technology', 'home environment'] 
+
+TOP-K 176: ['icu early mobility', 'patient tubes/lines', 'early mobility', 'tubes/lines', 'staffing burdens', 'secure patient tubes/lines', 'time-consuming task', 'known barrier'] 
+
+Reference 176: ['medical devices', 'healthcare technology', 'patient safety', 'critical care', 'rehabilitation', 'nursing care'] 
+
+TOP-K 177: ['triage assignment', 'nurse experience', 'experienced nurses', 'triage differentiation', 'intermediate score'] 
+
+Reference 177: ['triage', 'decision-making', 'esi', 'experience', 'over-triage', 'under-triage', 'decision evaluation'] 
+
+TOP-K 178: ['upside-down bedpans', 'work-arounds', 'stirrups', ['patient safety'], ['pelvic exams'], 'novel pelvic lift cushion', 'research findings', 'comfortable alternative'] 
+
+Reference 178: ['pelvic exam', 'bedpan', 'speculum', 'pregnancy', 'patient safety', 'technological innovation'] 
+
+TOP-K 179: ['sts', 'wrs', 'junior doctors', 'inter-professional working', 'healthcare information technology', 'senior house officers', 'family/carer communication', 'human factors ergonomics', 'sts approach', 'day-to-day care', 'wr practice', 'nursing staff', 'large acute teaching hospital', 'ring fenced time', 'medical school'] 
+
+Reference 179: ['ward rounds', 'socio-technical system', 'interns and shos', 'medical education', 'acute hospital'] 
+
+TOP-K 180: ['monetary policy stance', 'actual monetary policy actions', 'bank stock prices', 'communication tone', 'sentiment indices', 'particular financial markets', 'press conference sentiment', 'communication events', 'policy makers', 'significant impact'] 
+
+Reference 180: ['ecb', 'monetary policy', 'communication', 'sentiment analysis', 'fiscal costs', 'financial markets'] 
+
+TOP-K 181: ['cross-border deal investment decisions', 'positive post-takeover long-term performance', 'blockholder coalitional value', 'cbd', 'voting power coalitions', 'corporate risk-taking levels', 'hedge funds', 'coalition effect', 'top block holder', 'pension funds administrators', 'results', 'acquirer firms', 'likelihood', 'mean values', 'number'] 
+
+Reference 181: ['blockholders coalitions', 'power indices', 'cross-border deals', 'institutional ownership', 'latin america'] 
+
+TOP-K 182: ['london stock exchange firms', 'managerial expenditure decisions', 'economic crises', ['industry concentrations'], 'stock returns', ['industry concentration'], 'dynamic panel methods', 'mixed linear models', 'differential impact', 'uses panel data'] 
+
+Reference 182: ['industry concentration', 'leverage', 'inventories', 'r&d', 'sga', 'fixed asset additions', 'firm value'] 
+
+TOP-K 183: [['income inequality'], ['financial access'], 'low-income countries', 'financial services', 'credit unions', 'inclusive financial access', ['quantile regression'], 'commercial banks', 'innovative financial technologies', 'cooperative banks', 'income inequality increases', 'negative impact'] 
+
+Reference 183: ['financial access', 'income inequality', 'cooperative and commercial banks', 'quantile regression'] 
+
+TOP-K 184: ['short-term mispricing', 'intertemporal risk-return tradeoff', 'short-term overpricing', 'positive risk-return tradeoff', ['investor sentiment'], 'positive risk-return relation', 'uninformed investors', 'trade activity', 'distortion'] 
+
+Reference 184: ['intertemporal risk-return relation', 'optimistic and pessimistic expectation', 'overpricing and underpricing', 'investor sentiment', 'business cycle', 'short selling'] 
+
+TOP-K 185: ['valuation difficulty', 'past returns', 'time-series variation', 'dox', 'considerable overextrapolative behavior', ['target prices'], 'positive impact', 'extrapolative weightingcaptures decay'] 
+
+Reference 185: ['financial analysts', 'expectation formation', 'target prices', 'extrapolation in the time-series', 'extrapolation in the cross-section'] 
+
+TOP-K 186: [['personal guarantees'], ['physical collateral'], 'proxies', 'business startups', 'entrepreneurial intentions', 'physical assets', 'potential entrepreneurs'] 
+
+Reference 186: ['physical collateral', 'personal guarantees', 'entrepreneur'] 
+
+TOP-K 187: ['international mergers', ['international competitiveness'], ['international corporate investment'], 'firm resources'] 
+
+Reference 187: ['international mergers and acquisitions', 'international competitiveness', 'firm resources and capabilities', 'international corporate investment'] 
+
+TOP-K 188: ['macroeconomic signals', 'countercyclical buffer', 'solvency risk models', 'macroprudential policy', 'successful prudential policies', 'fitted capital adequacy ratios', 'macro signals', 'fitting countercyclical buffer', 'regulatory buffer implementation', 'charlier densities', 'flexible gram', 'distributional assumptions', 'solvency threshold'] 
+
+Reference 188: ['prudential regulation', 'risk metrics', 'risk-taking channel', 'bank-capital channel', 'snp approach'] 
+
+TOP-K 189: ['military veterans', ['veterans'], 'non-retirement investments', 'large income drop', 'late mortgage payments', 'consumer finance', 'problematic credit card behaviors', 'emergency funds'] 
+
+Reference 189: ['financial capability', 'financial wellbeing', 'financial behaviors', 'veterans'] 
+
+TOP-K 190: ['unbanked households', ['financial inclusion'], 'account ownership', 'several factors', 'different likelihoods', 'interest'] 
+
+Reference 190: ['unbanked', 'financial inclusion', 'nonbank financial services', 'consumer choices'] 
+
+TOP-K 191: [['mortgage forbearance'], 'covid-19-era economic policies', 'uk mortgage holders', 'average nonmortgage debt', ['universal credit expansion'], 'total nonmortgage debt', 'uk consumers'] 
+
+Reference 191: ['disparities in consumer debt', 'covid-19united kingdom', 'mortgage forbearance', 'universal credit expansion'] 
+
+TOP-K 192: [['utility shutoff moratoria'], 'state utility shutoff moratorium', 'utility shutoff moratorium', 'economic relief', 'unpaid debt', 'shutoff moratoria', 'credit card', 'majority black communities', 'retail loan payments', 'financial obligations'] 
+
+Reference 192: ['consumer protection policies', 'utility shutoff moratoria', 'credit delinquency'] 
+
+TOP-K 193: ['job experience', 'brazilian fintech firm', 'job contracts', 'current job', 'loan durations', ['interest rates']] 
+
+Reference 193: ['default', 'fintech', 'interest rates', 'microcredit', 'screening'] 
+
+TOP-K 194: ['smes performance', 'patenting process', 'legal patent protection', 'propensity score matching', 'profitability', 'sales', 'empirical evidence', 'different steps', 'significant relationship', 'filing date'] 
+
+Reference 194: ['firm performance', 'patents', 'sm', 'es', 'counterfactual', 'granted patents'] 
+
+TOP-K 195: ['medical innovation', 'geographic dispersion', 'government-funded r', 'medical industry', 'r', ['grants'], 'relationship', 'unequal value', 'different types'] 
+
+Reference 195: ['pharmaceutical innovation', 'government subsidies', 'grants', 'innovation'] 
+
+TOP-K 196: ['moral hazard', ['dynamic moral hazard'], 'risk-shifting problem', 'reputation formation', 'project environments', 'risky strategies', 'switching costs', 'structure'] 
+
+Reference 196: ['credit rationing', 'dynamic moral hazard', 'staged financing', 'reputation', 'risk-shifting'] 
+
+TOP-K 197: [['board structure'], 'corporate board', 'economic logic', ['china'], 'unlisted firms', 'advanced economies', 'striking differences', 'market firms'] 
+
+Reference 197: ['board structure', 'emerging market firms', 'simultaneous equation modeling', 'china', 'eastern europe'] 
+
+TOP-K 198: [['gender diversity'], ['esg score'], ['esg scores'], 'eu companies', 'non-financial reporting directive', 'csr committee', ['cultural diversity'], 'companies', 'independent directors', 'high values', 'significant impact'] 
+
+Reference 198: ['esg score', 'board characteristics', 'gender diversity', 'cultural diversity', 'eu 95/2014 directive'] 
+
+TOP-K 199: ['fviiia-fx complex', 'intrinsic tenase', 'factor x activation', 'fx activation', 'mechanisms-driven model', 'lipid concentrations', 'steady-state process', 'major pathway'] 
+
+Reference 199: ['blood coagulation', 'mathematical model', 'membrane-dependent reactions', 'factor viii', 'factor ix', 'factor x'] 
+
+TOP-K 200: ['subclonal dynamics', 'subclonal composition', 'population dynamics', 'long-term growth patterns', 'evolutionary landscape', 'short-term measurements', 'mathematical framework'] 
+
+Reference 200: ['cancer evolution', 'cancer heterogeneity', 'multiscale modelling', 'machine learning'] 
+
+TOP-K 201: ['pattern dynamics', ['pattern dispersion'], ['pattern formation'], 'pattern transitions', 'time-dependent domains', 'model robustness', 'strain rate', 'resilient model', 'diffusion systems', 'reaction terms', 'crucial influence'] 
+
+Reference 201: ['pattern formation', 'pattern dispersion', 'growing domain', 'reaction–diffusion system', 'dilution term'] 
+
+TOP-K 202: [['inter-individual variability'], ['behavior change'], 'severe diets', 'individual model parameter values', 'linear odes', 'model', 'individual physiological variables', ['formal theory'], 'psychological modeling', 'discrete qualitative abstraction', 'active causalities', 'real solution set', 'qualitative abstraction', 'automatic reasoning', 'solution space'] 
+
+Reference 202: ['behavior change', 'hypocaloric diet', 'formal theory', 'thermodynamics', 'causal network', 'over-/under-approximation', 'discretization', 'qualitative reasoning', 'timescale', 'inter-individual variability', 'answer set programming'] 
+
+TOP-K 203: ['tumor growth', 'protumor immune effects', 'mixture theory', 'immune response interactions', 'tumor expansion', 'new model', 'crucial role', 'escape phases'] 
+
+Reference 203: ['cancer growth', 'immune response', 'mixture models'] 
+
+TOP-K 204: ['sars-cov-2 transmission', 'age-specific indices', 'sensitivity analysis', 'asymptomatic infections', 'over-60 age groups', 'reproduction number', 'containment policy design', 'marginal role'] 
+
+Reference 204: ['sensitivity', 'next generation operator', 'basic reproduction number', 'covid-19age-structured models'] 
+
+TOP-K 205: ['algal cell quota', 'novel two-stage uptake model', 'transport time delay', 'physiological mechanism'] 
+
+Reference 205: ['algal bloom', 'prorocentrum donghaiense', 'karenia mikimotoi', 'surface adsorption', 'transport delay', 'two-stage model'] 
+
+TOP-K 206: ['complex systems', 'phenotypic traits', 'form-function relationships', 'complex system', 'trait integration', 'task relationships', 'complexity increases', 'simulation study', 'limit predictability'] 
+
+Reference 206: ['complexity', 'multitasking', 'performance', 'redundancy', 'tradeoffs'] 
+
+TOP-K 207: ['biomaterial design', 'migration speed', 'linear ridge density', 'linear topographic pattern', 'physiologic function', 'certain migration patterns', 'cell response', 'ou process', 'new model', 'recent years', 'crucial role', 'key question', 'useful applications'] 
+
+Reference 207: ['cell migration', 'topography', 'ornstein–uhlenbeck', 'mathematical model', 'tissue engineering', 'bioimplant'] 
+
+TOP-K 208: [['adipocyte size distribution'], 'cma-es algorithm', 'bimodal distributions', 'model parameters', ['parameter estimation'], ['partial differential equation'], 'parameter values'] 
+
+Reference 208: ['parameter estimation', 'adipocyte size distribution', 'parameter identifiability', 'partial differential equation'] 
+
+TOP-K 209: ['antigenic cooperation', 'intra-host viral variants', 'intra-host viral populations', 'immune escape', 'viral variants', 'continuous genomic diversification', 'infected hosts', 'viral transmission', 'altered antigenic features', 'host immune system', 'new viral variant', 'emergence', 'rapid rearrangement', 'viral population', 'viral ecosystem'] 
+
+Reference 209: ['local immunodeficiency', 'cross-immunoreactivity', 'persistent viruses', 'altruistic viruses', 'hepatitis c'] 
+
+TOP-K 210: ['dsgrn software', 'tissue-scale behavior', 'robustness measures', 'structural fragilities', 'gap gene expression', 'single network', 'graph features', 'ranking network models'] 
+
+Reference 210: ['dynamics', 'regulatory network', 'drosophila', 'weighted directed graph', 'finite directed paths'] 
+
+TOP-K 211: [['indirect reciprocity'], ['cooperation'], 'model abductive reasoning', 'parsimonious explanation', 'observers', 'error rates', ['confirmation bias'], 'reasoning', 'shafer theory'] 
+
+Reference 211: ['abductive reasoning', 'confirmation bias', 'cooperation', 'dempster–shafer theory', 'falsification bias', 'indirect reciprocity'] 
+
+TOP-K 212: [['extinction probability'], 'spatial heterogeneity', 'temporal heterogeneity', 'infectious disease', 'basic reproduction number', 'contacts', 'real contact distribution', 'process model', 'theoretic results', 'time increase extinction probability', 'robust conclusion'] 
+
+Reference 212: ['random contact', 'structured population', 'spatial–temporal heterogeneity', 'extinction probability', 'generation size'] 
+
+TOP-K 213: ['il-27', 'anti-pd-1', 'pro-inflammatory functions', 'treatment efficacy'] 
+
+Reference 213: ['immune checkpoint inhibitors', 'interleukin-27anti-pd-1combination therapy'] 
+
+TOP-K 214: ['photoreceptor density', 'rod/cone outer segment predictions', 'retinal data', 'temporal retinal data'] 
+
+Reference 214: ['photoreceptor', 'rods', 'cones', 'retina', 'mathematical model'] 
+
+TOP-K 215: ['sub-exponential autocatalysts', 'higher-order autocatalysts', ['resource competition'], 'exponential ones'] 
+
+Reference 215: ['autocatalysis', 'exponential growth', 'sub-exponential growth', 'resource competition', 'prebiotic evolution'] 
+
+TOP-K 216: ['marks proteins', 'cytoplasmic membrane', 'multisolitons-like patterns', 'multiple sacles method', 'complex cubic ginzburg', 'one-dimensional model', 'cyclic dynamics', 'generic model', 'landau equation', 'study modulational instability'] 
+
+Reference 216: ['marcks protein', 'long wavelength instability', 'patterns formation', 'multisolitons'] 
+
+TOP-K 217: ['epigenetic cancer drug resistance', 'treatment holidays', 'mathematical models', 'tumoural growth', 'complete curative treatment', 'modelling approach', 'good fit', 'complete analytical examination'] 
+
+Reference 217: ['acquired resistance', 'cancer', 'phenotypic plasticity', 'targeted therapy'] 
+
+TOP-K 218: ['mesenchymal stem cell-derived exosomes', 'skin wounds', ['wound healing'], 'wound healing process', 'complex clinical burden', 'multiple cells', 'reparative function', 'different sources'] 
+
+Reference 218: ['wound healing', 'mesenchymal stem cells', 'exosomes', 'angiogenesis', 'therapy'] 
+
+TOP-K 219: ['tnbc', ['obesity'], 'key tnbc risk factor', 'socioeconomic status', 'healthcare access', 'cultural practices', 'screening techniques', 'well-known links', 'review article'] 
+
+Reference 219: ['triple negative breast cancer', 'inflammation', 'obesity', 'tumor microenvironment', 'disparity', 'treatment strategies'] 
+
+TOP-K 220: ['hbo', ['azotemia'], 'structural nephroprotection', 'toxic aki', 'aki animals', 'untreated controls hbo', 'models reduction'] 
+
+Reference 220: ['acute renal failure', 'nephrotoxicity', 'hyperbaric oxygenation', 'creatinine', 'azotemia', 'animal models'] 
+
+TOP-K 221: ['her3-targeted treatment approaches', 'cancer progression', 'her3 detection methods', 'therapy resistance', 'clinical application', 'clinical utility'] 
+
+Reference 221: ['her3erbb3breast cancer', 'oncology', 'pathological detecting methods'] 
+
+TOP-K 222: ['chondrocyte apoptosis', 'oa', 'upr-sting-induced inflammation', 'cgas-sting pathway activation', 'sting crosstalk', 'cartilage destruction', 'new oa therapeutic strategies', ['inflammation'], 'er stress'] 
+
+Reference 222: ['endoplasmic reticulum stress', 'unfolded protein responsec', 'gas-sting signalling axis', 'inflammation', 'osteoarthritis', 'treatment strategy'] 
+
+TOP-K 223: [['diabetic retinopathy'], 'noncoding rnas', 'endothelial-mesenchymal transduction', 'small extracellular vesicles', 'retinal cells', 'oxidative stress', 'different pathways', 'therapeutic targets', 'diagnostic value'] 
+
+Reference 223: ['diabetic retinopathy', 'treatment', 'mechanisms', 'noncoding rn', 'as', 'cells', 'extracellular vesicles'] 
+
+TOP-K 224: ['glibenclamide efficacy', 'vitamin b1', 'diabetic nephropathy', 'diabetic complications', 'vitamin b1 addition', 'effect', 'tnf-α/nrf2/α-sma trajectories'] 
+
+Reference 224: ['diabetes', 'glibenclamide', 'vitamin b1calcitriol', 'nephropathy'] 
+
+TOP-K 225: ['hcjgcs', 'female hcjgcs', 'evs', 'male evs', 'female evs', 'pro-resolving mediators', 'allergic inflammation', 'proinflammatory mediators', 'biosynthetic machinery', 'allergic response', 'clear sex difference', 'spm amount'] 
+
+Reference 225: ['conjunctiva', 'goblet cells', 'allergic conjunctivitis', 'histamine', 'polyunsaturated fatty acids', 'specialized pro-resolving mediator', 'extracellular vesicles'] 
+
+TOP-K 226: [['setanaxib'], 'platelet activation', 'thrombus formation', 'ros generation', 'selective nox1/4 dual inhibitor', 'cardiovascular diseases', 'critical role', 'therapeutic agent'] 
+
+Reference 226: ['platelet', 'ros', 'dual nox1/4 inhibitor', 'setanaxib', 'antiplatelet', 'antithrombotic'] 
+
+TOP-K 227: ['nmes', 'mc3t3-e1 osteoblasts', 'sm-exos', 'osteogenic differentiation', 'mirna expression', 'muscle atrophy', 'protective effect'] 
+
+Reference 227: ['skeletal muscle', 'exosomes', 'mirna', 'osteoporosis'] 
+
+TOP-K 228: ['uvb-induced apoptosis', 'high-glucose conditions', 'epidermal keratinocytes', 'uvb-induced ros', 'high-glucose conditions high-glucose conditions', 'keratinocyte susceptibility', 'photocarcinogenic potential', 'cpd formation', 'distinct responses'] 
+
+Reference 228: ['diabetes', 'next-generation sequencing', 'photocarcinogenesis', 'dna damage', 'apoptosis'] 
+
+TOP-K 229: ['out-of-phase betamethasone', 'glucocorticoid treatment', 'in-phase betamethasone treatment', ['insulin resistance'], 'morning measurement'] 
+
+Reference 229: ['glucocorticoid', 'insulin resistance', 'betamethasone', 'circadian rhythm'] 
+
+TOP-K 230: ['autophagy-regulatory pathways', 'intraneuronal aβ accumulation', 'ad', 'tpp1 enzyme', 'ht-22 cells', 'intraneuronal accumulation', 'aβ accumulation', 'lysosomal enzyme', 'oligomer internalization', 'recombinant analog', 'tpp1 functions', 'important role', 'little information'] 
+
+Reference 230: ['cerliponase alfa', "tpp1alzheimer's disease", 'autophagy'] 
+
+TOP-K 231: ['egfr-tki-resistant nsclc', 'egfr-tki-resistant nsclc pr combination', 'synergistic effects', 'pr', 'nsclc pr combination', 'aurora b pathway', 'effective therapeutic strategy'] 
+
+Reference 231: ['lung adenocarcinoma', 'drug resistance', 'natural product', 'herbal medicine', 'combination therapy', 'transcriptome'] 
+
+TOP-K 232: ['gene transcription', 'effective treatment'] 
+
+Reference 232: ['luteinizing hormone', 'estradiol', 'hypothalamus', 'aging', 'metabolism'] 
+
+TOP-K 233: ['foxo1-rock1 axis-mediated mqc disorders', 'ros-induced cox7a2l activation', 'myocardial chronic hypoxic injury', 'tof myocardial protection', 'cardiomyocyte injury', 'cardiomyocyte protection', 'respiratory chain supercomplex function', 'myocardial samples', 'whole transcriptome sequencing', 'therapeutic targets', 'clinical data', 'specific mechanism', 'key role'] 
+
+Reference 233: ['tetralogy of fallot', 'forkhead box o1', 'mitochondrial quality control', 'cox7a2l', 'chronic hypoxia'] 
+
+TOP-K 234: [['cloxyquin'], 'meningeal mast cell activation', 'tresk inhibitor a2764', 'capsaicin-evoked cgrp release', 'ex-vivo', 'ex-vivo trigeminal preparations', 'synergistic effect', 'mechanical pain'] 
+
+Reference 234: ['cloxyquin', 'cgrp', 'meningeal mast cells', 'migraine', 'neurogenic inflammation', 'tresk background potassium channels'] 
+
+TOP-K 235: [['rifaximin'], 'mcd diet-induced nash', 'mcd diet', ['gut microbiota'], 'mcd-induced nash mice', 'nash', ['intestinal barrier']] 
+
+Reference 235: ['gut microbiota', 'intestinal barrier', 'peroxisome proliferator-activated receptor', 'rifaximin', 'nonalcoholic steatohepatitis'] 
+
+TOP-K 236: ['ss', 'hela xenograft growth', ['glucose metabolic reprogramming'], 'cervical cancer cells viability', 'cancer cells', 'ros accumulation', 'key signaling pathway', 'evident toxicity', 'time-dependent manner'] 
+
+Reference 236: ['cervical cancer', 'glucose metabolic reprogramming', 'sodium selenite', 'rna sequencing', 'ros', 'akt/mtor/hif-1α pathway'] 
+
+TOP-K 237: ['covid-19 infection', ['long covid'], 'female sex', 'physical decline', 'financial stress', 'health concerns', 'acute phase', 'cognitive function', 'skin symptoms', 'year post-infection', 'symptom severity', 'minor deterioration', 'significant predictors'] 
+
+Reference 237: ['long covid', 'post-covid condition', 'longitudinal study', 'symptom assessment'] 
+
+TOP-K 238: ['individual-level structural signatures', 'college covariates', 'ecological effects', 'facebook users', 'individual change', 'discrete choice model', 'national random sample', 'uses multiple methods'] 
+
+Reference 238: ['social networks', 'closure', 'persistence', 'facebook'] 
+
+TOP-K 239: [['action networks'], ['outpatient clinics'], 'network structures', 'network context', 'edge-weighted centralization', ['bureaucratic organizations'], 'routine actions', 'physical space', 'impersonal relations', 'visible layouts', 'network density', 'routine variability'] 
+
+Reference 239: ['network ecology', 'context', 'spatial layout', 'action network', 'routine dynamics', 'bureaucratic organization', 'outpatient clinic'] 
+
+TOP-K 240: ['face-to-face social ties', 'digital networks', 'network formation', 'digital interaction', 'new dynamics', 'current theory', 'various offline tie-formation mechanisms', 'theoretical framework'] 
+
+Reference 240: ['internet', 'online interaction', 'computational social science', 'tie-generating mechanisms', 'theory'] 
+
+TOP-K 241: [['tie-formation'], 'social relations', 'cultural rules', 'organizational factors', 'relational rules', ['social fields'], 'social context shapes networks'] 
+
+Reference 241: ['institution', 'meaning structure', 'network mechanism', 'social field', 'tie-formation'] 
+
+TOP-K 242: ['ethnicity-based oppositional cultures', 'group-based oppositional cultures', 'school characteristics', 'school', 'four-wave network panel survey', 'high performers', 'students', 'new data', 'ethnic minority', 'majority boys'] 
+
+Reference 242: ['gender', 'ethnicity', 'school performance', 'liking', 'stochastic actor-oriented models', 'rsiena'] 
+
+TOP-K 243: [['intergenerational closure'], 'conflict networks', 'ic', 'socio-spatial structures', ['interpersonal conflicts'], ['network ecology'], 'multilevel model', 'conflicts', 'neighborhoods', 'negative effect', 'class networksreveal', 'strong effect'] 
+
+Reference 243: ['network ecology', 'intergenerational closure', 'diverse neighbourhoods', 'exponential random graph model', 'interpersonal conflict'] 
+
+TOP-K 244: [['workplace relationships'], 'workplace relationship formation', 'low-wage industries', ['organizational practices'], 'negative work conditions', 'unpredictable work schedules', 'job benefits', 'retail employees', 'variable schedules', ['collective action'], 'unique dataset', 'strong negative association'] 
+
+Reference 244: ['precarious work', 'workplace relationships', 'organizational practices', 'network ecology', 'retail industry', 'collective action'] 
+
+TOP-K 245: ['node embeddedness', 'upper bounds', ['closeness centrality'], 'attribute information', ['betweenness centrality'], 'path calculation', 'classic counterparts', 'contextual settings'] 
+
+Reference 245: ['attributed network', 'betweenness centrality', 'closeness centrality', 'contextual embeddedness'] 
+
+TOP-K 246: [['financial markets'], 'exchange', 'transactions', 'large market transactions', 'temporal structure', 'material context'] 
+
+Reference 246: ['organizational networks', 'interorganizational exchange', 'reciprocity', 'generalized exchange', 'financial markets', 'relational event models'] 
+
+TOP-K 247: [['transitory ties'], 'core transitory ties', 'global fashion modeling industry', 'workers', 'network ecology perspective', 'gig economy', 'legitimate information'] 
+
+Reference 247: ['careers', 'fashion models', 'network ecology', 'social capital', 'transitory ties', 'creative industries', 'types of ties'] 
+
+TOP-K 248: ['two-mode network selection mechanisms', 'extracurricular activity membership networks', ['extracurricular activities'], 'novel yearbook data', 'activity selection', 'selection mechanism', 'comember similarity', 'several classes'] 
+
+Reference 248: ['race/ethnicity', 'homophily', 'segregation', 'two-mode network', 'extracurricular activities', 'stochastic actor-oriented model'] 
+
+TOP-K 249: ['dyadic social influence processes', 'dynamic focus theory', 'classical focus theory', 'tie generators', 'foci', 'social tie', 'multiple networks', 'diffusion points'] 
+
+Reference 249: ['social foci', 'focus theory', 'network ecology', 'stochastic actor-oriented models', 'two-mode networks', 'tie-generators', 'diffusion', 'social influence'] 
+
+TOP-K 250: [['network ecology'], 'university collaboration network', 'hss faculty', 'tie refunctioning', 'stem networking strategy', 'university', 'internal contextual variation', 'faculty', 'bottom-up structural change', 'network formation', 'key mechanisms', 'multiple ways', 'distinct networking practices', 'multiple types'] 
+
+Reference 250: ['network ecology', 'networking styles', 'academic collaboration', 'multiplex networks', 'sociology of knowledge'] 
+
+TOP-K 251: [['multiple network analysis'], 'mc simulation design', 'multiple networks', 'social sciences', 'social networks gain popularity', 'method advantages', 'multiple network analysis yields', 'robust results'] 
+
+Reference 251: ['ergm', 'simulation study', 'hierarchical modeling', 'multiple network analysis'] 
+
+TOP-K 252: ['word-of-mouth diffusion', 'preaching-to-the-converted effect', ['social reinforcement'], 'percolation process', 'high diffusion', 'percolation threshold'] 
+
+Reference 252: ['diffusion', 'word-of-mouth', 'percolation', 'homophily', 'social reinforcement', 'small worlds'] 
+
+TOP-K 253: ['difficult tie change', ['personal networks'], 'multinomial multilevel logistic regression', ['difficult ties'], 'positive ties', 'network change', 'similar patterns', 'anchor difficult ties'] 
+
+Reference 253: ['difficult ties', 'personal networks', 'homophily', 'support', 'retention'] 
+
+TOP-K 254: ['two-mode similarity', 'two-mode similarity measures', 'two-mode relational similarity', 'iterated correlations', 'non-iterative measures', 'iterative approach', 'previous work'] 
+
+Reference 254: ['generalized similarity', 'duality', 'two-mode networks', 'correlation distance', 'projection'] 
+
+TOP-K 255: [['social capital'], 'high-status individuals', 'low-status individuals', 'social capital inequalities', 'current involvement patterns', ['position generator'], 'voluntary organization yields access'] 
+
+Reference 255: ['social capital', 'position generator', 'voluntary involvement', 'socioeconomic status', 'inequality', 'germany'] 
+
+TOP-K 256: ['maximum pseudo-likelihood estimation', ['maximum likelihood estimation'], 'method performance', 'edge variance', 'edge value variance', 'key factor'] 
+
+Reference 256: ['contrastive divergence', 'exponential-family random graph model', 'markov chain monte carlo', 'maximum likelihood estimation', 'pseudo likelihood', 'valued/weighted networks'] 
+
+TOP-K 257: ['roster name order', 'roster order effects', 'indegree outliers', 'artifactual roster order effects', 'sociometric nominations', 'sociometric questions', 'experimental methods'] 
+
+Reference 257: ['data collection', 'peer nomination', 'name rosters', 'measurement error', 'adolescent friendships'] 
+
+TOP-K 258: [['diffeomorphic mapping'], 'novel face alignment network', 'various facial annotation schemes', 'cross-dataset cross-annotation settings', 'alignment networks', 'approach'] 
+
+Reference 258: ['face alignment', 'facial landmarks', 'diffeomorphic mapping', 'deep learning'] 
+
+TOP-K 259: ['jif-mmfa method', 'dermatological images', 'state-of-the-art fusion methods', 'novel multi-modal fusion network', 'joint-individual fusionstructure', 'public datasets', 'multi-modal fusion attentionmodule', 'specific features', 'metadata features'] 
+
+Reference 259: ['skin cancer classification', 'joint-individual fusion structure', 'multi-modal fusion attention', 'dermatological image and metadata'] 
+
+TOP-K 260: ['2d image registration', 'resmorph registration network', 'two-stage framework', 'residual structured loss', 'registration performance', 'different datasets'] 
+
+Reference 260: ['image registration', 'convolutional neural networks', 'multi-head self-attention', 'unsupervised learning'] 
+
+TOP-K 261: ['multi-task mutual fusionmodule', 'multi-contrast feature aggregationmodule', 'multi-contrast feature representations', 'joint mri reconstruction', 'task-specific features', 'extensive experimental results'] 
+
+Reference 261: ['magnetic resonance imaging', 'mri reconstruction', 'super-resolution', 'multi-task learning'] 
+
+TOP-K 262: ['shape classification', ['neural networks'], 'complex representations', ['complex networks'], 'complex network model', 'complex representation', ['neural network'], 'shape contours', 'output weights'] 
+
+Reference 262: ['shape representation', 'complex network', 'neural network'] 
+
+TOP-K 263: ['labels', 'experimental results', 'feature evaluation'] 
+
+Reference 263: ['multi-scale fuzzy rough sets', 'multilabel feature selection', 'missing labels', 'uncertainty measures'] 
+
+TOP-K 264: ['cpslr', 'novel unsupervised feature selection', 'low-redundancy features', 'feature selection', 'latent representation space', 'latent representation', 'central point matrix', '2-norm constraint', 'laplacian matrix', 'data', 'link graph', 'manifold structure', ['dual graph structure'], 'central matrix', 'complete data information'] 
+
+Reference 264: ['center matrix', 'link information', 'sparse latent representation', 'unsupervised feature selection', 'dual graph structure'] 
+
+TOP-K 265: [['point cloud'], 'global features', 'experimental results', 'deep fusion', 'global information', 'classification accuracy gains', 'entire space'] 
+
+Reference 265: ['point cloud', 'rotation invariance', 'local-to-global', 'deep learning'] 
+
+TOP-K 266: [['graph learning'], 'subspace learning', 'graph regularization', 'optimization algorithm', 'multiple views', 'consensus information', 'structured graph', 'intrinsic similarities', 'mutual reinforcement manner'] 
+
+Reference 266: ['multi-view clustering', 'latent space', 'subspace clustering', 'graph learning'] 
+
+TOP-K 267: ['high-order correlations', 'multiple views', 'global structure', 'single view', 'intrinsic affinity matrix'] 
+
+Reference 267: ['spectral clustering', 'multi-view clustering', 'tensor learning', 'graph learning'] 
+
+TOP-K 268: ['representation tensor structures', 'tensor submodule framework', '2d images', 'construct ssg term', 'latent structures', 'nonconvex norms', 'experimental results', 'superior performance'] 
+
+Reference 268: ['tensor based sparse representation', 'submodule clustering', 'tensor schatten p-norm', 'union of free submodulesℓqnorm', 'ssg', 'cluster-aware'] 
+
+TOP-K 269: ['high-quality node representations', 'node representations', 'features', 'higher-order neighbor info', 'comparative experiments', 'efficient mining', 'label rates', 'strong evidence'] 
+
+Reference 269: ['attributes mining', 'high-order neighborhood exploration', 'semi-supervised node classification', 'graph neural networks'] 
+
+TOP-K 270: ['dbscan clustering algorithm', 'neighborhood information reconstruction', 'density-reachable condition', 'subdivision strategy', 'normal estimation method', 'adjacent quadratic patches', 'quadric fitting surface', 'subsequent segmentation', 'reliable feature information', 'characteristic information', 'normal distance', 'normal vector'] 
+
+Reference 270: ['3d point clouds', 'surface extraction', 'dbscan', 'quadric surface'] 
+
+TOP-K 271: ['fgc', 'dynamic channel pruning', 'feature-gate couplingmethod', 'significant pruning performance gains', 'contrastive loss', 'feature-gate distribution inconsistency'] 
+
+Reference 271: ['contrastive self-supervised learning', 'dynamic network pruning', 'feature-gate coupling', 'instance neighborhood relationship'] 
+
+TOP-K 272: [['contrastive learning'], 'cvc', 'contrastive clustering method cvc', 'linear classification performances', 'generic method', 'large margin'] 
+
+Reference 272: ['self-supervised learning', 'contrastive learning', 'deep clustering'] 
+
+TOP-K 273: [['transformer'], 'u-net architecture', 'cross-feature fusion', 'adaptive perception module', 'novel framework', 'contextual information', 'outstanding performance'] 
+
+Reference 273: ['transformer', 'attention', 'semantic segmentation', 'point cloud scenarios'] 
+
+TOP-K 274: ['mlenet', 'fine-grained high-level temporal features', 'local deep detail information', 'rgb input', 'modeling temporal structure', 'long distances', 'differential extraction algorithm', 'optical flow'] 
+
+Reference 274: ['action recognition', 'spatio-temporal', 'temporal feature refinement extraction module', 'motion information', 'optical flow guided feature'] 
+
+TOP-K 275: ['iterative correlation refinement', 'state-of-the-art results', 'strong generalization capability', 'confidence estimator', 'line detection', 'textureless areas', 'disparity discontinuities', 'extensive experiments', 'textureless-aware segmentation mergeing edge', 'joint hypothesis'] 
+
+Reference 275: ['multi-view stereo3d reconstruction', 'filtering', 'superpixel', 'segmentation'] 
+
+TOP-K 276: ['human emotional experience', 'user comments', 'emotion information', 'image aesthetics perception', 'aesthetic learning', 'emotional semantic information'] 
+
+Reference 276: ['image aesthetics assessment', 'multimodal learning', 'image emotion analysis'] 
+
+TOP-K 277: ['dual-path modulated-aggregated enhancer', 'low-light conditions', 'generative modulation priors', 'real-world benchmark datasets', 'multi-scale degradation removal branch', 'state-of-the-art approaches', 'visual perception', 'spatial feature transformation', 'collaba gains remarkable performance', 'exposure regulation', 'extensive experiments', 'fresh approach', 'intricate challenge'] 
+
+Reference 277: ['low-light image', 'bi-level optimization', 'image enhancement', 'deep learning'] 
+
+TOP-K 278: ['myb-related genes', 'angiosperm', 'chloroplast biogenesis mutants', 'liverwort', 'glk targets', 'carbon fixation'] 
+
+Reference 278: ['chloroplast biogenesis', 'photosynthesis', 'marchantia', 'arabidopsis', 'glk transcription factor', 'myb-related transcription factor'] 
+
+TOP-K 279: ['refractory autoimmune diseases tyu19', 'b cell depletion', 'refractory imnm tyu19', 'severe skeletal muscle damage', 'patients', 'extensive fibrotic damage', 'critical organs'] 
+
+Reference 279: ['allogeneic car-t cellsautoimmune diseasessystemic sclerosismyositis', 'cd19'] 
+
+TOP-K 280: ['rh5 mabs', 'protective rh5-vaccine-induced antibody responses', 'rh5 malaria infection', 'malaria-exposed individuals', 'epitope infection', 'potent mabs'] 
+
+Reference 280: ['rh5', 'plasmodium falciparum', 'monoclonal antibodies', 'malaria', 'natural infection', 'vaccine design'] 
+
+TOP-K 281: [['hcov-hku1'], ['tmprss2'], 'hcov-hku1 spike', 'viral spike', 'different receptors', 'potential host range', 'recognition mode'] 
+
+Reference 281: ['hcov-hku1', 'viral entry', 'tmprss2', 'proteinaceous receptor', 'glycan receptor'] 
+
+TOP-K 282: ['human wdr11-fam91a1 complex wdr11', ['neuronal development'], 'cytoplasmic tails', 'sac motif', 'cryo-em structure'] 
+
+Reference 282: ['vesicle trafficking', 'cargo selection', 'vesicle tethering', 'neuronal development', 'wdr11', 'ap-1'] 
+
+TOP-K 283: ['ecm-to-mitochondria communication pathway', 'tgf-β signaling', 'hyaluronan degradation', 'ecm-to-mitochondria communication ecm remodeling', 'mitochondrial signaling'] 
+
+Reference 283: ['extracellular matrix', 'hyaluronan', 'tmem2', 'mitochondria', 'tgf-β', 'immunity'] 
+
+TOP-K 284: ['polya site usage', 'rna life cycle', 'cpa regulators', 'genetic perturbations', 'sequence features', 'perturbation response', 'polya site usage pasta', 'scrna-seq data distinct components'] 
+
+Reference 284: ['cleavage and polyadenylation', 'alternative polyadenylation', 'post-transcriptional regulation', 'perturb-seq', 'rna processing'] 
+
+TOP-K 285: ['ring-shaped odor code', 'ring-shaped odor-coding pattern', 'transgenic line', 'ecological significance', 'chemical identity'] 
+
+Reference 285: ['locusta migratoriahemimetabolatwo-photon functional imagingchemotopyolfactory codingglomerular clusterantennal lobe'] 
+
+TOP-K 286: ['cftr potentiator-binding site', 'high oral bioavailability', 'allosteric inhibitors', 'large-scale molecular docking', 'promising potentiator'] 
+
+Reference 286: ['ligand discovery', 'anion channel', 'abc transporter', 'potentiators', 'inhibitors', 'large-scale docking'] 
+
+TOP-K 287: ['peptides', ['machine learning'], ['global microbiome'], 'new antibiotics', ['antibiotic discovery'], 'genomic fragmentation', 'open-access resource'] 
+
+Reference 287: ['machine learning', 'metagenomics', 'antimicrobial peptides', 'antibiotic discovery', 'antimicrobial activity', 'global microbiome', 'antibiotic resistance'] 
+
+TOP-K 288: ['21-dehydroxylation genes', 'eggerthella 21-dehydroxylate host corticoids', 'gene cluster abundance', 'progestins bacterial production', 'functional genomics progestin levels', ['hydrogen gas']] 
+
+Reference 288: ['21-dehydroxylation', 'hydrogen gas', 'eggerthella lenta', 'neurosteroids'] 
+
+TOP-K 289: ['centromere subdomains', 'core centromere chromatin', 'merotelic attachments', 'cancer cells', 'centromere subdomain', 'two-domain structure', 'opposite spindle poles cohesin', 'discrete microtubule bundle'] 
+
+Reference 289: ['mitosis', 'centromere', 'kinetochore', 'chromatin organization', 'condensin', 'cohesin', 'chromosomal instability'] 
+
+TOP-K 290: ['rat escs', 'rat forebrains', 'forebrain agenesis', 'rat-specific gene expression', 'mice', 'quick candidate gene screening', 'blastocyst complementation mouse', 'complement hesx1', 'function rat forebrains', 'normal structure', 'mouse rates'] 
+
+Reference 290: ['interspecies chimeras', 'rat-mouse chimeras', 'interspecies blastocyst complementation', 'interspecies neural blastocyst complementation', 'interspecies forebrain blastocyst complementation', 'interspecies organogenesis', 'c-crispr'] 
+
+TOP-K 291: ['centriolar proteins cluster analysis', 'human centriole', ['expansion microscopy'], 'molecular architecture', 'sub-structural elements modeling', 'centriole assembly dissection', 'architectural growth'] 
+
+Reference 291: ['centrioles', 'expansion microscopy', 'super-resolution microscopy', 'centriole assembly', 'molecular mapping', 'time-series reconstruction', 'centriole duplication'] 
+
+TOP-K 292: ['active zone condensate', 'elks1 pclo', 'sv transport', 'reserve pool condensate', 'vesicle tethering', 'active zone condensate ca2'] 
+
+Reference 292: ['vesicle transport', 'vesicle trafficking', 'phase separation', 'synaptic vesicle cycling'] 
+
+TOP-K 293: ['ost-a subunit stt3a', 'nf-κb stt3a', 'paralog stt3b', 'stt3a ngi-1', 'glycan donor', 'drug-binding pocket', 'membrane localization', 'active site', 'productive binding'] 
+
+Reference 293: ['oligosaccharyltransferase', 'n-glycosylation', 'inhibition mechanism', 'nf-κb', 'crispr screening', 'toll-like receptors'] 
+
+TOP-K 294: ['itpripl1-cd3ε interaction', 'tcr-cd3 complex signaling itpripl1', 'immune-privileged testis', 'cd3ε ligand', 'tumor-specific cytotoxicity itpripl1 antibody', 'multiple tumors'] 
+
+Reference 294: ['cd3ε', 'itpripl1', 'immune checkpoint', 'immune evasion', 'cancer immunotherapy'] 
+
+TOP-K 295: ['cvd oscillibacter species', 'cholesterol-metabolizing enzymes', 'cholesterol enzymes', 'molecular networking', 'multi-omic profiling', 'products oscillibacter species', 'stool cholesterol homology searches'] 
+
+Reference 295: ['cardiovascular disease', 'microbiome', 'metabolome', 'cholesterol', 'oscillibacter'] 
+
+TOP-K 296: ['brain pathology ifn-i-responsive microglia', 'cortical development ifn-i deficiency', 'excitatory/inhibitory imbalance', ['tactile hypersensitivity'], 'responsive microglia', 'whole neurons'] 
+
+Reference 296: ['type i interferon', 'microglia', 'neuroimmunity', 'phagocytosis', 'somatosensory cortex', 'cortical development', 'tactile hypersensitivity'] 
+
+TOP-K 297: ['first-in-class small-molecule-based mkk4 inhibitor', ['liver regeneration'], 'excellent pharmacokinetics', 'porcine models'] 
+
+Reference 297: ['liver', 'liver regeneration', 'liver failure', 'partial hepatectomy', 'mkk4', 'drug discovery and development', 'first-in-human phase i trial'] 
+
+TOP-K 298: ['cotton mir319c-myb33 module', 'verticillium dahliae infection', ['ghmyb33'], 'ghspl9 promoter', 'ghmyb33 expression', 'ghdfr1 transcription', 'plant growth', 'plant resistance', 'transcriptional activity', 'plant height'] 
+
+Reference 298: ['ghmyb33', 'ghr-mir319c', 'trade-off', 'gossypium hirsutum', 'verticillium dahliae'] 
+
+TOP-K 299: ['igg analysis', 'triticeae-specific tacipk', 'igg method', 'cbl genes', 'transgenic plants', 'stoichiometric balance', 'evolutionary information', 'divergent expression', 'drought'] 
+
+Reference 299: ['integrative gene duplication and genome-wide analysis', 'evolutionary expansion', 'reverse genetics', 'triticeae species', 'cbl', 'cipk'] 
+
+TOP-K 300: ['wheat dwarf india virus', ['genome editing'], 'first geminivirus', 'tissue culture-free genome editing', 'reverse genetics', 'virus genome', 'viral vector', 'broad host range', 'wide host range', 'dicot plants', 'single vector system', 'study', 'tobacco plants'] 
+
+Reference 300: ['wdiv', 'aylcb', 'monocot-dicot barrier', 'gene silencing', 'genome editing'] 
+
+TOP-K 301: [['nestin'], 'multilineage stem/progenitor cells', 'current studies', 'current findings', 'tissue development', 'tissue regeneration', 'cells', 'cell populations', 'potential clinical implications', 'different systems', 'review', 'key factor'] 
+
+Reference 301: ['intermediate filament proteins', 'nestin', 'stem cells', 'progenitor cells', 'biomarkers'] 
+
+TOP-K 302: ['tlr9', 'k48-linked ubiquitination', 'diabetes heart', 'cardiac-specific tlr9 overexpression', 'diabetic cardiac damage', 'canonical inflammatory signaling', 'proteasomal degradation', 'energy metabolism'] 
+
+Reference 302: ['diabetic cardiomyopathy', 'toll-like receptor 9triad3a', 'ubiquitination', 'mitochondrial bioenergetics'] 
+
+TOP-K 303: [['salmonella'], 'clya', 'anti-tumor effect', 'auxotrophic salmonella', 'qs signaling', 'cancer model', 'mouse ct', 'cell density', 'tumor invasion'] 
+
+Reference 303: ['salmonella', 'tumoricidal activity', 'reduced endotoxicity', 'tryptophan auxotroph', 'cytolysin a', 'quorum sensing'] 
+
+TOP-K 304: ['af', 'dedifferentiated cardiomyocytes', 'af patients', 'left atrial appendage', 'm2-like macrophages', 'vascular remodeling pathway', 'genes sorbs2', 'stress transcription factors', 'cellular composition', 'transcriptional features', 'first time', 'excessive infiltration'] 
+
+Reference 304: ['atrial fibrillation', 'single-nuclei rna-sequencing', 'cardiomyocyte dedifferentiation', 'epicardial adipose tissue', 'left atrial appendage remodeling'] 
+
+TOP-K 305: ['lcacs', 'astrocytic mitochondrial damage', 'neuronal damage', 'prognostic biomarkers', ['lipid droplets'], 'stroke injury'] 
+
+Reference 305: ['long-chain acylcarnitine', 'ischemic stroke', 'biomarker', 'astrocytic mitochondrial', 'lipid droplet'] 
+
+TOP-K 306: [['liver metastasis'], 'liver metastasis common features', 'common tumor environment immunotolerance', 'low immune cells expression', 'metastatic cancers', 'patients', 'cancer types', 'guides immunotherapy/prognosis', 'main features', 'key role'] 
+
+Reference 306: ['liver metastasis', 'pan-cancer', 'immunotolerance', 'immunotherapy', 'krt19'] 
+
+TOP-K 307: ['escc tumorigenesis', 'mettl3 expression', 'mettl3/myc axis', 'fn', 'escc tissues', 'escc cells proliferation'] 
+
+Reference 307: ['fusobacterium nucleatum', 'mettl3', 'm6a methylation', 'c-myc', 'esophageal squamous cell carcinoma'] 
+
+TOP-K 308: ['plasma glycoproteomics', 'site-specific glycosylation changes', 'glycosylation changes', 'chemometric analyses', 'glycobiology processes', 'bioinformatic analyses', 'biomarker applications', ['clinical applications'], 'disease', 'single protein molecules', 'disease samples', 'reproducible coverage', 'integral interpretation', 'great potential'] 
+
+Reference 308: ['glycosylation', 'glycoproteomics', 'blood plasma', 'congenital disorders of glycosylation', 'clinical applications'] 
+
+TOP-K 309: ['cardiac fibroblasts', 'erbb4 mrna demethylation', ['alkbh5'], 'post-mi repair phase', 'fibroblast activation', 'deteriorated cardiac function', 'hypoxia-related role', ['cardiac rupture'], 'possible therapeutic targets', 'important protective role', 'study identities'] 
+
+Reference 309: ['m6a modification', 'alkbh5', 'myocardial infarction', 'cardiac rupture', 'hypoxia', 'erbb4'] 
+
+TOP-K 310: [['pcsk9'], 'rheumatoid arthritis rats', 'm1 macrophages polarization', 'collagen-induced arthritis rats', 'atrial structural remodeling', 'af', 'af risk', 'ra patients'] 
+
+Reference 310: ['rheumatoid arthritis', 'atrial fibrillation', 'pcsk9', 'evolocumab'] 
+
+TOP-K 311: ['gsdmd-mediated pyroptosis', 'fungal colonization', 'gsdmd cleavage', 'iir injury', 'macrophage involvement', 'single-fungal strains', 'enteric fungi diversity', ['mannan'], 'saa1 expression', 'protective role'] 
+
+Reference 311: ['enteric fungi', 'intestinal ischemia–reperfusion injury', 'mannan', 'antifungal therapy', 'pyroptosis'] 
+
+TOP-K 312: ['cdk2/trim32/stat3 pathway', 'tnbc', 'tc45-dephosphorylated stat3', 'nuclear trim32', ['triple-negative breast cancer'], ['radioresistance'], 'cdk2-dependent phosphorylation', 'tnbc therapy', 'cis-trans isomerization', ['trim32'], ['nuclear translocation'], 'importin α3 binding', 'promising strategy'] 
+
+Reference 312: ['cdk2', 'trim32', 'nuclear translocation', 'radioresistance', 'triple-negative breast cancer'] 
+
+TOP-K 313: ['n', 'imidacloprid-resistant n', 'virulent/resistant genotypes', 'resistant rice ir36', 'avirulent/susceptible genotype', 'insecticide resistance-related genes', 'lugens', 'lugens population', 'cyp4c61', 'resistant rice', 'insecticide usage', 'corresponding alleles'] 
+
+Reference 313: ['evolution', 'insecticide resistance', 'insect-resistant rice', 'interaction', 'population genetic structure'] 
+
+TOP-K 314: ['fumonisins contamination', 'fums contamination', 'biotechnological approaches', 'major strategies', 'significant economic losses'] 
+
+Reference 314: ['mycotoxins', 'fumonisins', 'control strategies', 'food safety', 'decontamination', 'biotechnology'] 
+
+TOP-K 315: [['psychological stress'], 'αkg/tet2/pparγ axis', 'gaba-metabolizing bacteria', 'ams homeostasis', 'microbial gaba', 'disturbing gut microbiome', 'lactobaceace abundance', ['respiratory viral infection'], 'gaba level', 'viral pneumonia', 'adverse effect'] 
+
+Reference 315: ['psychological stress', 'gut microbiome', 'alveolar macrophages', 'gaba', 'respiratory viral infection'] 
+
+TOP-K 316: ['new thiosemicarbazide', '1,2,4-triazole derivatives', 'sdh enzyme', 'cyp450 enzymes', 'pathogenic nematode species', 'ii-1', 'anthelmintic activity', 'compound ii-1', 'potential molecular targets', 'systemic toxicity', 'compound', 'silico studies'] 
+
+Reference 316: ['anthelmintic therapy', 'nematicidal compounds', 'rhabditis sp.haemonchus contortus', 'strongylidae sp.heligmosomoides polygyrus/bakeri'] 
+
+TOP-K 317: ['hape', 'cerk inhibition', 'exogenous c1p treatment', 'exogenous c1p', 'arntl autophagic degradation', 'mitophagy defects', 'arntl expression', ['mitochondrial dynamics'], ['circadian rhythm'], 'oxidative stress', 'effective therapeutic strategy', 'protective effect'] 
+
+Reference 317: ['ceramide-1-phosphate', 'hypoxia', 'pulmonary edema', 'circadian rhythm', 'mitochondrial dynamics'] 
+
+TOP-K 318: ['quinoline photoinitiators', 'photopolymerization process', 'qnma photoinitiators', 'rigid udma polymers', 'efficient polymerization', 'radical generation process', 'uv light', 'theoretical calculations', 'suitable alternative'] 
+
+Reference 318: ['quinoline derivatives', 'photoinitiator', 'photopolymerization', 'fluorescent polymers', 'density functional theory'] 
+
+TOP-K 319: ['lignocellulosic biomass', 'oad hydrolysis treatment', 'lcn', 'bpb', 'preferred lignocellulosic biomass', 'specific supramolecular structure'] 
+
+Reference 319: ['broussonetia papyrifera', 'cellulose', 'lignin-containing nanocellulose', 'oxalic acid dehydrate'] 
+
+TOP-K 320: ['high performance ptlcp fibers', 'synergistic flame retardant mechanism', 'low sdr', 'condensed phase', 'as-spun fiber', 'maximum tensile strength'] 
+
+Reference 320: ['phosphorus-containing polymer', 'thermotropic liquid crystal copolyester', 'fiber', 'flame retardancy', 'mechanical property'] 
+
+TOP-K 321: ['novel poly cyclopentadithiophene-alt-thiophene', 'excellent nonvolatile memristive performance', 'as-fabricated electronic device', ['dual information encryption'], 'distinguishable conductance states', 'high information security level'] 
+
+Reference 321: ['cyclopentadithiophene', 'conjugated polymer', 'artificial synapses', 'dual information encryption'] 
+
+TOP-K 322: ['osteochondral scaffold', 'tissue regeneration', 'sustained-release bmp-2 hydrogel system', '3d printing ink', 'bmp-2 interaction', '3d-printed scaffold', 'sustained-release bmp-2 system', 'significant tissue repair effects', 'biological evaluation', 'experimental validation', 'theoretical modeling'] 
+
+Reference 322: ['biomimetic scaffold3d printing', 'composite crosslinking', 'osteochondral repair', 'sustained release system, bmp-2'] 
+
+TOP-K 323: ['excellent resin mechanical properties', 'excellent mechanical properties', 'wood coatings', 'oil proof performance', 'hema amount'] 
+
+Reference 323: ['tung oil', 'polyurethane resin', 'uv photocuring'] 
+
+TOP-K 324: ['atrp polymerisation', 'long-term hydrophobic stability', 'hydrophobic chains', 'wood surfaces'] 
+
+Reference 324: ['wood', 'arget-atrp', 'hydrophobic', 'thermal insulation'] 
+
+TOP-K 325: ['oeg-containing molecular polymer bottlebrushes', 'oeg chain content', 'tpt', 'tpt values', 'polymers', 'hlb values', 'correlation equations', 'brush types', 'strong correlation', 'types'] 
+
+Reference 325: ['oligomethacrylate', 'thermoresponsive polymer', 'phase transition temperature', 'hydrophilic-lipophilic balance', 'correlation'] 
+
+TOP-K 326: ['gelma hydrogels', 'gelma applications', 'uv-curable bioprinting', 'biomedical versatility', 'dmn impact', 'gelma performance enhancement', 'molecular network density', 'tunable mechanical characteristics', 'drug delivery applications', 'customizable gelma', 'tissue regeneration', 'diverse applications', 'various properties', 'comprehensive optimization'] 
+
+Reference 326: ['gel', 'ma hydrogel', 'biomedical application', 'biomaterials'] 
+
+TOP-K 327: ['cyclic anhydride', ['ring-opening copolymerization'], 'cdc', 'bio-based monomers', 'diblock copolyester', 'self-switchable polymerization', 'high conversion', 'various polyesters', 'thermal stability', 'different combinations'] 
+
+Reference 327: ['carbodicarbene', 'ring-opening copolymerization', 'polyester', 'bio-based polymer', 'terpolymer'] 
+
+TOP-K 328: ['superhydrophobic surface', 'pdms', 'silane coupling', 'contact angle hysteresis', 'superhydrophobic state', 'contact angle', 'hierarchical surface roughness', 'hydrophilic components'] 
+
+Reference 328: ['lta zeolite film', 'self-cleaning', 'superhydrophobic coating', 'surface roughness'] 
+
+TOP-K 329: ['polymeric hydrogels', ['biomedical applications'], 'basic structure', 'various research areas', 'future prospects', 'potential solutions', 'key obstacles'] 
+
+Reference 329: ['two-dimensional materials', 'polymers', 'composite hydrogels', 'molybdenum disulfide', 'phosphorene', 'biomedical applications'] 
+
+TOP-K 330: ['self-strengthening polymer', 'self-strengthening response', 'material properties', 'potential research directions', 'activation mechanism', 'promising solutions'] 
+
+Reference 330: ['mechanochemistry', 'strengthening', 'in situ crosslinking', 'force-responsive polymers', 'stimuli-responsive polymers'] 
+
+TOP-K 331: ['capeo hemostatic powder', ['capeo'], 'low-temperature plasma irradiationtechnique', 'collagen deposition', ['wound healing'], 'hemostatic ability', 'rat skin wound model'] 
+
+Reference 331: ['low-temperature plasma irradiation', 'capeo', 'hemostasis', 'wound healing'] 
+
+TOP-K 332: ['novel bio-based non-isocyanate polyurea', 'nipurea', ['waterborne dispersions'], 'sustainable coatings', 'efficient acrylate incorporation', 'acrylate hybrids', 'uv light', 'safe aza-michael modification'] 
+
+Reference 332: ['bio-based', 'non-isocyanate polyurea', 'waterborne dispersion', 'amphiphilic copolymers', 'uv curable'] 
+
+TOP-K 333: ['nfys', 'conjugate electrospinning', 'color-tunable luminescence', 'multifunctional composite materials', 'hetero-structured nanofiber yarnsis', 'various materials', 'wide color range', 'adverse interactions', 'hetero-structure aids'] 
+
+Reference 333: ['hetero-structured nanofiber yarn', 'conjugate electro-spinning', 'photoluminescence', 'superparamagnetism', 'bifunctionality'] 
+
+TOP-K 334: ['pyridine-4-boronic acid derivatives', 'polymer hydrogel', 'ultra-high toughness', 'reasonable self-healing efficiency', 'strain-induced resistance change', 'excellent stretchability', 'good ionic conductivity', 'outstanding mechanical strength', 'low temperature'] 
+
+Reference 334: ['borate ester bond', 'double network hydrogel', 'conductive', 'anti-freezing'] 
+
+TOP-K 335: ['quinizarin-based porous membranes', 'photo-bactericidal quinizarin-based membranes', 'quinizarin-containing polyhipes', 'quinizarin-functionalized emulsion-templated polymersare', ['porous monoliths'], 'singlet oxygen'] 
+
+Reference 335: ['emulsion templating polymerization', 'porous monolith', 'porous membrane', 'photo-generation of singlet oxygen', 'antibacterial properties', 'quinizarin'] 
+
+TOP-K 336: [['solid polymer electrolytes'], ['ionic conductivity'], 'eco-friendly method', 'non-flammable properties', 'ethylene oxide', 'salt concentration'] 
+
+Reference 336: ['solid polymer electrolyte', 'peo', 'polyimide', 'ionic conductivity'] 
+
+TOP-K 337: ['iodine-containing oxime ester', 'tpas-based formulations', 'photopolymerization ability', 'light absorption', '3d-prinited capability', 'triphenylamine oxime esterswas'] 
+
+Reference 337: ['visible-light absorbing', 'free radical polymerization', 'halogen', 'triphenylamine', 'oxime ester', 'type i photoinitiator'] 
+
+TOP-K 338: ['air-charging mechanism', 'multi-scale structure regulation', 'ultrafast air-charging speed', 'wide-temperature-range air-charging applications', 'hvo @g', 'additional additives'] 
+
+Reference 338: ['air-rechargeable aqueous zinc-ion batteries', ' sluggish air-charging processoxygen-reduction-reactioncharge releasemulti-scale structure regulation'] 
+
+TOP-K 339: [['polymer electrolyte'], 'li-metal battery', 'solid-state battery', 'low-temperature tolerance', 'wide-temperature tolerance trade-off'] 
+
+Reference 339: ['lithium metal batteries', 'polymer electrolytes', 'wide-temperature batteries', 'lithium dendrites', 'ion transport kinetics'] 
+
+TOP-K 340: ['fecu dual-metal single-atom catalysts', 'orr/oer activity', 'small overpotential gap', 'high e1/2and', 'binary heteroatom coordination', 'metal atom', 'cu-n1s2 coordination environmentis', 'maximum power density', 'mw cm −'] 
+
+Reference 340: ['dual-metal single-atom', 'fe', 'cu-ds', 'as/nsc', 'bifunctional catalytic performance', 'rechargeable zinc-air batteries'] 
+
+TOP-K 341: ['scalable spray-dried strategy', 'moc1-x/nc-li 2c2o4', 'mah g −', 'activation potential', 'specific capacity', 'sei structural stability', 'sufficient active lithium'] 
+
+Reference 341: ['lithium oxalate', 'molybdenum carbide', 'prelithiation', 'spray-drying', 'lithium-ion battery'] 
+
+TOP-K 342: ['pd-doped double perovskite powder', 'pd-doped double perovskite', 'pd doping', 'oxygen surface exchange', 'electrolysis mode', 'fuel cell', 'good operational stability', 'bulk diffusion capabilities', 'wor activities'] 
+
+Reference 342: ['reversible protonic ceramic electrochemical cells', 'air electrodes', 'palladium doping', 'oxygen reduction reactions', 'water oxidation reactions'] 
+
+TOP-K 343: ['advanced energy storage application', 'ion transport', 'film-forming methods', 'sub-zero temperatures', 'interconnected channels', 'diverse pore structures', 'large-scale applications', 'high current densities', 'porous structures', 'significant capacity enhancement', 'electron conduction', 'structural design', 'comprehensive insights'] 
+
+Reference 343: ['ti3c2tx m', 'xene', 'sodium-ion storage', 'free-standing electrode', 'isotropic porous structure', 'minimized polarization'] 
+
+TOP-K 344: ['znso4 electrolyte', 'cmc-na', 'cmc-na molecules', 'zn cells', 'molecular dynamics', 'zinc ions', 'hydrogen bonding network', 'solvation sheath', 'stable cycle', 'crystal plane'] 
+
+Reference 344: ['sodium carboxymethyl cellulose', 'electrolyte additive', 'zn deposition', 'zn ion capacitors'] 
+
+TOP-K 345: ['high-performance li-co2 battery', 'single-atom copper', ['nitrogen-doped graphene'], 'copper catalyst', 'cu-n4 configuration', 'easy freeze-drying', 'heat-treatment process', 'charge density difference', 'covalent effect'] 
+
+Reference 345: ['single-atom cu catalyst', 'nitrogen-doped graphene', 'high capacity', 'long life', 'li-co2 battery'] 
+
+TOP-K 346: ['qse', 'li-metal batteries', 'structural qse', 'li symmetric cells', 'uv curing', 'high ions salt concentration', 'qse flame retardant', 'healing capability', 'h cycle life'] 
+
+Reference 346: ['antifreeze', 'flame retardant', 'hydrogel', 'quasi-solid-state electrolyte', 'electrospinning'] 
+
+TOP-K 347: ['fs/c/g anode', 'zdpc cathode electrodes', 'high-capacity/high-rate cathode material', 'sodium-ion hybrid energy storages', 'n-rich graphitic carbon networks', 'heteroatom-induced defects/mesopores', 'o-induced micropores', 'fast-rechargeable power density', 'high capacity', 'rapid ion transport', 'long-life cycle stability', 'interconnected mesopores', 'fast ion transport', 'ultrahigh energy density', 'facile electron conduction'] 
+
+Reference 347: ['low-crystallinity conductive multivalence iron sulfide-embedded s-doped carbon/graphene heterostructure anode', ' high-surface area o-doped carbon cathode3d porous n-rich graphitic carbon frameworks', ' operando analysis', ' ultrahigh energy density and fast-rechargeable sodium-ion hybrid energy storages'] 
+
+TOP-K 348: ['pvdf/lino3 prefabrication layer', 'high load ncm811battery', 'solid lino3', 'carbonate electrolyte', 'li battery', 'ion conducive components', 'corresponding decomposition kinetics', 'trace ether', 'no3', ['short-range compensation'], 'surface', 'cycle time', 'diffusion distance'] 
+
+Reference 348: ['carbonate-based electrolyte', 'short-range compensation', 'lithium nitrate', 'solid-electrolyte-interphase', 'li-metal battery'] 
+
+TOP-K 349: ['multi-phase synergistic mechanism', 'solid-state electrolyte applications', 'polymer matrix materials', 'composite electrolytes', 'dendrite growth', 'conductive polymer', 'electrochemical properties', 'safety performance', 'excellent safety', 'significant role'] 
+
+Reference 349: ['multi-phase synergistic', 'fireproof', 'solid-state electrolyte', 'li-metal battery'] 
+
+TOP-K 350: ['high-voltage solid polymer electrolyte', 'high-voltage spe', 'typical cases', 'various strategies', 'future opportunities', 'great demand'] 
+
+Reference 350: ['li metal anode', 'dendrites', 'solid polymer electrolyte', 'li metal batteries', 'sei film'] 
+
+TOP-K 351: ['ni-rich cathodes', ['surface degradation'], 'future research directions', 'structural stability', ['mechanical failure'], 'commercial applications'] 
+
+Reference 351: ['lithium-ion batteries', 'ni-rich layered cathodes', 'surface degradation', 'mechanical failure', 'stabilization strategies'] 
+
+TOP-K 352: ['2d mxenes', 'metal-ion battery', 'supercapacitor applications', 'conventional synthesis methods', 'scalable synthesis method', 'detailed overview'] 
+
+Reference 352: ['m', 'xenes', 'lewis acid molten salt', 'batteries', 'supercapacitors'] 
+
+TOP-K 353: ['energy storage technologies', 'energy storage applications', 'synthesis strategies', 'energy storage mechanisms', 'covalent organic frameworksand', 'cof-based materials', 'electrochemical performance', 'structural design', 'cofs', 'structural control', 'future prospects', 'review article', 'comprehensive overview'] 
+
+Reference 353: ['porous organic framework', 'nanoparticles', 'covalent organic frameworks', 'in-situ synthesis', 'energy storage'] 
+
+TOP-K 354: ['mn-based cathodes', 'cathode interfacial studies', 'energy storage performance', 'better-performing cathodes', 'different manganese oxides', 'interfacial reactions', 'interfacial modification strategies', 'current state', 'future trends', 'diverse mechanisms', 'critical outlook'] 
+
+Reference 354: ['rechargeable batteries', 'aqueous zinc ion batteries', 'manganese oxides', 'manganese-based cathodes', 'interfacial engineering'] 
+
+TOP-K 355: ['advanced flexible electrodes', 'flexible polymer electrolytes', 'flexible components', 'essential design principles', 'impressive advancements', 'valuable guide'] 
+
+Reference 355: ['potassium ion-based batteries', 'flexible energy storage devices', 'flexible electrode materials', 'solid electrolytes'] 
+
+TOP-K 356: ['salt cavern energy storagetechnologies', 'salt cavern', 'low grade salt formations', 'gas storage', 'carbon dioxide storage model', 'future challenges', 'current situation', 'future development trend', 'sediment space', ['carbon cycle']] 
+
+Reference 356: ['underground salt caverns', 'large-scale energy storage', 'renewable energy', 'solution mining', 'cavern construction', 'carbon cycle'] 
+
+TOP-K 357: ['bifunctional li-mmt', 'li/lifepo4 pouch cell', 'li/ncm523 cells', 'li', 'solid-state li/lifepo4', 'superhigh ionic conductivity', 'solid-state composite electrolyte', 'aggregated anion coordination', 'impressive electrochemical performance', 'high voltage', 'superior electrolyte', 'bipolar structure', 'excellent safety', ['solvation environment'], 'dual li'] 
+
+Reference 357: ['vertically-aligned composite solid electrolyte', 'dual li+ transportation channels', 'superionic conductivity', 'solvation environment', 'solid-state lithium-metal battery'] 
+
+TOP-K 358: ['centenarian aging', 'centenarian longevity', 'centenarian research', 'holistic aging', 'physiological determinants', 'related factors', 'limited studies', 'influence'] 
+
+Reference 358: ['centenarians', 'aging', 'longevity', 'lived experience', 'social factors'] 
+
+TOP-K 359: ['negative self-identification', 'ageist behaviour', 'positive societal identification', 'positive values', ['communication'], 'people liminality', 'ambiguity', 'ageist intent', 'processes'] 
+
+Reference 359: ['age identification', 'communication', 'social identity', 'liminality', 'self-ageism'] 
+
+TOP-K 360: ['geragogic lessons', ['aging'], ['old age'], 'chesterfield', 'important self-therapeutical element', 'private correspondence', 'specific language', 'correspondence'] 
+
+Reference 360: ['4th earl of chesterfield', 'aging', 'old age', 'letters', 'pedagogy of aging', 'eighteenth century'] 
+
+TOP-K 361: ['education', 'life course exclusion', 'socioeconomic resources', 'later life', 'men', 'emotional loneliness', 'indigenous people', 'key determinant', 'life loneliness'] 
+
+Reference 361: ['ageing', 'loneliness', 'life-course', 'gender', 'ethnicity', 'inequalities'] 
+
+TOP-K 362: ['aging', 'unloved object', 'technology studies', 'unintended outcome', 'care technology', 'critical aging', 'unrelated care practices matter', 'life aging', 'continuous practices'] 
+
+Reference 362: ['aging as object', 'shadows of care', 'sts', 'enactment', 'maintenance', 'temporality', 'ethnography'] 
+
+TOP-K 363: ['chilean people', 'sexual diversity', 'social networks', 'non-family composition', 'support networks', ['convoy model'], 'first approach'] 
+
+Reference 363: ['gay men', 'trans women', 'older people', 'social ties', 'convoy model'] 
+
+TOP-K 364: ['migrant women', 'gendered experiences', 'intersectional life course perspective', 'agential capacity', 'structural barriers', 'unique configurations'] 
+
+Reference 364: ['intersectional life course', 'ageing migrant women', 'transnational ageing', 'turkish-born women', 'sweden'] 
+
+TOP-K 365: ['rural grandparents', ['active aging'], 'conflict', 'devoted grandparenthood', 'urban environments', 'future research', 'geographic distance', 'potential conflict'] 
+
+Reference 365: ['active aging', 'consumption', 'familist discourse', 'grandparenthood', 'third age', 'rural'] 
+
+TOP-K 366: [['community care'], 'social participation', 'care practices', 'social networks', 'adults', 'mutual support', 'affective bonds'] 
+
+Reference 366: ['community care', 'clubs', 'sociability', 'older people', 'ethnography', 'chile'] 
+
+TOP-K 367: [['intergenerational solidarity'], 'intergenerational relations', 'protesters', 'participation', 'useful tool', 'sense', 'strong presence'] 
+
+Reference 367: ['intergenerational solidarity', 'intergenerational ambivalence', 'political activism', 'demonstrations', 'leadership'] 
+
+TOP-K 368: [['subjective age'], 'emotional empathy', ['implicit ageism'], 'low empathy', 'gerontology debate', 'adults', 'defense mechanism', 'health marker'] 
+
+Reference 368: ['empathy', 'implicit ageism', 'internalization', 'older adults', 'subjective age'] 
+
+TOP-K 369: [['social death'], 'advanced dementia', 'family members', 'social life', 'social agency', ['nursing home'], 'theory-driven analysis', 'social environment', 'adults', 'social value', 'urgent need'] 
+
+Reference 369: ['dementia', 'nursing homes', 'older adults', 'social death', 'qualitative study'] 
+
+TOP-K 370: [['climate change'], 'swedish press reporting', ['nursing homes'], 'professional care', 'qualitative analysis', 'representations', 'object logic'] 
+
+Reference 370: ['climate change', 'nursing homes', 'media representations', 'risk', 'subject-object logic'] 
+
+TOP-K 371: ['state-driven intervention today', 'aging', 'sustainable interventions', 'local contexts', 'global discourses', 'enterprise overstates hegemony', 'interventions', 'discourses', 'term success'] 
+
+Reference 371: ['ghana', 'ng', 'os', 'political-economy theory', 'gerontological imagination', 'population aging', 'aging discourse'] 
+
+TOP-K 372: ['social connection', 'meaningful activities', ['nursing homes'], 'activity programs'] 
+
+Reference 372: ['leisure activities', 'social participation', 'aged', 'nursing homes', 'staff', 'qualitative research'] 
+
+TOP-K 373: ['historic diary entries', 'active ageing discourses', 'future care needs', 'age', ['future'], 'contemporary understandings', 'critical approaches'] 
+
+Reference 373: ['temporality', 'time', 'future', 'diaries'] 
+
+TOP-K 374: ['covid-19 pandemic', ['social engagement'], 'social engagement pathways', 'socioecological context', 'socioeconomic status', ['resilience resources'], 'diverse experiences', 'fundamental role'] 
+
+Reference 374: ['covid-19older women', 'singapore', 'social engagement', 'resilience resources'] 
+
+TOP-K 375: ['social gerontology', 'later life', 'experience', 'new conceptualisation', 'previous approaches'] 
+
+Reference 375: ['embodiment', 'ageing', 'phenomenology', 'responsivity', 'ambiguity', 'qualitative research'] 
+
+TOP-K 376: ['non-binary genders', ['dementia'], 'dementia policy', 'gendered dimensions', 'normalising feminised patterns', ['women'], 'ltc reforms women', 'normative femininity women', 'marginalised status'] 
+
+Reference 376: ['dementia', 'women', 'aged care', 'aged care royal commission', 'care', 'feminised labour', 'gender', 'long-term care'] 
+
+TOP-K 377: ['sex-seeking behavior', 'gay ageism', 'open relationships', 'relationship type', 'stereotype embodiment theory', 'sexual activity', 'income level', 'frequency'] 
+
+Reference 377: ['aging', 'gay men', 'sexual behavior', 'sexual health', 'non-monogamy'] 
+
+TOP-K 378: [['capital controls'], 'fx interventions', 'capital outflow controls', 'macroeconomic fluctuations', ['foreign exchange interventions'], 'capital flows', 'inappropriate exchange rate regime'] 
+
+Reference 378: ['capital controls', 'foreign exchange interventions', 'economic fluctuation', 'exchange rate regime', 'china'] 
+
+TOP-K 379: ['frequent government infusions', 'indian banks', ['financial stability'], 'repeated capital infusions', 'possible moral hazard behavior', 'network risks', 'capital shortfall', 'recipient banks'] 
+
+Reference 379: ['government capital infusions', ' financial stability', ' systemic risk', ' default risk', ' emerging markets'] 
+
+TOP-K 380: ['state-chartered banks', 'failed bank auctions', 'acquirers', 'national banks', 'banks', 'concentrated branch networks', 'strong banks'] 
+
+Reference 380: ['bank failures', 'resolution', 'fdic'] 
+
+TOP-K 381: ['australian regulatory bank data', 'monetary policy shocks', 'asian banks', 'bank lending channel', 'lending elasticity', 'unconventional policies', 'traditional measures', 'corporate loans', 'muted effect', 'susceptible channels'] 
+
+Reference 381: ['bank lending', 'credit supply', 'monetary policy', 'quantitative easing'] 
+
+TOP-K 382: [['credit unions'], 'federal income taxes', 'tax subsidy', 'profit function-based approach', 'tax exemption', 'above-market deposit interest rates', 'similar commercial banks', 'large profit inefficiencies', 'various stakeholders'] 
+
+Reference 382: ['commercial banks', 'credit unions', 'profit inefficiency', 'tax exempt status'] 
+
+TOP-K 383: ['customer online banking reviews', 'bank-level risk', 'system-wide financial stability indicators', 'banks', ['public confidence'], 'household confidence', 'marginal role'] 
+
+Reference 383: ['financial stability', 'public confidence', 'bank risk, bank failures', 'customer opinions', 'online reviews'] 
+
+TOP-K 384: [['investment deregulation'], 'preemptive patenting effect', 'initial policy', ['private firms'], 'patent market', 'investment decision', ['innovation performance'], 'competition effect', 'study focus'] 
+
+Reference 384: ['investment deregulation', 'innovation performance', 'private firms', 'competition'] 
+
+TOP-K 385: [['rational bubbles'], 'risk-neutral investors', ['negative interest rates'], ['time-constrained asset'], 'bubble premium', 'interest rate', 'soft landings', 'absolute value', 'sufficient number'] 
+
+Reference 385: ['rational bubble', 'time-constrained asset', 'negative interest rate', 'bubble prevention', 'tax'] 
+
+TOP-K 386: ['fiscal deficits', ['sri lanka'], 'large fiscal deficits', 'growth-enhancing structural reforms', 'fiscal policy reforms', 'fiscal sustainability', 'debt default', 'long-term growth', 'economic crisis', 'elevated foreign debt', 'foreign debt', 'debt restructuring', 'root cause'] 
+
+Reference 386: ['economic and financial crises', 'sovereign debt crisis', 'emerging markets', 'economic policy', 'sri lanka'] 
+
+TOP-K 387: ['macroeconomic performance', 'business cycle shocks', 'financial imbalances', 'nonfinancial leverage', 'strong macro performance', 'buoyant economic growth', 'various financial imbalances', 'sizeable drivers'] 
+
+Reference 387: ['business cycle', 'financial cycle', 'financial stability', 'forecasting', 'sign-restricted svar'] 
+
+TOP-K 388: ['monetary trilemma', 'foreign exchange literature', 'domestic currency', 'comprehensive meta-analysis', 'dollar purchase'] 
+
+Reference 388: ['foreign exchange intervention', 'exchange rate', 'meta-analysis'] 
+
+TOP-K 389: [['foreign borrowings'], 'post-gfc period', 'firms', 'domestic credit', 'foreign finance', 'risky firms', 'external finance', 'abundant global credit', 'post-2013 period', 'real investments', 'global effect'] 
+
+Reference 389: ['emerging markets', 'foreign borrowings', 'global credit', 'regional linkages'] 
+
+TOP-K 390: [['macroprudential policy'], 'gdp growth distribution', 'borrower-based measures', 'capital measures', 'left tail', 'heterogeneous effects', 'advanced stages'] 
+
+Reference 390: ['financial stability', 'growth-at-risk', 'systemic risk', 'macroprudential policy', 'quantile regressions'] 
+
+TOP-K 391: ['foreign exchange intervention', 'market uncertainty', 'fx market', 'localized analysis', 'central bank', 'flimsy variables', 'effects', 'low agents'] 
+
+Reference 391: ['sterilized fx intervention', 'exchange rate uncertainty', 'policy discontinuity', 'incremental effect of intervention', 'regression discontinuity design'] 
+
+TOP-K 392: ['non-state-owned enterprises', 'firms', 'economic policy', ['corporate investment'], 'governmental efficiency', 'weak media development', ['political leader'], 'political connections', 'political office', 'significant promotional pressure', 'provinces', 'absence', 'pronounced impact'] 
+
+Reference 392: ['leadership vacuum', 'political leader', 'corporate investment'] 
+
+TOP-K 393: [['green revenues'], 'ftse russell', 'fama-french factors', 'green investors', 'construct green revenues', 'share prices', 'standard investors', 'asset pricing'] 
+
+Reference 393: ['capm', ' beta', ' green revenues', ' dynamic conditional correlation model'] 
+
+TOP-K 394: ['union-filed cases', 'employee lawsuits', 'labor violations', 'new business opportunities', 'store closures', 'litigation costs damage firms'] 
+
+Reference 394: ['employee treatment', 'labor unions', 'business downsizing', 'labor lawsuits'] 
+
+TOP-K 395: ['interbank contagion', 'liquidity infusions', 'stress test results', 'crisis prevention', 'crisis management tool', 'optimal capital', 'infusion amounts'] 
+
+Reference 395: ['interbank networks', 'contagion', 'fire sales', 'stress testing', 'macroprudential policy', 'optimal control'] 
+
+TOP-K 396: ['interbank lending rates', 'interbank exposures', 'deposit rates', 'banks', 'capital buffers', 'lending rates', ['counterparty risk'], 'panel data', 'deposit rate', 'simultaneous equations', 'important banks', 'average pay'] 
+
+Reference 396: ['interbank market', 'counterparty risk', 'systemic risk'] 
+
+TOP-K 397: ['ltv policies', 'borrower-based macroprudential measures', 'risky lending', 'negative housing equity', 'permanent negative side-effects', 'housing finance', 'housing market'] 
+
+Reference 397: ['bbm', ' panel methods', ' abm', ' dsge', ' inequality', ' policy effectiveness'] 
+
+TOP-K 398: [['emotional exhaustion'], 'hybrid work stressors', ['psychological withdrawal behavior'], 'hybrid work', 'challenge stressors', 'hindrance stressors', ['proactive personality'], 'positive relationship'] 
+
+Reference 398: ['challenge/hindrance stressors of hybrid work', 'conservation of resources theory', 'emotional exhaustion', 'psychological withdrawal behavior', 'proactive personality'] 
+
+TOP-K 399: ['self-protection mode', 'academics', 'strategies', 'horney', 'resources theory principle', 'investment activities'] 
+
+Reference 399: ['conservation of resources', ' coping', ' self-protection', ' karen horney', ' auto-ethnography'] 
+
+TOP-K 400: ['post-maternity leave reentry', 'relational enrichment', 'transition', 'relational movement', 'crucial relational changes'] 
+
+Reference 400: ['work/family', 'working mothers', 'relationships at work', 'work transitions', 'qualitative methodology'] 
+
+TOP-K 401: [['future work selves'], 'future work self', ['proactive career behavior'], 'fwss moderates', 'control', 'interaction', 'effect'] 
+
+Reference 401: ['artificial intelligence', 'future work selves', 'proactive career behavior'] 
+
+TOP-K 402: ['workplace performance pressure', ['work-goal progress'], ['performance pressure'], 'performance pressure-induced fear', ['career prospects'], 'work goals', 'employees', 'mental preoccupation', 'performance failure'] 
+
+Reference 402: ['performance pressure', 'fear of performance failure', 'mental preoccupation with work', 'work-goal progress', 'career prospects'] 
+
+TOP-K 403: ['daily task significance', ['task significance'], 'daily work withdrawal', 'positive affect', 'positive mood', 'negative affect', 'next morning'] 
+
+Reference 403: ['task significance', 'meaningful work', 'affect', 'work performance'] 
+
+TOP-K 404: ['flexible non-dividers', 'flexible non-dividers profile', ['psychological job control'], 'flexible dividers', 'worker profiles', 'non-flexible non-dividers', 'work time', 'non-flexible dividers', 'social roles', 'psychological experience', 'employees', ['boundary control'], 'time', 'parental status', 'carer status'] 
+
+Reference 404: ['boundary control', 'psychological job control', 'work engagement', 'job satisfaction', 'work-life balance'] 
+
+TOP-K 405: [['leader humility'], ['career satisfaction'], 'implicit leadership theory perspective', ['proactive career behavior'], ['power distance climate'], 'leader humility leader humility', 'followers', 'novel outcomes', 'ideal form'] 
+
+Reference 405: ['leader humility', 'follower narcissism', 'power distance climate', 'perceived leader competence', 'proactive career behavior', 'career satisfaction'] 
+
+TOP-K 406: ['personal attributions', ['promotion failure'], ['career proactivity'], 'employees', 'career responses', 'negative effects', 'inhibiting effect'] 
+
+Reference 406: ['promotion failure', 'promotion failure attributions', 'failure reflection', 'failure rumination', 'career proactivity'] 
+
+TOP-K 407: ['gpa', 'career success', 'long-term impact', 'longitudinal research', 'little effort', 'resource perspective', 'initial levels'] 
+
+Reference 407: ['objective career success', 'subjective career success', 'grade point average', 'motivation to lead', 'latent growth curve analysis'] 
+
+TOP-K 408: ['pcb', ['personality traits'], ['job performance'], 'personality predictors', 'emotional stability', 'psychological contract breachwith personality', 'equity sensitivity', 'multiple r', 'relationships', 'total variance'] 
+
+Reference 408: ['personality traits', 'psychological contract breach', 'job performance', 'meta-analysis'] 
+
+TOP-K 409: ['performance-promotion attribution', 'ict centrality', 'performance-promotion attibution', 'self-serving attribution', 'supervisory ict demands', 'employee proactive behavior', 'employee unethical behavior', 'positive effect', 'hours'] 
+
+Reference 409: ['supervisory ict demands after hours', 'unethical behavior', 'proactive behavior', 'attribution'] 
+
+TOP-K 410: ['work-based job embeddedness constructs', 'organizational embeddedness family embeddedness', 'employee turnover', 'job performance'] 
+
+Reference 410: ['high performance work practices', 'job embeddedness', 'conservation of resources theory', 'retention'] 
+
+TOP-K 411: [['radiologists'], 'work identity', 'radiologists job craft', 'technological advancements', 'transformative effects', 'particular focus'] 
+
+Reference 411: ['job crafting', 'identity work', 'artificial intelligence', 'identity crafting', 'radiologists'] 
+
+TOP-K 412: ['fssbs', 'social-exchange perspective', 'employee wellbeing', 'family supportive supervisor', 'work outcomes', 'resource-based perspective', 'meta-analytic review', 'resource-based view', 'theoretical perspectives', 'explanatory power', 'nomological network'] 
+
+Reference 412: ['fss', 'bs', 'work-family enrichment', 'work-family conflict', 'job satisfaction', 'in-role performance', 'lmx'] 
+
+TOP-K 413: ['career ecosystem theory', 'future research agenda', 'sustainable career theory', ['artificial intelligence'], 'advance sustainable career ecosystems', 'sustainable career ecosystem', 'liminality dimension', ['career practitioners'], 'transformational actor', 'sustainable career ecosystem consideration'] 
+
+Reference 413: ['sustainable career', 'career ecosystem', 'artificial intelligence', 'career practitioners', 'liminality'] 
+
+TOP-K 414: ['vocational psychology', 'career trajectories', 'diversity process theory', ['career lifecycle'], 'future research', 'career stages', 'inclusion processes', 'vocational paths', 'information processing', 'diversity effects'] 
+
+Reference 414: ['diversity', 'identity', 'information elaboration', 'inclusion', 'career lifecycle', 'lifespan'] 
+
+TOP-K 415: ['career barriers', ['employability trajectories'], 'low barriers', 'graduates', 'high barriers', ['career barriers profiles'], ['ethnic barriers'], 'weak gender'] 
+
+Reference 415: ['career barriers profiles', 'gender barriers', 'ethnic barriers', 'perceived employability', 'employability trajectories'] 
+
+TOP-K 416: ['employee well-being', 'organizational support', 'employee well-being outcomes', 'home readiness', 'home', 'adequate organizational support', 'sudden contextual shift'] 
+
+Reference 416: ['contextual impact', 'working from home', 'well-being', 'empowerment', 'sensemaking'] 
+
+TOP-K 417: ['leader-subordinate relations', 'supervisor-subordinate relationships', 'daily autonomy', 'work-family conflicts'] 
+
+Reference 417: ['lmx', 'work-family', 'support', 'accommodation'] 
+
+TOP-K 418: ['recombinant antigens', 'recombinant proteins', 'recombinant p97r1', ['th17-type immune responses'], 'mucosal immunity', 'humoral immunity', 'specific iga responses', 'localized cellular immune responses', 'specific igg responses', 'th17 responses', 'robust cellular immunity', 'cell-biased responses', 'induction'] 
+
+Reference 418: ['cd8+ t cells', 'cellular immunity', 'mucosal immune response', 'mycoplasma hyopneumoniae', 'subunit vaccine', 'th17-type immune response'] 
+
+TOP-K 419: ['equine rotavirus', 'passive immunity', 'virus-neutralizing antibody titers', 'foals', 'g3 monovalent vaccine', 'mares', 'g14 genotypes', 'mare', 'antibodies'] 
+
+Reference 419: ['equine rotavirus a', ' maternal antibody', ' vaccination dynamics', ' cross-reactivity', ' humoral immunity'] 
+
+TOP-K 420: ['c3d-fused pcv2d cap protein', 'pcv2d-c3d-vlp', 'pcv2d vaccine design', 'molecular adjuvant c3d', 'virus challenge', 'cellular immune responses', 'alternative strategy'] 
+
+Reference 420: ['porcine circovirus type 2vaccine', 'virus-like particle', 'c3d'] 
+
+TOP-K 421: ['s1 subunit vaccine', 's1 subunit truncation', 's1-truncated fragment', '5-days-old piglets', 'humoral immunity', 'strong nabs', 'complete protection'] 
+
+Reference 421: ['pdcov', ' s1 subunit', ' inactivated', ' pdcov vaccine', ' protective immunity'] 
+
+TOP-K 422: ['ovipneumoniae pdhd', 'immunogenic plasminogen-binding protein', 'pdhd protein', 'ovipneumoniae infection', 'putative adhesin', 'potential vaccine targets'] 
+
+Reference 422: ['mycoplasma ovipneumoniae', 'dihydrolipoamide dehydrogenase', 'adhesins', 'biofilm', 'plasminogen'] 
+
+TOP-K 423: [['type i-e crispr-cas system'], 'crispr-cas system', 'bacterial invasion', 'epithelial cells', 'cas proteins', 'pullorum', 't3ss1 genes expression', 'normal conditions'] 
+
+Reference 423: ['type i-e crispr-cas system', 'salmonella enterica serovar pullorum', 'type i fimbriae', 'type iii secretions system 1'] 
+
+TOP-K 424: ['e2 protein', 'df-1 cells', 'novel plasminogen receptor', 'synoviae', 'synoviae e2', 'polyclonal antibody', 'cell membrane', 'extracellular matrixcomponents', 'good immunogenicity'] 
+
+Reference 424: ['mycoplasma synoviae', 'dihydrolipoamide acetyltransferase', 'adherence', 'extracellular matrix', 'plasminogen', 'invasion'] 
+
+TOP-K 425: ['mycoplasmal pneumonia', 'high-dose aerosols', 'infectious aerosols', 'severe lung lesions', 'aerosol infectious dose', ['gilts'], 'typical clinical signs', 'artificial exposure', 'natural route', 'experimental reproduction'] 
+
+Reference 425: ['mycoplasma hyopneumoniae', 'aerosol', 'infection model', 'real-time pcrelisa', 'gilts'] 
+
+TOP-K 426: ['mitochondrial oxidative stress', 'chlamydia psittaci infection', ['chlamydia psittaci'], 'cgas-sting signaling pathway', 'mitochondrial damage', 'mitochondrial dna', 'cytoplasm', 'il-1β work'] 
+
+Reference 426: ['chlamydia psittaci', ' mtros', ' mtdna', ' cgas-sting', ' type i interferon'] 
+
+TOP-K 427: ['oral challenge', 'coli tetracycline-resistance', '2-day old chicks', 'potential donor'] 
+
+Reference 427: ['antimicrobial resistance', 'salmonella', 'plasmids', 'chickens', 'transmission', 'animal experiment', 'horizontal gene transfer'] 
+
+TOP-K 428: ['csfv c protein', 'myo1b knockdown', ['exosomes'], 'host cell myo1b protein', 'core-myo1b interaction', 'viral titer', 'specific n-terminal residues', 'viral component content', 'c protein'] 
+
+Reference 428: ['classical swine fever virus', 'core protein', 'myosin 1b', 'exosomes'] 
+
+TOP-K 429: ['waaf', 'cps synthesis', 'acbd', 'ccbf1', 'chicken serum', 'biofilm formation', 'l6', 'waaq', 'los synthesis'] 
+
+Reference 429: ['avibacterium paragallinarum', 'lipooligosaccharides', 'capsular polysaccharides', 'pathogenicity', 'immunogenicity'] 
+
+TOP-K 430: ['brucellosis eradication programs', 'caserta area', ['brucella abortus'], 'genetic diversity', 'progressive reduction'] 
+
+Reference 430: ['brucella abortus', 'bubalus bubalis', 'whole genome sequencing', 'outbreaks', 'eradication plans'] 
+
+TOP-K 431: ['prrsv', 'prrsv-2and occasional occurrences', 'epidemiological trends', ['china'], 'historical context', 'rapid evolution', 'distinct lineages'] 
+
+Reference 431: ['porcine reproductive and respiratory syndrome virus', 'evolution', 'diversity', 'lineages', 'disease prevention and control', 'china'] 
+
+TOP-K 432: ['conventional antibiotics', 'microbial resistance', 'poultry infections', 'growth animal stimulation', 'poultry production', 'growth stimulation activities', 'several bacterial infections', 'wide use'] 
+
+Reference 432: ['antimicrobial peptides. poultry. antibiotics. bacterial infections'] 
+
+TOP-K 433: ['brucella intracellular survival', 'abortus rb51', 'macrophages ferroptosis', 'gsh pathway', 'early stage', '● b', '● ferroptosis functions'] 
+
+Reference 433: ['brucella', 'macrophages', 'ferroptosis', 'p53intracellular survival'] 
+
+TOP-K 434: ['mrna splicing', 'pdcov n protein', 'mrna splice activity', 'spliceosomal snrnp assembly', 'rna translation', 'host proteins', 'stress granule assembly'] 
+
+Reference 434: ['porcine deltacoronavirus', 'nucleocapsid protein', 'interaction network', 'go analysis', 'kegg analysis'] 
+
+TOP-K 435: ['emirna', 'viral-derived emirna', 'm6a methylation', 'gpc5 gene'] 
+
+Reference 435: ['avian leukosis virus subgroup j', 'emi', 'rnagpc5m6a methylation', 'mi', 'rna transcriptional regulation'] 
+
+TOP-K 436: ['pcr-positive wolves', 'zoonotic l', 'wolves', 'l', 'borgpetersenii', 'first report'] 
+
+Reference 436: ['leptospirosis', 'leptospira', 'spain', 'italy', 'wolf', 'zoonosis'] 
+
+TOP-K 437: ['hybridoma cell lines', 'elisa diagnostic method', 'mabs', 'n protein', 'high anti-pedv affinity', ['b cell epitope'], 'first time'] 
+
+Reference 437: ['pedvn protein', 'b cell epitope'] 
+
+TOP-K 438: [['secondary overtriage'], 'overall secondary overtriage rate', 'abbreviated injury scale score', 'blunt trauma', 'injury severity score', 'early discharge', 'pediatric group', 'surgical operation'] 
+
+Reference 438: ['secondary overtriage', 'interhospital transfer', 'secondary trauma diversion', 'trauma system', 'trauma center', 'non-trauma center'] 
+
+TOP-K 439: ['hospice transfer', 'direct transfers', 'direct discharges', 'emergency department', 'documentation changes', 'targeted intervention'] 
+
+Reference 439: ['hospice', 'palliative care', 'end-of-life care', 'goal-concordant care', 'quality improvement'] 
+
+TOP-K 440: ['emergency surgical airwayaccess', 'primary airway intervention', 'serious injuries', 'similar survival'] 
+
+Reference 440: ['emergency', 'surgical', 'airway', 'cricothyrotomy', 'trauma', 'intubation'] 
+
+TOP-K 441: ['tracheal ring method', 'tracheal ring methods', 'usg', 'correct endotracheal tubeposition', 'prospective cross-sectional study', 'diagnostic accuracy', 'current gold standard', 'tube depth'] 
+
+Reference 441: ['usgx-ray', 'endotracheal tube position', 'tracheal rings', 'transverse view', 'longitudinal view'] 
+
+TOP-K 442: ['high-temperature active external rewarming', 'dokei protocol', 'innovative on-site care', 'self-rescue situations', 'advanced life support', 'cardiac arrest risk', 'dynamic rescue scenarios', 'core temperature', 'rescue collapse', 'challenging settings'] 
+
+Reference 442: ['mountain rescue', 'hypothermia', 'rewarming', 'emergency medicine', 'out-of-hospital', 'wilderness medicine'] 
+
+TOP-K 443: [['fentanyl'], 'withdrawal syndromes', ['xylazine'], 'patient-directed discharge', 'non-medical opioid supply', 'multi-modal strategy', 'conventional opioids', 'medical advice disposition', 'adjunctive medications', 'potential options', 'united states', 'sympathetic activation', 'ever-growing portion', 'withdrawal severity', 'complexity use'] 
+
+Reference 443: ['opioid withdrawal', ' fentanyl', ' xylazine', ' moud', ' tranq dope'] 
+
+TOP-K 444: ['current aed registries', 'public aeds', 'aed utilization', 'available aeds', 'trained laypersons', 'many businesses'] 
+
+Reference 444: ['bystander defibrillation', 'aedohca'] 
+
+TOP-K 445: ['tests', 'post-emergency department', 'successful contact', 'discharge', 'innovative solutions', 'important area'] 
+
+Reference 445: ['homelessness', 'communication', 'health equity', 'emergency medicine', 'emergency department', 'infectious diseases'] 
+
+TOP-K 446: ['non-contrast ct', 'normal non-contrast ct', 'patients', 'serious diagnosis'] 
+
+Reference 446: ['thunderclap headache', 'clinical decision rule', 'serious cause headache', 'reversible cerebral vasoconstriction syndrome', 'benign cause headache'] 
+
+TOP-K 447: ['emergency department visits', 'children', 'years'] 
+
+Reference 447: ['water beads', 'bowel obstruction', 'pediatric', 'superabsorbent polymer', 'injury'] 
+
+TOP-K 448: ['ohca survivors', 'hdl-c post-6 h resuscitation', ['neurologic outcomes'], 'lactate level', 'favorable neurological outcomes', ['albumin'], 'feasible predictive model', 'mg/dl', 'favorable neurological oucomes tc'] 
+
+Reference 448: ['lactate-to-albumin ratio', 'albumin', 'total cholesterol', 'high-density lipoprotein cholesterol', 'neurological outcomes', 'out-of-hospital cardiac arrest'] 
+
+TOP-K 449: ['hip fracture patients', 'system processes', 'surgery', 'time', 'adverse outcomes', 'outcome differences', 'patients evaluation'] 
+
+Reference 449: ['emergency department', 'boarding', 'hip fracture', 'clinical outcomes'] 
+
+TOP-K 450: ['asian head injury patients', 'asian patients', 'communication barriers', 'head ct', 'communication services', 'white patients', 'future studies'] 
+
+Reference 450: ['racial difference', 'head injuries', 'diagnostic head computed tomography', 'limited english proficiency'] 
+
+TOP-K 451: [['sepsis'], 'afebrile patients', 'sepsis patients', 'febrile patients', 'screening tools', 'mortality', 'rapid identification'] 
+
+Reference 451: ['sepsis', 'fever', 'antibiotics', 'emergency department', 'prognosis'] 
+
+TOP-K 452: ['artificial neural networks', 'acute coronary occlusion', 'ecgs artificial neural networks', 'experienced physicians', 'significant heterogeneity', 'promising adjunct'] 
+
+Reference 452: ['artificial intelligence', 'neural networks', 'electrocardiogram', 'acute coronary syndrome', 'emergency department'] 
+
+TOP-K 453: ['digoxin poisoning', 'patient monitoring', 'life-threatening issue', 'high prevalence', 'initial assessment warrants'] 
+
+Reference 453: ['fab fragments', 'antidote', 'digoxin', 'poisoning', 'seven-day mortality', 'thirty-day mortality'] 
+
+TOP-K 454: ['post-immunization fever', 'young infants', 'shared decision-making', 'fever guidelines', 'urine culture', 'invasive approach', 'urine sample'] 
+
+Reference 454: ['fever', 'bacteremia', 'infant', 'immunization', 'bacterial infections', 'pediatric emergency medicine'] 
+
+TOP-K 455: [['abdominal pain'], 'acetaminophen overdose', 'liver injury', 'acute liver injury', 'patients', 'future treatment guidelines', 'emergency department', 'time', 'non-specific finding', 'presentation', 'unknown correlation', 'similar risk'] 
+
+Reference 455: ['abdominal pain', 'acetaminophen', 'overdose', 'toxicology'] 
+
+TOP-K 456: ['ohca', 'immediate coronary angiography', 'st-segment elevation', ['revascularization'], 'multivariable logistic regression analysis', 'patients', 'favorable neurological outcomes', 'outcomes', 'cardiovascular data', 'time'] 
+
+Reference 456: ['out-of-hospital cardiac arrest', 'acute myocardial infarction', 'st-segment-elevation myocardial infarction', 'revascularization', 'percutaneous coronary intervention'] 
+
+TOP-K 457: ['mortality', 'covid-19', 'ventilator use', 'tools', 'days post admission', 'good sensitivity', 'offer comparable ratios'] 
+
+Reference 457: ['triage', ' covid', ' mews', ' news', ' ventilation'] 
+
+TOP-K 458: ['dfi concept', 'duct geometries', '8-hole nozzle injector', 'overall soot net formation', 'medium duty optical engine', 'nozzle orifices', 'soot reduction levels', 'geometrical characteristics'] 
+
+Reference 458: ['ducted fuel injection', 'compression ignition', 'soot', 'n', 'ox', 'optical techniques', 'combustion'] 
+
+TOP-K 459: ['dft computational data training', 'ion battery cathodes', 'promising mno2 cathodes', 'ion batteries', 'experimental data', 'dft calculations', 'multiple performance evaluation screening', 'valid descriptors', 'error correction', 'key properties', 'complete al3'] 
+
+Reference 459: ['aluminum-ion batteries', 'data-driven', 'cathode materials', 'data mining', 'machine learning', 'small samples'] 
+
+TOP-K 460: ['highway ev', 'ev station', 'traffic flow', 'optimal pv', 'different planning scenarios', 'full model', 'stations optimal allocation methodology', 'standalone ev'] 
+
+Reference 460: ['electric vehicle', 'charging stations', 'mixed integer linear programming', 'linear programming', 'highway service', 'photovoltaic system', 'cost function'] 
+
+TOP-K 461: ['co2 hydrate storage cap', 'dynamic formation charactistics', 'hydrate formation', 'hydrate cap integrity', 'cap stability', 'flow direction', 'spatial dependence', 'minimum safety pressure'] 
+
+Reference 461: ['co2 storage', 'spatial-temporal distribution characteristics of hydrate cap', 'co2 flowrate', 'initial storage pressure', 'hydrate cap stability'] 
+
+TOP-K 462: ['gas production enhancement effect', 'thermo-hydraulic-chemical model', 'gas production', ['five-spot well'], 'well-to-well interference', 'silty natural gas hydrate', 'bottomhole pressure', 'sensitivity study', 'single well'] 
+
+Reference 462: ['natural gas hydrate', 'five-spot well', 'energy recovery', 'depressurization', 'gas production enhancement', 'sensitivity analysis'] 
+
+TOP-K 463: ['photovoltaic types', 'detailed photovoltaic data', 'application scenarios', 'type information', 'downstream tasks'] 
+
+Reference 463: ['photovoltaics', 'photovoltaic power station', 'instance segmentation', 'classification and segmentation of photovoltaics', 'pv-csn'] 
+
+TOP-K 464: ['transient global sensitivity analyses', 'thermal response uncertainty', 'temporal sensitivity', 'time-dependent parameter contributions', 'temporal changes', 'response uncertainty', 'relative parameter sensitivity', 'parameter contributions', 'load patterns', 'key influential parameters'] 
+
+Reference 464: ['uncertainty quantification', 'dynamic uncertainty management', 'ground heat exchanger', 'ground thermal response function', 'transient global sensitivity analysis', 'underground thermal energy storage', 'ground-source heat pump'] 
+
+TOP-K 465: ['heat pump cycles', 'thermodynamic performance', 'high-temperature conditions natural fluids', 'industrial applications'] 
+
+Reference 465: ['heat pump', 'high temperature', 'industrial', 'natural working fluids', 'cop', 'lorenz efficiency'] 
+
+TOP-K 466: ['internal short circuit faults', ['double-layer fault diagnosis strategy'], 'variable voltage window mechanism', 'computational efficiency', 'real vehicle data', 'inconsistency effects', 'cell', 'voltage slope sorting levels', 'accuracy', 'algorithm generalisation'] 
+
+Reference 466: ['power batteries', 'internal short circuit', 'fault diagnosis', 'variable voltage window', 'cell charging voltage slope ranking', 'double-layer fault diagnosis strategy'] 
+
+TOP-K 467: [['digital twins'], 'operation scheduling framework', 'tes', 'forecasting accuracy', 'demand forecasting', ['heat pumps'], 'heat pump operation', 'milp optimization', 'heat pump performance degradation', 'commercial system', 'fouling-driven adjustment', 'fouling levels'] 
+
+Reference 467: ['heat pump', 'thermal energy storage', 'operation scheduling', 'digital twin', 'fouling'] 
+
+TOP-K 468: ['two-scenario operation simulation', 'high-fidelity surrogate models', 'holistic optimal energy-saving operation', 'average energy-saving ratios', ['input convex neural networks'], 'optimizer', 'concentrated optima'] 
+
+Reference 468: ['chiller plant', 'input convex neural network', 'operation optimization', 'heterogeneous', 'all-parallel', 'hvac'] 
+
+TOP-K 469: ['mnls regression function mnls', 'convexity assumptions', 'energy performance', 'regression function', 'monotone assumption', 'school buildings'] 
+
+Reference 469: ['nonparametric methods', 'regression analysis', 'concavity', 'convexity', 'building energy consumption forecasting'] 
+
+TOP-K 470: ['control strategy', 'equal power allocation phase', 'strategy', 'rapid startup', 'unused wind energy', 'minimum power threshold'] 
+
+Reference 470: ['electrolytic hydrogen production', 'wind energy', 'multi-electorlyzer', 'optimized power allocation'] 
+
+TOP-K 471: ['two-stage robust optimization', ['renewable energy penetration rate'], 'power system', 'supply-demand balance mechanism', 'different flexibility resources', 'effective flexibility supply model', 'capacity distribution model'] 
+
+Reference 471: ['flexibility capacity assessment', 'supply and demand characteristics', 'robust optimization', 'uncertainty', 'renewable energy penetration rate'] 
+
+TOP-K 472: ['innovative csp system integration', 'water co-generation', 'optimisation methodologies', 'ambient temperature', 'comprehensive techno-economic evaluation', 'innovative design', 'ambient temperatures', 'organic fluids', 'power', 'water techno-economic performance'] 
+
+Reference 472: ['concentrated solar power', 'organic rankine cycle', 'parabolic trough', 'desalination', 'membrane distillation', 'supercritical carbon dioxide brayton cycle'] 
+
+TOP-K 473: ['offshore solar pv resource', 'offshore pv farm development', 'offshore pv projects', 'long-term ocean conditions', ['exploitation potential'], 'module efficiency', 'first time', 'new approach', 'suitable locations', 'thorough investigation'] 
+
+Reference 473: ['offshore solar pvera5seas around china', 'exploitation potential', 'climate change'] 
+
+TOP-K 474: ['up-conversion piezoelectric energy harvester', ['nonlinear energy sink'], 'frequency up-conversion mechanism', 'superharmonic resonance', 'lagrange equation', 'asymmetric displacements', 'strong-weak voltage', 'frequency mismatches', 'beam theory'] 
+
+Reference 474: ['piezoelectric energy harvesting', 'nonlinear energy sink', 'magnetic plucking', 'frequency up-conversion', 'bistable'] 
+
+TOP-K 475: ['energy substitution', 'coal', 'trans-log production function', 'substitution elasticity', 'gas', ['technical progress'], ['industrial sector'], 'relative difference', 'capital stands'] 
+
+Reference 475: ["factor's substitution", 'industrial sector', 'technical progress', 'pakistan'] 
+
+TOP-K 476: ['ems', 'recurrent actor-critic network', 'discrete-continuous hybrid actions', ['linear mapping trick'], 'observable markov decision process', 'different emss', 'test cycles', 'memory function', 'training cycle'] 
+
+Reference 476: ['dual-motor two-speed bev', 'energy management strategies', 'linear mapping trick', 'partially observable markov decision process', 'long short-term memory network'] 
+
+TOP-K 477: [['renewable energy'], ['financial development'], ['digital economy'], 'nonlinear u-shaped relationship', 'nonlinear impacts', 'significant positive impact'] 
+
+Reference 477: ['digital economy', 'financial development', 'renewable energy'] 
+
+TOP-K 478: ['f-cpp-acp-tmp', 'toothpaste', 'clinical trials', 'subsurface caries lesion', 'enamel hardness', 'valuable insights'] 
+
+Reference 478: ['demineralization', 'dental enamel', 'phosphates', 'biofilm'] 
+
+TOP-K 479: ['dentin substrate reinforcement', 'secondary decay', 'antimicrobial compounds', 'natural compounds', 'clinical translation', 'main reasons restorations', 'different classes'] 
+
+Reference 479: ['oral biofilm', 'acquired pellicle', 'dentin collagen', 'resin composites', 'dental adhesives', 'polymerization'] 
+
+TOP-K 480: ['dental plaque', 'aligner surface', 'intraoral aging', 'aligner transparency', 'polymer thermomechanical properties', 'inorganic compounds', 'chemical structures'] 
+
+Reference 480: ['orthodontic aligners', 'intra-oral aging', 'leachable', 'thermomechanical properties', 'surface', 'biological safety', 'aesthetic appearance'] 
+
+TOP-K 481: ['membrane', 'electrospinning parameters', 'antimicrobial potential', ['drug release'], 'bone mineralization', 'similar fiber diameter', 'significant difference'] 
+
+Reference 481: ['antimicrobial', 'bone', 'drug release', 'electrospinning', 'nitazoxanide', 'periodontitis'] 
+
+TOP-K 482: ['silica nanoparticles', 'dental materials', 'potential silica nanoparticles', 'physicochemical properties', 'sustained-release drug delivery system', 'antimicrobial substances', 'extraoral materials'] 
+
+Reference 482: ['nanotechnology', 'nanoparticles', 'silica', 'drug delivery', 'dentistry'] 
+
+TOP-K 483: ['experimental 3d printer', 'clean on-demand production', 'remarkable dimensional accuracy', 'indirect restorations', 'direct ink', 'proper tuning', 'excellent affordability'] 
+
+Reference 483: ['direct ink writing3d printing', 'additive manufacturing', 'resin composites', 'accuracy'] 
+
+TOP-K 484: ['calcium silicate cements', 'calcium silicate cement', ['calcium silicate'], 'bioactive glass', 'mesoporous bioactive glass', 'novel dental cements', 'collagen inclusion', 'setting time', 'modest regeneration effect'] 
+
+Reference 484: ['anti-bacterial agents', 'calcium silicate', 'collagen', 'dental pulp', 'mesoporous bioactive glass nanoparticles', 'odontogenic'] 
+
+TOP-K 485: ['ha', 'tio2 bioceramic material', 'bovine ha', 'tio2', 'mechanical iso standards', 'chemical solubility limits', 'sustainability potential', 'fracture toughness'] 
+
+Reference 485: ['ceramics', 'dental materials', 'nanotechnology', 'apatites'] 
+
+TOP-K 486: ['fracture resistance', 'elastic gradients', 'hybrid materials', 'biaxial flexural strength', 'restorative materials', 'load-bearing capacity', 'flexural stress'] 
+
+Reference 486: ['cad-cam', 'composite resins', 'ceramics', 'flexural strength', 'elastic modulus', 'mechanical stress'] 
+
+TOP-K 487: ['dental composite polymerisation', 'dental composites', 'o-ptir spectroscopy', ['filler content'], '3d micro-ct', ['volumetric shrinkage'], ['polymerisation shrinkage'], 'material performance', 'linear shrinkage', 'o-ptir techniques advances understanding', 'experimental groups', 'novel insights'] 
+
+Reference 487: ['dental composite resins', 'polymerisation shrinkage', 'volumetric shrinkage', 'micro-cto-ptir spectroscopy', 'filler content', 'degree of conversion'] 
+
+TOP-K 488: ['tideglusib-nps', 'undoped nps', 'dentin', 'frictional pullout', 'stress concentration', 'load'] 
+
+Reference 488: ['mineralized dentin', 'tideglusib', 'nano-dma', 'nanoparticles', 'atomic force microscopy. stress concentration', 'complex modulus', 'tan delta'] 
+
+TOP-K 489: ['fatigue', 'bovine ribs', 'human bone tissue', ['dental implants'], 'oral service', 'high resistance', 'adequate method'] 
+
+Reference 489: ['dental implants', 'fatigue fractures', 'fractographic analysis'] 
+
+TOP-K 490: ['lithium disilicate glass-ceramics', 'glass-ceramics', ['optical properties'], 'chemical composition'] 
+
+Reference 490: ['lithium disilicate', 'lithium metasilicate', 'dental ceramics', 'cad-cam', 'microstructure', 'optical properties'] 
+
+TOP-K 491: ['ph sensitive polymersome', 'biofilm-selective therapy', 'oral microbiome', 'dental caries prevention', 'rat caries model', 'biofilm inhibitors ha5', 'species-specific selectivity', 'peha5', 'ha6', 'caries scores', 'viable approach', 'significant reduction'] 
+
+Reference 491: ['dental caries', 'streptococcus mutans', 'biofilm', 'glucosyl transferase', 'ph-responsive', 'polymersome'] 
+
+TOP-K 492: [['kubelka-munk theory'], ['optical properties'], 'spectral behavior', 'materials composition', 'material selection', 'specific conditions'] 
+
+Reference 492: ['cad-cam materials', 'kubelka-munk theory', 'optical properties', 'translucency parameter'] 
+
+TOP-K 493: ['nano-particle jettingtechnology', 'zirconia bond performance', 'zirconia surface', 'mdp application', 'zirconia bond durability', 'high printing accuracy', 'circular microstructures', 'microstructured surface', 'apa treatment'] 
+
+Reference 493: ['nanoparticle jetting', 'morphological optimization', 'finite element analysis', 'shear bond strength', 'zirconia'] 
+
+TOP-K 494: ['diabetic mouse models', 'mineral-to-organic ratios', 'cervical regions', 'type', 'notable wear'] 
+
+Reference 494: ['dentin', 'diabetes', 'nanoindentation', 'mouse models'] 
+
+TOP-K 495: ['experimental fluoride-doped calcium phosphate', 'vs20f', 'experimental calcium phosphate', 'gene expression markers runx2', 'dilution extracts', 'pulp-capping application', 'dose-dependent capacity', 'elevated alp activity', 'promising cements'] 
+
+Reference 495: ['biocompatibility', 'calcium phosphate', 'human dental pulp stem cells', 'ion-release', 'osteogenic', 'remineralisation markers'] 
+
+TOP-K 496: ['cholesteryl methacrylate', 'endocyclic double bond', 'polymerization shrinkage force', 'photochemical cycloaddition', 'initial microhardness', 'promising polymer', 'additional site'] 
+
+Reference 496: ['composite resins', 'methacrylates', 'cholesterol esters', 'polymerization', 'polymers'] 
+
+TOP-K 497: ['cholesteryl methacrylate', 'post-gel shrinkage', 'endocyclic double bond', 'photochemical cycloaddition', 'knoop microhardness', ['composite resins'], 'promising polymer', 'additional site'] 
+
+Reference 497: ['composite resins', 'methacrylates', 'cholesterol esters', 'polymerization', 'polymers'] 
+
+TOP-K 498: ['diamond surface graphitization', 'dlc coatings', 'adhesion tuning', 'dopant intercalation', 'high diamond surface graphitization', 'surface reconstruction', 'surface graphitization', ['adhesion']] 
+
+Reference 498: ['adhesion', 'dl', 'cs', 'diamond-copper interfaces', 'density functional theory', 'chemical modifications'] 
+
+TOP-K 499: ['li metal batteries', 'li metal-based batteries', 'wettabillity-enhanced graphene-coated separators', 'pg@pp', 'high li loading conditions', 'li-ion flux', 'hydrophilic characteristics', 'mg@pp', 'initial specific capacity', 'cycle retention', 'cycling life'] 
+
+Reference 499: ['lithium metal anode', 'wettability enhanced graphene', 'hydrophilic separator', 'homogeneous li-ion flux'] 
+
+TOP-K 500: ['n,p-cds', 'water-based additives', 'h2o', 'step hydrothermal method', 'excellent antibacterial activity', 'raw materials', 'shelf life', 'wear volume'] 
+
+Reference 500: ['lubricant additive', 'carbon dots', 'heteroatom doping', 'aqueous lubrication'] 
+
+TOP-K 501: [['abraham descriptors'], 'adsorbate concentration', 'adsorption coefficient prediction', 'concentration selection', 'specific surface area', 'total pore volume', 'training model', 'group selection', 'important factor', 'important feature'] 
+
+Reference 501: ['machine learning', 'adsorption coefficient', 'equilibrium concentration', 'abraham descriptors', 'carbon-based adsorbent design'] 
+
+TOP-K 502: [['cation exchange reactions'], 'multi-phase heterostructures', 'electromagnetic synergy', 'broadband absorption bandwidth', ['impedance matching'], 'single metal phases', 'rlmin value', 'mm'] 
+
+Reference 502: ['phase engineering', 'cation exchange reaction', 'electromagnetic parameters', 'impedance matching', 'heterogeneous structures'] 
+
+TOP-K 503: ['vo@cnf', 'novel counter electrodes', ['counter electrodes'], 'pce increase rates', 'first time', '@cnf', 'interface regulation system'] 
+
+Reference 503: ['counter electrode', 'cs', 'pb', 'br₃cnf', 'back interface', 'perovskite solar cells'] 
+
+TOP-K 504: ['mxene/zro2/w-c nanofibers', 'electrospinning technology', ['ultra-wide absorption bandwidth'], 'multi-phase doped fiber', 'excellent electromagnetic wave absorption', 'impedance matching', 'synergistic effect', 'ku bands'] 
+
+Reference 504: ['electrospinning', 'm', 'xene', 'ultra-wide absorption bandwidth', 'porous nanocages', 'multidimensional heterogeneous interface'] 
+
+TOP-K 505: ['post-treatment method', 'dispersion-stable swcnt', 'chemically-controlled transfer technique', 'n-type te films', 'stretchable device applicability', 'stretchable tegs', 'n-type te performance', 'cmc composite', 'post-treated p', 'initial power factor', 'stable output characteristics'] 
+
+Reference 505: ['organic thermoelectrics', 'organic thermoelectric generator', 'single-walled carbon nanotube', 'stretchable', 'dry-transferable'] 
+
+TOP-K 506: ['co/cofe bimagnetic phases', 'multilayer microwave', 'multilayer material', 'impedance matching', 'hollow co/cofe @c', 'effective absorption bandwidth', 'magnetic layer', 'functional layers'] 
+
+Reference 506: ['prussian blue analogs', 'magnetic loss', 'multi-layer structural absorbing material', 'microwave absorption'] 
+
+TOP-K 507: ['n', 'unique honeycomb porous structure', 'tri-doped porous carbon materialis', 'sodium ions', 'synergistic effect', 'carbon layer spacing'] 
+
+Reference 507: ['biomimetic mineralization', 'combustion activation', 'sodium-ion battery'] 
+
+TOP-K 508: ['embedded swcnt films', 'swcnt films', 'thermoset monitoring', 'mwcnts alternatives', 'structural monitoring', 'embedded application', 'mechanical loss', 'films', 'fast monitoring'] 
+
+Reference 508: ['carbon nanotube film', 'composites', 'manufacturing monitoring', 'lifecycle monitoring', 'piezoresistive response'] 
+
+TOP-K 509: ['graphite', 'lubricating oil film', 'tribological properties', 'good mechanical properties', 'transfer film', 'friction interface', 'elastic modulus', 'oil film', 'transfer film formation', 'interlayer structure', 'weak chemical bond', 'pao benefits', 'm3/n ·'] 
+
+Reference 509: ['solid-liquid synergistic lubrication', 'polymer composites', 'first-principles', 'molecular dynamicssimulation'] 
+
+TOP-K 510: ['magnetic material aggregation', 'multiple heterointerfaces', 'gradient metamaterial', 'polarization loss', 'exchange coupling effect', 'rcs reduction value', '5-mm thickness', 'magnetic loss'] 
+
+Reference 510: ['la-doped fe3o43d-4f coupling', 'sn-mof', 'enhanced microwave absorption', 'multiple heterostructures'] 
+
+TOP-K 511: [['rhombohedral graphite'], ['raman spectroscopy'], ['electronic raman scattering'], 'bulk gap'] 
+
+Reference 511: ['rhombohedral graphite', 'raman spectroscopy', 'electronic raman scattering', 'topological flat band'] 
+
+TOP-K 512: ['novel phase assembly-modulating strategy', 'three-dimensional n-mose2', 'high-purity magnetic 1t', 'wave absorption field', 'gox microspheres', 'db@1.8 mm', 'mose2 material'] 
+
+Reference 512: ['mo', 'se2microwave absorption', 'g', 'ox', 'phase modulation', 'ultrasonic spraying'] 
+
+TOP-K 513: ['carbon nanotube composites', 'foam 3d printing', 'uniform cellular morphologies', 'tunable densities', 'thermal conductivity', 'foam expansion', 'foam density', 'density reduction', 'nozzle temperature', ['electrical conductivity']] 
+
+Reference 513: ['3d printing', 'additive manufacturing', 'foam printing', 'carbon nanotubes', 'nanocomposites', 'electrical conductivity'] 
+
+TOP-K 514: ['graphitic carbon', 'iron wire', ['friction'], 'iron carbide', 'phase transformation process', 'metal iron', 'stable friction', 'friction interface'] 
+
+Reference 514: ['ultrafine drawing', 'diamond', 'friction', 'interface', 'structural evolution'] 
+
+TOP-K 515: ['co/mno @nc ternary composites', 'enriched heterogeneous interfaces', 'co/mno @nc absorbers', 'exceptional emw absorption properties', 'effective absorption bandwidth', 'minimum reflection loss value'] 
+
+Reference 515: ['ternary composites', 'heterogeneous interfaces', 'dielectric polarization', 'magneto-electric synergy', 'electromagnetic wave absorption'] 
+
+TOP-K 516: ['new two-dimensional photocatalyst', 'new photocatalyst', 'water-splitting reaction', 'suitable-size n-doped cavity', 'metal co-catalyst', 'exciton binding energies', 'large region'] 
+
+Reference 516: ['graphene', 'porous carbon nitride', 'metal-free two-dimensional photocatalyst', 'exciton dissociation', 'proton-coupled electron transfer'] 
+
+TOP-K 517: ['3d graphene networks', 'strength-ductility synergy', 'hdi hardening', 'novel bimodal-structured nickel matrix', 'dispersed microcracks', 'uniform elongation', 'tensile strength', 'fine-grained zones', 'dislocation storage', 'yield strength', '3dgn-reinforced composite shows', 'fault activation'] 
+
+Reference 517: ['metal matrix composites', 'bimodal structure', 'three-dimensional graphene network', 'stacking fault', 'mechanical properties'] 
+
+TOP-K 518: ['upscaled bioplastics production', 'bioplastics production', 'wastes', 'combined sustainability assessment', 'multi criteria analysis'] 
+
+Reference 518: ['bioplastics', 'feedstock sustainability evaluation', 'material flow analysis', 'multi-criteria analysis', 'cellulose nanofibril', 'waste management'] 
+
+TOP-K 519: ['atmospheric water harvesting', 'climate variability', 'process modeling', 'coupling mof material selection', 'climate conditions', 'uses 2-stage stochastic programming'] 
+
+Reference 519: ['atmospheric water extraction', 'kinetic analysis', 'meteorological analysis', 'metal-organic frameworks', 'stochastic optimization'] 
+
+TOP-K 520: ['ti-4bc', 'high-efficiency photocatalytic degradation', 'adsorption mechanism', 'excellent adsorption performance', 'heavy metals', 'multiple heavy metals'] 
+
+Reference 520: ['coconut shell biochar', 'ti', 'o2heavy metal', 'tetracycline'] 
+
+TOP-K 521: ['catalytic sponges', 'co cluster-single atoms', ['co single atoms'], 'co clusters', 'microreactor experiment', 'co cs/a-tio 2/pms system', 'dft calculations', 'different crystal phases', 'atomic level', 'synergistic effect', 'mixed site', 'excellent performance', 'electron configuration'] 
+
+Reference 521: ['co single atom', 'co atomic cluster', 'crystal phase regulation', 'electron optimization', 'pms-based aops'] 
+
+TOP-K 522: ['ssp585 scenarios', 'future drought risk', 'yrb', 'yrb ecoregions', 'western maize regions', 'notable western dry-wet shifts', 'wue thresholds', 'dssat model', 'yield', 'moderate spei conditions', 'regional variation', 'bias correction'] 
+
+Reference 522: ['spring maize', 'climate change', 'ceres-maize model', 'drought', 'water use efficiency'] 
+
+TOP-K 523: ['microwave irradiation', ['cold mix asphalts'], 'moderate microwave irradiation', ['cold mix asphalt'], ['steel slag'], 'cold mix asphalt properties', 'coarse slagimproves microwave-assisted healing', 'heat distribution', 'slag powderin combination'] 
+
+Reference 523: ['sustainability', 'carbon footprint', 'healing', 'cold mix asphalt', 'microwave', 'steel slag'] 
+
+TOP-K 524: ['provider-manufacturer communication', 'caas adoption', 'cultural perceptions', 'caas', 'regional adoption', 'academic study', 'primary barriers'] 
+
+Reference 524: ['business model', 'circular economy', 'cooling', 'servitisation', 'servitization', 'sustainability'] 
+
+TOP-K 525: ['non-green sectors', 'spillovers', 'green sectors', 'green capabilities', 'non-green ones', 'technological innovation effect', 'path-defying pattern', 'path-dependent pattern', 'green ones', 'primary driver'] 
+
+Reference 525: ['technological innovation', 'green growth', 'path-dependent economic growth', 'green capabilities spillovers', 'developing countries', 'economic complexity'] 
+
+TOP-K 526: ['green shipping policies', 'green shipping policy network', 'green shipping regulations', 'policy actors', 'main traits'] 
+
+Reference 526: ['green shipping', "china's green shipping policy", 'social network analysis'] 
+
+TOP-K 527: [['lithium-oxygen batteries'], 'high-efficiency cathodes', 'environmental impacts', 'active material production stage', 'life cycle', 'raw materials'] 
+
+Reference 527: ['energy storage', 'life cycle assessment', 'lithium-oxygen battery', 'impact assessment'] 
+
+TOP-K 528: ['ruminant meat', 'dg revisions', 'environmental concerns', 'nutritious diets', 'whole grains', 'high environmental impact', 'food contents', 'dietary guidelinesneed', 'latter food groups'] 
+
+Reference 528: ['sustainable diets', 'positive deviance', 'nutritional quality', 'environmental impact', 'diet cost'] 
+
+TOP-K 529: [['iron ore tailings'], 'scb/iot ratio', 'biogenic hydrogen production', ['biomass volatiles'], 'synergistic valorization', 'secondary iron source', 'biogenic carbon deposition', 'iron ore', 'residual biomass volatiles', 'magnetic recovery', 'catalytic tar', 'c impaired magnetic separation'] 
+
+Reference 529: ['biomass volatiles', 'iron ore tailings', 'iron recovery', 'catalytic cracking', 'carbon deposition', 'hydrogen'] 
+
+TOP-K 530: [['agent-based model'], 'agents', 'conjunctive management', 'hydrologic signals', 'solo net benefit coefficient', 'cooperation', 'level'] 
+
+Reference 530: ['agent-based modeling', 'game theory', 'water resources management', 'decision making', 'partial cooperation dynamics'] 
+
+TOP-K 531: ['pv promotion', 'fiscal policies', 'grid-connected prices', 'financing institutions', 'local governments', 'inclusive lending', 'financing environment', 'pivotal role'] 
+
+Reference 531: ['household photovoltaic', 'inclusive finance', 'investment decision', 'evolutionary game', 'regret theory', 'system dynamic'] 
+
+TOP-K 532: ['electrodialysis-based acid recovery', 'nernst-plank equation-based model', 'electrodialysis conditions', ['proton leakage'], 'electrodialysis-based acid concentration'] 
+
+Reference 532: ['acid recovery', 'electrodialysis', 'anion exchange membrane', 'nernst-planck equation', 'proton leakage'] 
+
+TOP-K 533: ['waste-to-methanol', 'waste-to-methanol process', 'waste-to-energy process', 'regional/local impacts', 'low-carbon energy', 'global impacts', 'global warming', 'green hydrogen use', 'regional scale', 'reduction', 'potential utilization', 'key aspect'] 
+
+Reference 533: ['gasification', 'methanol', 'green technology', 'life cycle assessment', 'municipal solid waste', 'green hydrogen'] 
+
+TOP-K 534: [['cableway'], 'lifecycle ghg', 'daily cableway passengers', 'urban transportation', 'electricity usage', 'energy consumption', 'terrestrial ecosystems', 'operational phase', 'comparative lca', 'cars', 'impactful phase', 'substantial loss', 'average cableway occupationhas'] 
+
+Reference 534: ['life cycle assessment', 'cableway', 'ropeway', 'urban', 'biodiversity', 'carbon footprint'] 
+
+TOP-K 535: ['therm-economic optimization method', 'exergy performance', ['electricity production cost'], 'water subsystem', 'practical projects'] 
+
+Reference 535: ['organic rankine cycle', 'therm-economic optimization', 'circulating water', 'electricity production cost', 'coefficient of exergy performance'] 
+
+TOP-K 536: ['amine regeneration', 'emar-m', 'co2 mineralization', 'electrode dissolution', 'energy consumption', 'co2 absorption', 'reaction rate'] 
+
+Reference 536: ['co2electrochemically', 'capture-mineralization', 'in-situ amine regeneration', 'mea'] 
+
+TOP-K 537: [['machine learning'], 'straw conversion', 'solid wastes conversion hmf', 'hmf yield', 'machine learning method', 'synergic use'] 
+
+Reference 537: ['straw5-hydroxymethylfurfural', 'ball milling depolymerization', 'microwave hydrothermal', 'machine learning'] 
+
+
+N=5
+P=0.11319340329835083
+R=0.11172770995190529
+F1=0.11245578104636009
+
+
+N=10
+P=0.08306082406801832
+R=0.14095449500554938
+F1=0.10452674897119342
+
+
+N=15
+P=0.07457496136012365
+R=0.14280429152793192
+F1=0.09798197740830054
+
+max_len: 512
+temp_en: Book:
+temp_de: This book mainly talks about 
+model: base
+enable_filter: True
+enable_pos: True
+position_factor: 120000000.0
+length_factor: 0.6
+Processing time: 165.84661221504211

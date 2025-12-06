@@ -1,0 +1,428 @@
+Start Testing ...
+TOP-K 0: ['sentinel-2 data', 'mining quarries', 'sentinel-2 level-2', 'post-mining rehabilitation efforts', 'soil moisture dynamics', 'ndvi', 'inconsistencies', 'machine learning techniques', 'data', 'cross-validation techniques', 'normalized difference vegetation index', 'data interpolation', 'vegetation health', 'accurate data interpolation', 'natural reference areas'] 
+
+Reference 0: ['remote sensing', 'self-organizing maps', 'vegetation indices', 'soil moisture monitoring', 'sentinel-2 imagery', 'ecosystem restoration'] 
+
+TOP-K 1: ['nitrate-vulnerable areas', 'nitrate vulnerability', 'nitrate contamination vulnerability', 'almyros groundwater system', 'land use changes', 'almyros aquifer', 'nitrate contamination risk', 'southeastern aquifer areas', 'porous aquifers', 'land use factors', 'significant nitrate contamination', 'nitrate vulnerability assessments', 'vulnerability maps', 'groundwater quality', 'high nitrate susceptibility'] 
+
+Reference 1: ['agricultural basin', 'groundwater vulnerability', 'pollution to nitrates', 'drastic-lu', 'canter-lu', 'ahp'] 
+
+TOP-K 2: ['anthropogenic gadolinium', 'gdant', 'gadolinium', ['urban aquifers'], 'gadolinium pollution', 'aquifers', 'gadolinium anomalies', 'gadolinium attenuation', 'urban water bodies', 'urban groundwater', 'groundwater', ['sorption'], 'processes', 'rare earth elements', 'anthropogenic substances'] 
+
+Reference 2: ['gadolinium-based contrast agents', 'urban aquifer', 'hydrochemical modelling', 'batch experiment', 'sorption'] 
+
+TOP-K 3: ['biodegradable plastics', 'biodegradable microplastics', ['nutrient depletion'], 'microplastics', 'nutrient loss', 'p3hb microplastics', 'p3hb', 'photosynthetic pigment concentration', ['root elongation'], 'short-term exposure', 'plant-microbe interactions', 'biodegradable plastic materials', 'chronic microplastic exposure', 'polyethylene terephthalate', 'molecular markers'] 
+
+Reference 3: ['aquatic macrophytes', 'nutrient depletion', 'root elongation', 'ecotoxicity', 'chronic exposure'] 
+
+TOP-K 4: ['nutrient pollution', 'phosphate mining lands', 'septic systems', 'florida', ['nutrient loading'], 'charlotte harbor', 'watershed assessment model', ['coastal watershed'], 'phosphate mining', 'tn', 'peace river watershed', 'anthropogenic activities', 'urban areas', 'estuarine ecosystems', 'bmps'] 
+
+Reference 4: ['coastal watershed', 'source area', 'nutrient loading', 'nitrogen', 'phosphorus'] 
+
+TOP-K 5: ['pi-m-pmda', 'green polyimide adsorbent', 'dcf', 'pi m-pmda', 'green ionothermal method', 'fourier-transform infrared spectroscopy', 'adsorption', 'microwave-assisted ionothermal method', 'adsorption efficiency', 'x-ray photoelectron spectroscopy', 'adsorption process studies', 'dcf removal', 'high-performance adsorbent', 'langmuir adsorption capacity', 'physicochemical forces'] 
+
+Reference 5: ['green synthesis', 'porous polyimide', 'pharmaceutical pollutant', 'adsorption mechanism'] 
+
+TOP-K 6: [['cruciferin protein flocculant'], 'cruciferin protein', 'cpf', 'molecular docking', 'ftir', 'ftir spectroscopy', ['mustard oil cake'], 'cpf-med interactions', 'cpf-med interaction', 'conventional flocculants', 'box-behnken design optimization', 'box-behnken design', 'pharmaceutical contaminants', 'eco-friendly bioflocculant', ['autodock vina']] 
+
+Reference 6: ['mustard oil cake', 'cruciferin protein flocculant', 'autodock vina', 'metronidazole', 'perikinetics', 'circular economy', 'agro-waste valorisation', 'pharmaceutical effluent'] 
+
+TOP-K 7: ['phytoplankton', 'naroch lakes ecosystem', ['phytoplankton growth rate'], 'naroch lakes', 'kdd approach', ['nutrient load'], 'phosphorus concentrations', 'phosphorus load', 'nutrient conditions', 'plankton', 'long-term monitoring', 'photosynthetic capacity', 'various nutrient loads', 'p/b ratio', 'water bodies'] 
+
+Reference 7: ['nutrient load', 'phosphorus', 'nitrogen', 'gross primary production', 'phytoplankton growth rate', 'the kdd approach'] 
+
+TOP-K 8: [['flow electrode capacitive deionization'], 'fcdi', ['phosphate removal'], 'cb-based flow electrodes', 'ion exchange membranes', 'carbon black flow electrode', 'x-ray photoelectron spectroscopy', 'nutrient recovery', 'energy dispersive x-ray', 'flow electrode', 'narrow-channel crossflow reactor', 'cb', 'time-dependent phosphate concentration', 'x-ray diffraction', 'dominant phosphate removal mechanism'] 
+
+Reference 8: ['flow electrode capacitive deionization', 'carbon black', 'activated carbon', 'phosphate removal', 'removal and recovery', 'response surface methodology', 'optimization'] 
+
+TOP-K 9: ['regulated river reaches', 'long-term streamflow sustainability', 'rushikulya river', 'efe violations', 'future challenges', ['environmental flow envelope'], 'climate change', 'river sustainability', 'ecological flow sustainability', ['future climate change'], 'streamflow', 'future climatic scenarios', 'future climate change impact', 'unaltered river', 'efe'] 
+
+Reference 9: ['environmental flow envelope', 'streamflow violations', 'regulated river', 'future climate change', 'reliability', 'resilience', 'violation ratio', 'violation frequency', 'cmip6'] 
+
+TOP-K 10: ['natural fiber matrices', 'geese feathers', 'composites', 'kapok fibers', 'lubricant oil 20w50', 'oil sorption capacity', 'oil removal', 'cp', 'model pollutant', 'materials', 'present work', 'castor oil', 'oil spill accidents', 'cnp', 'feathers'] 
+
+Reference 10: ['oil spill remediation', 'contaminated seabird', 'natural fibers', 'kapok', 'sorbent materials', 'composite regeneration'] 
+
+TOP-K 11: ['mxene-modified nanofiltration membranes', 'mxene nanosheets', 'mixed matrix nanofiltration membranes', ['nanofiltration membranes'], 'hcl/lif etchant solution', 'textile wastewater', ['actual textile wastewater'], 'mixed matrix membranes', 'chemical oxygen demand', 'membranes', 'unmodified pes membrane', 'excellent antifouling capability', 'titanium aluminum carbide', 'filtration-recovery cycles', 'color'] 
+
+Reference 11: ['actual textile wastewater', 'mxene', 'nanofiltration membrane', 'cod removal', 'wastewater treatment'] 
+
+TOP-K 12: [['climate change adaptation'], 'climate change', ['water infrastructures'], 'mediterranean region', 'cc', 'greece', 'critical infrastructure', 'adaptation', 'climate change assessment', 'wi', 'critical infrastructure water infrastructure', 'vulnerability assessment', 'crva methodology', 'adaptation measures', 'drinking water'] 
+
+Reference 12: ['climate change adaptation', 'water infrastructure', 'climate proofing', 'climate risk and vulnerability assessment'] 
+
+TOP-K 13: ['microplastics', 'hdpe', 'high-density polyethylene', 'vaal river', 'microplastic contamination', 'low-density polyethylene', 'microplastic occurrence', 'microplastics research', 'ldpe', 'south africa', 'mps', 'surface water', 'coastal areas', 'raman spectroscopy', 'vaal river system'] 
+
+Reference 13: ['physical characteristics', 'polymer composition', 'size', 'shape'] 
+
+TOP-K 14: ['canary islands', 'cost recovery', 'non-financial recovery', 'cost recovery method', 'financial costs', 'stochastic frontier model', 'water services', 'cost-recovery mechanism', 'water infrastructure methods', 'islands', 'income classification', 'different water production techniques', 'water management', 'water uses', 'water framework directive'] 
+
+Reference 14: ['river basin management plan', 'water pricing', 'water management efficiency', 'economic instruments'] 
+
+TOP-K 15: ['axarquia', 'subtropical crop expansion', 'water-energy confluence', ['subtropical crops'], 'water', 'energy-intensive processes', 'water constraints', 'hm3 water deficit', 'water demand', 'water deficit', 'crop demands', 'regional resource dynamics', 'climate change mitigation', 'widening water deficit', 'carbon footprint balance'] 
+
+Reference 15: ['water-energy nexus', 'carbon balance', 'axarquia (spain)', 'deficit irrigation', 'non-conventional water sources', 'subtropical crops', 'climate change', 'co2 equivalent'] 
+
+TOP-K 16: ['drinking water treatment plants', 'sludge treatment plants', 'high sludge dry solids', 'sludge', 'flocs', 'automatic polymer dosage control', 'floc gaps', ['polymer dosage'], ['image analysis'], 'floc conditions', 'plants', 'internet protocol camera', 'study', 'floc gap area', ['semantic segmentation']] 
+
+Reference 16: ['dewatering plant', 'polymer dosage', 'flocculation', 'image analysis', 'semantic segmentation', 'automatic control'] 
+
+TOP-K 17: ['in-stream bioreactors', 'nitrogen treatment', 'in-stream bioreactor', ['septic systems'], ['nitrogen'], 'nutrient-sensitive water', 'in-stream practices', 'ibrs', 'water quality', ['denitrification'], 'nitrogen management goals', 'nitrogen-chloride ratios', 'aquatic ecosystems', 'ibr', 'residential sub-watersheds'] 
+
+Reference 17: ['nitrogen', 'bioreactor', 'wastewater', 'denitrification', 'in-stream processing', 'septic system'] 
+
+TOP-K 18: ['e', 'faecal indicator bacteria', 'indole', 'fluorescence excitation-emission matrices', 'specific fluorescence regions', 'fluorescence regions', 'wavelength-specific fluorescence signals', 'common e', 'l-tryptophan', 'enterococci strains', 'l-tryptophan concentrations', 'fib monitoring', 'fluorescence intensity', 'fib', 'm9 broth'] 
+
+Reference 18: ['water quality monitoring', 'fluorescence spectroscopy', 'e. coli', 'tryptophan', 'indole pulse'] 
+
+TOP-K 19: ['shoreline oiling', 'sandy tidal flat shorelines', 'oil', 'simulated ifo-40 oil', 'artificial beach mesocosms', 'low energy tidal cycles', 'sandy tidal flat beaches', 'sediment microbial communities', 'sandy beach', 'oil slick', 'natural attenuation potential', 'sandy beach shorelines', 'oil fate', 'microeukaryote communities', 'coastal ecosystems'] 
+
+Reference 19: ['microbial community', 'oil fate and effect', 'low energy tidal flushing', 'sediments'] 
+
+TOP-K 20: ['heavy metals', 'cd', 'hg', 'hms', ['urban rivers'], 'urban river sediments', 'carcinogenic risks', 'significant ecological risks', 'haihe river systems', 'environmental quality standards', 'health risk', 'risk zones', 'urban river systems', 'china', 'multiple hms'] 
+
+Reference 20: ['cadmium', 'urban rivers', 'sediments', 'spatial–temporal distribution', 'risks', 'co-occurrence'] 
+
+TOP-K 21: ['bridge', 'flood', 'red river basin', ['red river'], 'floods', 'cold region rivers', 'colorado state university', ['flood mapping'], ['hec-ras model'], 'asv', ['flood maps'], 'adcp data', '16.5-year return period', 'north dakota', 'flood management'] 
+
+Reference 21: ['contraction scour depth', 'flood mapping', 'hec-ras model', 'lidar data', 'manning n-coefficient', 'red river'] 
+
+TOP-K 22: ['p-hba', ['zeolites'], 'toluene', 'high silica zeolites', 'zsm-5', ['zeolite'], 'ph', 'natural organic substances', 'adsorption', 'p-hba molecules', 'adsorbed p-hba', 'distinct high-silica zeolite materials', 'phenolic compound', 'organic substances', 'adsorption process'] 
+
+Reference 22: ['organic contaminants', 'lignin derived phenolic compounds', 'zeolites', 'water remediation', 'competitive adsorption'] 
+
+TOP-K 23: ['xenobiotic textile wastewater', 'artificial intelligence', 'graphite intercalation compound', 'three-dimensional electrochemical process', 'machine learning algorithms', 'direct electrooxidation and.oh generation', 'advanced statistical analysis', 'machine learning', 'mo-polluted wastewater', ['artificial neural networks'], ['monte carlo simulation'], 'in-depth analysis', 'ann', 'data fitting techniques', 'additional adsorption technology'] 
+
+Reference 23: ['dye removal', 'adsorption and electrochemical treatment', 'artificial neural network', 'support vector machine', 'random forest', 'monte carlo simulation'] 
+
+TOP-K 24: ['peatland carbon cycling', 'australian alpine peatlands', 'peat biogeochemistry', 'sphagnum-dominated peatlands', 'bogong high plains', 'peat soil carbon', 'shallow peat depths', 'peat c', 'long-term carbon flux studies', 'peat depths', 'small spatial scales', 'peat removal', ['disturbance'], 'peat cores', 'ch4 fluxes'] 
+
+Reference 24: ['alpine', 'carbon emissions', 'disturbance', 'soil carbon', 'sphagnum', 'subalpine'] 
+
+TOP-K 25: ['one-pot hydrothermal synthesis', '4-amino 2,2,6,6-tetramethylpiperidine-1-oxyl', 'hydrochar', ['doxorubicin'], ['functionalized hydrochar'], 'x-ray photoelectron spectroscopy', 'hydrogen peroxide', 'straightforward one-pot hydrothermal route', 'electron spin resonance spectroscopy', 'spherical morphology', 'infrared spectroscopy', ['methylene blue'], 'stable nitroxide free radical', ['fluorescein'], ['environmental remediation']] 
+
+Reference 25: ['honey', 'hydrothermal', 'functionalized hydrochar', 'stable free radical', 'dye removal', 'methylene blue', 'doxorubicin', 'fluorescein', 'environmental remediation'] 
+
+TOP-K 26: ['re-adsorption', 'antibiotics', 'adsorbed pharmaceuticals', 'extreme learning machine', 'antibiotic desorption', ['desorption'], 'hybrid elm', 'variational mode decomposition', 'vmd', 'gac', 'ph regime', 'unintended desorption', 'water temperature', 'aqueous media', 'subsequent re-adsorption'] 
+
+Reference 26: ['desorption', 'vancomycin', 'rifampicin', 'activated carbon', 'antibiotic resistance', 'water treatment'] 
+
+TOP-K 27: ['phosphorus', 'hysteresis loops', 'phosphorus mobilization', 'fish ponds', 'sediment', 'floods', 'recurrent flood waves', 'sediment mobilization', ['phosphorus transport'], 'agricultural headwater section', 'sediment transport', 'small reservoirs', 'clockwise hysteresis loops', 'phosphorus concentrations', 'clear water'] 
+
+Reference 27: ['stream transport capacity', 'soil loss modelling', 'phosphorus transport', 'sediment concentration', 'eutrophication'] 
+
+TOP-K 28: ['aquatic habitats', 'environmental flow analysis', 'river ecosystems', 'small datasets', 'sefa', ['river restoration'], 'sub-mountain streams', 'stream habitats', 'hydrometric measurements', 'habitat evaluations', 'flood protection', 'river habitat', 'sefa model', 'habitat preferences', 'hydraulic modelling'] 
+
+Reference 28: ['river restoration', 'habitat quality', 'system of environmental flow analysis', 'regression analysis', 'machine learning'] 
+
+TOP-K 29: ['p-xylene degradation', ['electro-absorption'], ['benzene'], 'electro-absorption technology', ['p-xylene'], 'mineralization', 'xylene', 'volatile organic compounds', 'representative vocs', ['jet mixer'], 'gaseous streams', 'low water solubility', 'absorption process', 'current density', 'degradation pathway'] 
+
+Reference 29: ['gas treatment', 'electro-absorption', 'benzene', 'p-xylene', 'packed column', 'jet mixer'] 
+
+TOP-K 30: ['groundwater-dependent ecosystem services', 'gdes services', 'groundwater dependent ecosystems', 'un sustainable development goals', 'gdes', 'gdes services classification', 'land-scoring mapping technique', 'un sdgs', 'anthropogenic activities', 'expert-scoring mapping method', ['ecosystem services'], 'mapping tools', ['groundwater footprint'], 'classification framework', 'potential hotspots'] 
+
+Reference 30: ['groundwater footprint', 'expert opinion', 'land-scoring mapping method', 'ecosystem services', 'sdgs', 'environmental flow'] 
+
+TOP-K 31: ['climate change', 'climate change impacts', 'climate change impact', 'northern greece', 'evapotranspiration', ['meteorological drought'], 'water resources', 'climate change projections', 'platanovrisi river basin', ['hydrological model'], 'precipitation', 'sustainable water management', 'socioeconomic pathways', 'present work', ['rainfall']] 
+
+Reference 31: ['gr2m', 'hydrological modeling', 'ssp1-2.6 and ssp5-8.5', 'climate change impact assessment', 'cmip6', 'temperature', 'rainfall', 'meteorological drought'] 
+
+TOP-K 32: ['phosphate removal', ['phosphate adsorption'], 'water treatment residuals', 'dwtr', 'phosphate adsorption capacity', 'adsorption capacity', 'sludge by-products', 'dwtr properties', 'water utilities', 'aluminium content', 'different dwtr', 'ph', 'adsorption capacities', 'adsorbent material', 'phpzc'] 
+
+Reference 32: ['drinking water treatment sludge reuse', 'sludge characterization', 'phosphate adsorption', 'water treatment'] 
+
+TOP-K 33: ['anaerobic digestion', 'cotton stalks', ['rumen microbiota'], ['cotton stalk residues'], 'cotton stalk', 'acetoclastic methanothrix', 'biogas production', ['rumen fluid'], 'continuous stirred-tank reactors', 'cotton stalks treatment', 'cotton stalk digestion', 'syntrophic ca', 'biomass hydrolysis step', 'high biogas production', 'ml/g vsadded'] 
+
+Reference 33: ['cotton stalk residues', 'lignocellulose', 'rumen fluid', 'rumen microbiota', 'candidatus cloacimonas', 'methanothrix'] 
+
+TOP-K 34: ['small mediterranean islands', 'wind turbines', ['desalination'], 'water scarcity', 'water-energy nexus', 'innovative desalination', 'small islands', ['hybrid renewable energy system'], 'energy storage', 'renewable energy', 'hres', 'cost-effective solutions', 'reliable potable water supply', 'hydro storage', 'sustainable solutions'] 
+
+Reference 34: ['water management', 'pumped hydro storage', 'hydrogen storage solution', 'desalination', 'hybrid renewable energy systems', 'paxos and antipaxos islands'] 
+
+TOP-K 35: [['fuzzy cognitive maps'], 'q-fcm methodology', 'rural lissos river basin', 'water resources management', ['mediterranean river basin'], 'anthropogenic pressures', 'q-fcm approach', 'water resources', 'wrm', 'quasi-nonlinear fcm', 'water use conflicts', 'conflict-prone basins', 'stakeholder perceptions', 'innovative modeling techniques', 'scenarios'] 
+
+Reference 35: ['fuzzy cognitive maps', 'stakeholder engagement', 'integrated water resources management', 'mediterranean river basin', 'partnerships for the goals'] 
+
+TOP-K 36: ['pipe freeze crystallization', 'pfc', 'na2so4', 'effluent treatment plant', 'evaporative-based methods', 'leachate', 'hazardous landfill leachate', 'high-purity ice', 'high-purity salts', 'resource recovery', 'hazardous leachate treatment', 'secondary refrigerant mixture', 'clean water', 'energy consumption', 'zero-waste management goals'] 
+
+Reference 36: ['sustainable wastewater treatment', 'energy-efficient desalination', 'resource recovery technology', 'zero-waste wastewater treatment', 'industrial effluent treatment'] 
+
+TOP-K 37: ['urban hcho concentrations', ['hcho'], 'hcho concentrations', 'urban air quality', 'hcho levels', 'multiscale geographically weighted regression', 'vilnius city centre', 'hcho concentration levels', 'urban green spaces', 'environmental factors', 'human-induced variables', 'human health', 'environmental variables', 'hazardous air pollutant', 'outdoor hcho levels'] 
+
+Reference 37: ['urban environment', 'formaldehyde', 'hcho', 'outdoor air pollution', 'ecosystem services', 'air quality', 'vilnius'] 
+
+TOP-K 38: ['algal-bacteria consortia', 'algal-bacteria consortia behavior', 'nutrient removal', 'algal-bacteria cultures', 'microalgae growth', 'nutrient elimination', 'nutrient removal mechanism', 'different environmental conditions', 'light', 'wastewater treatment systems', 'refeeding', 'air supply', 'continuous light irradiation', 'aeration culture', ['nitrates']] 
+
+Reference 38: ['wastewater treatment', 'microalgae-bacteria consortia', 'nitrates', 'phosphorus', 'removal kinetics', 'dark-light conditions'] 
+
+TOP-K 39: ['orange peel biochar', 'koh-treated orange peel', 'aminophenol adsorption', 'aminophenol', 'low-temperature pyrolysis process', 'low-temperature pyrolysis', 'orange peel', 'aminophenol adsorption process', 'adsorption', 'novel koh pre-treatment', 'potassium hydroxide', 'pseudo-second-order kinetics', 'phenolic compounds', 'adsorption efficiency', 'low-temp pyrolysis'] 
+
+Reference 39: ['biomass valorisation', 'pyrolysis', 'wastewater treatment', 'dynamic column adsorption', 'adsorbent regeneration'] 
+
+TOP-K 40: ['uv', 'uv irradiation', ['antibiotic-resistant bacteria'], 'uv treatment', 'cws', 'conventional wwtps', 'sludge wastewater treatment plant', ['antibiotic resistance genes'], 'nature-based system', 'conventional wwtp', 'args', 'insufficient chlorination', 'ar e', 'arb', 'arb removal'] 
+
+Reference 40: ['antibiotic-resistant bacteria', 'antibiotic resistance genes', 'chlorination', 'constructed wetlands', 'upflow anaerobic sludge blanket reactors', 'uv disinfection'] 
+
+TOP-K 41: ['open-source sql database', 'monthly open-source data aggregation', 'hydro-meteorological data', 'unified open-source platform', 'multi-user access environment', 'single mysql database', 'up-to-date information', 'sustainable water resource planning', 'data', ['meteorological data'], 'present work', 'user interface', 'data-driven policy making', 'flood risk management', ['hydrological data']] 
+
+Reference 41: ['meteorological data', 'sql database', 'open-source', 'weather stations', 'crete region', 'hydrological data'] 
+
+TOP-K 42: ['mwts', ['iron removal'], 'mwts lagoons', 'coal mine drainage', 'r.e', 'ferric iron', 'wetlands', 'full-scale passive mwts', 'removal efficiency', 'full-scale mwts', 'cws treatment performance', 'ferrous iron', 'fe3', 'potential ecological environmental problems', 'ph'] 
+
+Reference 42: ['iron removal', 'seasonal variation', 'water treatment', 'full-scale lagoons', 'full-scale wetlands', 'mine discharge'] 
+
+TOP-K 43: ['chiba watershed', 'managed aquifer recharge', 'mar', 'long-term water sustainability', 'multicriteria decision analysis', 'water availability', 'specific mar typologies', 'suitable mar areas', 'mar suitability criteria', 'infiltration basins', 'semiarid regions', 'decision-making process', 'available water sources', 'suitable areas', 'geographical information systems'] 
+
+Reference 43: ['mar typology', 'stakeholder-adapted approach', 'analytical hierarchical process', 'mar planning', 'decision-making'] 
+
+TOP-K 44: ['ef', 'lisflood large-scale hydrological model', 'greece', 'ef models', ['environmental flow'], 'rivers?minimum streamflow requirements', 'ungauged rivers', 'ecological flow', 'water management', 'climate change impacts', 'rivers', 'greek legislation model', 'ef policy', 'ef assessment', 'greek legislation'] 
+
+Reference 44: ['environmental flow', 'large scale hydrological modelling', 'ungauged basins', 'lisflood', 'greek rivers', 'water framework directive'] 
+
+TOP-K 45: ['karst aquifers', 'subsurface karst flow', 'ambient noise surface monitoring', ['ambient noise monitoring'], 'karst system dynamics', 'current hydrogeological methods', 'subsurface water flow', 'karst conduits', 'ambient noise spectrograms', 'karst system', 'small karst spring', 'water management', 'water flow dynamics', 'ambient noise measurements', 'subsurface flows'] 
+
+Reference 45: ['karst hydrogeology', 'ambient noise monitoring', 'non-invasive investigation', 'flow dynamics and turbulence'] 
+
+TOP-K 46: ['humus-accumulative genetic horizons', 'genetic horizons thicknesses', 'luvic chernozems', 'soil erosion degree', 'grey-luvic phaeozems', 'erosion maps', 'soil profile truncation approach', 'forest-steppe zone', ['soil thickness'], ['soil type'], 'erosion degree', 'fluvisols', 'phaeozems soils', 'machine learning techniques', 'land management decisions'] 
+
+Reference 46: ['digital soil mapping', 'erosion', 'machine learning', 'soil thickness', 'soil type'] 
+
+TOP-K 47: ['polyethylene terephthalate', 'mps', 'polypropylene', 'plastic products', 'microplastic hazards', 'microplastic particles', 'wastewater treatment plants', 'semi-quantitative risk assessment model', 'common microplastics shapes', 'hospital wastewater treatment plants', 'water resources', 'ftir analysis', 'surface morphology', 'environmental risks', 'high hazard risk'] 
+
+Reference 47: ['plastic', 'microplastic', 'hospital wastewater', 'polymer', 'abundance'] 
+
+TOP-K 48: ['freshwater ecosystems', ['dinaric karst lakes'], 'freshwater ecological classification', 'rare freshwater ecosystems', 'specific karst lake habitats', 'european water framework directive', 'pressure-response relationships', 'water quality', 'lake macroinvertebrate communities', 'lake ecosystems', 'natural lakes', 'anthropogenic pressures', 'specific lakes', 'specific lake types', 'stepwise linear regression model'] 
+
+Reference 48: ['water quality assessment', 'dinaric karst lakes', 'freshwater management', 'macroinvertebrate bioassessment', 'reference conditions'] 
+
+TOP-K 49: ['extreme learning machines', ['water temperature'], 'extreme learning machine', 'elm', 'tw', 'daily river water temperature', 'variational mode decomposition', 'hybrid elm', 'nashcsutcliffe efficiency', 'vmd', ['orelm'], 'regularized extreme learning machine', ['wrelm'], 'hybrid orelm-vmd', 'river water temperature'] 
+
+Reference 49: ['machine learning', 'air temperature', 'water temperature', 'river discharge', 'signal decomposition', 'extreme learning machine (elm)', 'orelm', 'relm', 'wrelm'] 
+
+TOP-K 50: ['cc adaptation', 'climate change', 'dsss', 'climate change adaptation', 'drinking water systems adaptation', 'water quality', 'drinking water quality', ['decision support systems'], ['drinking water system'], 'drinking water', 'dwss staff', 'dss tools', 'public servants', 'dws staff', 'attitudes'] 
+
+Reference 50: ['climate change impacts', 'adaptation', 'drinking water systems', 'perceptions', 'behaviors', 'decision support systems'] 
+
+TOP-K 51: ['groundwater quality', ['groundwater quality index'], 'gwqi', 'arid region', 'k-nearest neighbors', ['water quality parameters'], 'arid province', ['multi-gene genetic programming'], 'machine learning models', 'ml models', 'xgboost regression', 'ml-based estimation models', 'ml-based models', 'artificial neural network', 'ph'] 
+
+Reference 51: ['groundwater quality index', 'water quality parameters', 'machine learning', 'multi-gene genetic programming', 'xgboost'] 
+
+TOP-K 52: ['coagulation-flocculation process', 'decentralized water treatment', 'decentralized water reuse', 'coagulant type', 'industrial paint wastewater', 'carbon adsorption', 'coagulation process', ['adsorption kinetics'], ['paint wastewater'], 'coagulation settling volume ratio', 'codcr', 'ph value', 'coagulation mechanism', 'coagulant dosage', 'adsorption isotherms'] 
+
+Reference 52: ['paint wastewater', 'adsorption kinetics', 'coagulation', 'decentralized treatment', 'water reuse', 'sustainability'] 
+
+TOP-K 53: ['localized leachate percolation', ['fractured basalt'], ['groundwater pollution'], 'understanding', 'fractured aquifers', 'sustainable groundwater management', 'geophysical data', 'volcanic rock', 'electrical resistivity tomography', 'seismic refraction imaging', 'site conceptual flow model', 'sri', 'research', 'interflow zones', 'fractured aquifer pathways'] 
+
+Reference 53: ['hydrogeophysics', 'geophysical imaging', 'fractured basalt', 'site conceptual model', 'groundwater pollution', 'landfills'] 
+
+TOP-K 54: [['ivermectin'], 'ivm', 'veterinary products', 'antiparasite compound', 'soluble ivermectin', 'anaerobic zone', 'labile om', 'grazing activities', 'hematite', 'cattle fields', 'om', 'soils', 'soluble ivm', 'organic matter', 'wetlands ecosystems'] 
+
+Reference 54: ['wetland pollution', 'antiparasitic drugs mobility', 'ivermectin', 'livestock', 'soil organic matter', 'environmental fate', 'environmental distribution'] 
+
+TOP-K 55: ['cu-tio2-aluminosilicate nanocomposite', 'novel cu-tio2-aluminosilicate nanocomposite', 'ph', 'novel photocatalyst', 'chlorella sp', ['promising photocatalyst'], 'solvothermal process', 'solvothermal method', 'first-order kinetic model', 'reusability experiments', 'photocatalysis process', 'remarkable photocatalytic activity', 'cell viability', 'algae strains', 'toxicity evaluation'] 
+
+Reference 55: ['cu-tio2-aluminosilicate', 'promising photocatalyst', 'taguchi method', 'toxicity assessment'] 
+
+TOP-K 56: ['organoclay-amended bentonite', 'physico-chemo-hydro-mechanical performance', ['bentonite'], 'lead ion permeation', 'bnc', 'comparative hydraulic barrier performance', ['organoclay'], 'metal adsorption capacity', 'lead ion concentrations', 'compacted bentonite', 'conventional bentonite', 'chemical sensitivity', 'pb2', 'zeta potential', 'adsorption behaviour'] 
+
+Reference 56: ['hydraulic barrier', 'hazardous leachate', 'organoclay', 'heavy metals', 'adsorption', 'bentonite'] 
+
+TOP-K 57: ['urban canyon structure', 'bahía blanca', ['thermal inversions'], 'urban canyons', 'microclimatic rehabilitation strategies', 'urban structure', 'vertical daily hygrothermal patterns', 'meteorological data', 'background climatic conditions', 'urban heat island effect', 'sustainable urban development', 'weak synoptic flow', 'data loggers', 'early morning', 'specific microclimatic conditions'] 
+
+Reference 57: ['urban morphology', 'vertical temperature-humidity profiles', 'thermal inversions', 'urban canyon microclimate'] 
+
+TOP-K 58: ['amoxicillin adsorption', ['alum sludge'], 'aspcfs', 'water treatment', 'environmental remediation', 'adsorption kinetics', 'water treatment plants', 'conventional sand filters', 'pervious concrete', 'aspcf', 'alum sludge content', 'aspcf m5', 'adsorption capacity', 'pseudo-second-order kinetics', 'amx-containing water'] 
+
+Reference 58: ['pharmaceuticals', 'pervious concrete filters', 'alum sludge', 'amoxicillin removal', 'wastewater treatment'] 
+
+TOP-K 59: [['photocatalytic degradation'], 'monometallic co-mof', ['nico-mof'], 'bimetallic nico-mof', 'x-ray diffraction', 'cp degradation', 'antibiotic resistance', 'cp', 'visible light irradiation', 'novel bimetallic nico-mof', 'photocatalytic degradation technology', 'infrared spectra', 'chelating agent', 'pseudo-first-order model', 'physicochemical attributes'] 
+
+Reference 59: ['аntibiotics', 'cefoperazone', 'nanomaterials', 'co-mof', 'nico-mof', 'photocatalytic degradation', 'water treatment'] 
+
+TOP-K 60: ['rhizobia strains', 'rhizobial strains', 'mucuna pruriens', 'santo amaro', 'metal-polluted soils', ['phytoremediation'], 'pb', 'specific legume-bacteria combination', 'plant metal tolerance', 'mucuna', 'jack bean', 'soils', 'pb contamination', 'legumes', 'plants'] 
+
+Reference 60: ['phytoremediation', 'heavy metals', 'trace elements', 'soil pollution', 'bradyrhizobium'] 
+
+TOP-K 61: ['corn stover residues', 'corn stover', 'rumen fluid microbiota', 'rumen microbial communities', 'lignocellulosic residues', ['rumen microbiota'], ['anaerobic digestion'], 'rumen fluid', ['anaerobic digestibility'], 'biogas production', 'corn stover digestion', 'rumen inoculum', 'cstr', 'biochemical methane', 'low biogas yield'] 
+
+Reference 61: ['agricultural residues', 'anaerobic digestion', 'biogas enhancement', 'lignocellulosic biomass hydrolysis', 'rumen microbiota'] 
+
+TOP-K 62: ['biomedical waste incinerator', 'bmw incineration', 'biomedical waste', 'bmw incinerators', 'natural gas consumption', 'waste incinerator', 'greenhouse gas emissions', 'incineration practices', 'incinerator', 'fossil fuels', 'flue gas emissions', 'environmental impacts', ['flue gas'], ['global warming'], 'maintenance costs'] 
+
+Reference 62: ['life cycle assessment', 'bottom ash', 'environmental impact assessment', 'flue gas', 'global warming'] 
+
+TOP-K 63: [['load capacity factor'], ['economic growth'], 'environmental sustainability', ['sustainable development'], ['energy use'], 'low-carbon economy', ['technological innovation'], ['globalization'], ['technology innovation'], 'renewable energy production', 'canonical cointegrating regression', 'load capacity factor.we', 'model', 'load capacity factor.globalization', 'clean technologies'] 
+
+Reference 63: ['technological innovation', 'load capacity factor', 'globalization', 'economic growth', 'energy use', 'sustainable development'] 
+
+TOP-K 64: ['hot-spots', 'high-priority sub-basins', 'gis-based fahp', 'anthropogenic stressors', ['water monitoring network'], ['sensitivity analysis'], 'geoprocessing tools', 'gis-based f-ahp method', 'wqmn automatic stations', 'geographic information system', 'sa', 'fuzzy analytic hierarchy', 'study area', 'model', 'thorough sensitivity analysis'] 
+
+Reference 64: ['fuzzy-ahp', 'analytic hierarchy process', 'multi-criteria decision analysis', 'sensitivity analysis', 'water monitoring network', 'river monitoring', 'automatic stations'] 
+
+TOP-K 65: ['g-c3n4', 'electron hole-pair recombination', 'ag', 'ethylenediaminetetraacetic acid', 'ag/g-c 3n4 photocatalyst', 'edta', 'simple one-step calcination method', 'ag/g-c 3n4 composite', 'ag/g-c 3n4', 'facile one-step calcination process', 'pseudo-first-order kinetics', 'photocatalytic reduction', 'g-c3n4 surface', 'optical absorption', 'as-synthesized ag/g-c 3n4'] 
+
+Reference 65: ['photocatalytic cr(vi) reduction', 'ag/g-c3n4', 'hole scavenger', 'visible light irradiation', 'electron-hole pair recombination'] 
+
+TOP-K 66: [['atrazine'], ['metolachlor'], 'atrazine concentrations', 'instream atrazine', 'simazine concentrations', 'herbicide concentrations', 'watershed management', 'large agricultural watersheds', 'metolachlor concentrations', 'watershed conservation strategies', 'long-term trends', 'environmental factors', 'cedar creek watershed', 'pesticide usage', 'drinking water standards'] 
+
+Reference 66: ['herbicides', 'water quality', 'time series analysis', 'conservation practices', 'atrazine', 'metolachlor', 'simazine'] 
+
+TOP-K 67: ['cryoconites', 'microbial respiration', ['biogeochemical cycles'], 'elbrus region', 'decomposable carbon', 'mt', 'microbial activity', ['trace elements'], 'garabashi glacier', 'ph values', 'labile carbon', 'climate change', 'elbrus ecosystems', 'glacier surface', 'zn'] 
+
+Reference 67: ['glaciers', 'organomineral sediments', 'soils', 'organic carbon', 'biogeochemical cycles', 'trace elements'] 
+
+TOP-K 68: ['roof-top harvested rainwater', 'rthrwfs', 'low filtration rate', 'rtrwh systems', 'filtration technologies', 'filtration systems', 'global roof-top rainwater harvesting', 'rainwater', 'rainwater filtration technologies', 'sustainability', 'sustainable filtration methodologies', 'long-term storage needs', 'roof runoff', 'structural cost', 'future research'] 
+
+Reference 68: ['bibliometric analysis', 'roof-top rainwater harvesting', 'rainwater quality', 'microbiological contamination', 'first flush'] 
+
+TOP-K 69: ['electrospun pu', 'heterogeneous fenton catalysis', 'heterogeneous fenton catalysts', 'electrospun f-pu membrane', 'heterogeneous fenton catalyst', 'fenton reaction', 'electrospun polyurethane', 'electrospun membranes', 'iron hydroxide sludge', 'chromium', 'tea', 'infrared spectroscopy', 'pu membrane', 'composite microfibrous membrane', 'good recyclability'] 
+
+Reference 69: ['electrospinning', 'polyurethane', 'fenton catalyst', 'reaction kinetics', 'degradation'] 
+
+TOP-K 70: ['coagulation morphotypes', 'mw doc concentrations', 'high molecular weight', 'organic carbon', 'organic carbon molecular weights', 'lac pavin monimolimnion', 'anoxic aquatic system', 'mw doc', '3d cryo-hrsem images', 'mw doc depth profiles', 'organic matter', 'high-resolution cryo-scanning electron microscopy', ['monimolimnion'], 'coagulation morphotype distribution', 'sedimentation'] 
+
+Reference 70: ['dissolved organic carbon (doc)', 'tangential ultrafiltration', 'cryo-hrsem', 'coagulated dissolved organic matter (dom)', '3d micromorphology', 'nanostructural gelation', 'monimolimnion', 'lac pavin'] 
+
+TOP-K 71: ['cattail fiber oil adsorption', 'biodegradable natural absorbent materials', ['cattails'], 'cellulose fibers', 'choline chloride-oxalic acid', 'hydrothermal pretreatment', 'oil absorption', 'adsorbent materials', 'hydrothermal alkaline pretreatment', 'alkaline pretreatment', 'deep eutectic', 'raw cattail', 'htp', 'oil adsorption capacity', 'engine oil'] 
+
+Reference 71: ['cattail', 'hydrothermal-alkaline pretreatment', 'deep eutectic solvents', 'microfiber', 'oil adsorption'] 
+
+TOP-K 72: ['west texas?irrigation water shortage', 'tpw', ['hydraulic fracturing'], 'west texas', 'water', 'texas-new mexico border', 'delaware basin', 'hydrocarbon production', 'tight-oil formations', 'water shortages', 'tpw treatment', 'unconventional hydrocarbon production', 'delaware', 'consistent tpw origins', 'tpw management'] 
+
+Reference 72: ['produced water management', 'saltwater disposal', 'unconventional formations', 'water chemistry', 'hydraulic fracturing'] 
+
+TOP-K 73: ['human settlements', 'fragmented microplastics', 'single-use plastic items', 'hdpe polymers', 'source apportionment', 'mp contamination', 'environmental pollutant', 'drinking water reservoirs', 'ftir analysis', 'sustainable development goals', 'household plastic items', 'drinking water', 'major microplastic sources', 'individual contributory score', 'mp pollution load index'] 
+
+Reference 73: ['microplastics', 'spatial variation', 'ftir', 'pollution load index', 'relative contributory score'] 
+
+TOP-K 74: [['klebsiella aerogenes'], 'gram-negative bacterium klebsiella aerogenes', ['biodegradation'], 'biodegradation process', 'rubber degradation', 'scs bonds', 'ftir analysis', ['natural rubber glove'], 'rubber waste', 'conventional waste management practices', 'biological degradation', 'mnp enzyme', 'rubber', 'mnp enzymes', 'manganese peroxidase'] 
+
+Reference 74: ['natural rubber glove', 'klebsiella aerogenes', 'biodegradation', 'devulcanization', 'waste to enzymes', 'rubber waste management'] 
+
+TOP-K 75: ['kcc-1', 'kcc-1 nps', 'wrinkle', 'fibrous type kcc-1 nps', 'fibrous porous silica nanoparticles', 'π-π/electrostatic interactions', ['crystal violet'], 'ft-ir', 'tga', 'yoshida bonding', 'adsorption mechanism', 'morphological characterization', 'morphological study', 'thermodynamic studies', 'adsorption process'] 
+
+Reference 75: ['mesoporous fibrous silica', 'polyaniline', 'hydrothermal synthesis', 'crystal violet', 'wastewater treatment'] 
+
+TOP-K 76: [['cement kiln dust'], '2,4-d herbicide', ['adsorption'], 'adsorption process', 'herbicide 2,4-dichlorophenoxyacetic acid', '2,4-d', 'chemisorption mechanism', 'ckd', 'intraparticle diffusion', 'chemisorption nature', 'aqueous solution', 'ph', 'different adsorption isotherm models', 'solid waste', 'rate-determining step'] 
+
+Reference 76: ['adsorption', '2,4-dichlorophenoxyacetic acid', 'cement kiln dust', 'adsorption isotherm', 'kinetics'] 
+
+TOP-K 77: ['acrylonitrile butadiene styrene', ['heavy metals'], 'yeongdong expressway', 'zn', 'heavy metal pollution', 'heavy metal contamination', 'anthropogenic sources', 'vehicle-released mps', 'nonpoint-source pollution', 'hu', 'severe heavy metal accumulation', 'nemerow pollution index', 'vehicles', 'pb', ['microplastics']] 
+
+Reference 77: ['highway', 'heavy metals', 'microplastics', 'pollution index', 'rest area', 'sediment'] 
+
+TOP-K 78: ['tc removal', 'us-assisted ec methods', ['ultrasound-assisted electrocoagulation'], 'tc', 'us-assisted ec', 'ec', 'al-fe-fe-fe electrode configuration', 'ec/us process', 'us-assisted ec techniques', 'uv absorbance', 'aqueous samples', 'ec method', 'ec process', 'us', ['hybrid electrodes']] 
+
+Reference 78: ['electrocoagulation', 'ultrasound-assisted electrocoagulation', 'tetracycline remova', 'al-fe electrode', 'hybrid electrode', 'operation costs'] 
+
+TOP-K 79: ['agtio3 nanoparticles', 'novel nir-active agtio3 nanoparticles', 'energy dispersive x-ray spectroscopy', 'ananas comosus', 'green synthesis', 'degrading organic pollutants', 'x-ray photoelectron spectroscopy', 'active silver titanate perovskite', ['tetracycline'], 'liquid chromatography-mass spectrometry', 'solar light irradiation', 'photocatalytic degradation', 'water treatment systems', ['chlorpyrifos'], 'uv'] 
+
+Reference 79: ['agtio3', 'ananas leaf', 'chlorpyrifos', 'near-infrared light', 'perovskite', 'photocatalysis', 'tetracycline'] 
+
+TOP-K 80: ['organic fouling-resistant photothermal membrane', 'ag-cnts/pvdf photothermal membrane', 'photothermal membranes', 'ag-cnts nanocomposite', 'hydrophilic polyvinylidene difluoride', 'multi-walled carbon nanotubes', 'sustainable freshwater generation', 'prepared ag-cnts nanocomposites', 'passive freshwater generation', 'wet-impregnation technique', 'cnts', 'water evaporation', ['silver nanoparticles'], 'surface morphology', 'natural evaporation'] 
+
+Reference 80: ['fouling', 'humic acid', 'carbon nanotubes', 'silver nanoparticles', 'solar-interfacial evaporation'] 
+
+TOP-K 81: ['tww', 'fertilizer imports', 'tww reuse', 'pollution reduction', 'up-flow anaerobic sludge blanket', 'uasb', 'nitrogenous fertilizers', 'sustainable water management', 'resource recovery', 'sbr', 'mbbr', 'india', 'nutrient content', 'municipal wastewater treatment plants', 'long-term reuse plans'] 
+
+Reference 81: ['water quality', 'treated wastewater', 'reuse', 'resource utilization'] 
+
+TOP-K 82: ['cuo-based nanocomposites', ['cuo nanoparticles'], 'cuo nps', 'cuo', 'carbon-based nanocomposites', 'uv light irradiation', ['uv irradiation'], 'inorganic nitrogen compounds', 'mwcnts', 'uv light', 'ammonium ions', '1d multi-walled carbon nanotubes', 'ammonia degradation', 'cuo-base nanostructures', 'promising photocatalysts'] 
+
+Reference 82: ['cuo nanoparticles', 'graphene oxide', 'multi-walled carbon nanotubes', 'uv irradiation', 'photocatalyst', 'ammonia'] 
+
+TOP-K 83: ['antibiotic-plant surfactant synergy', ['plant-derived surfactants'], 'tobramycin', ['aminoglycoside antibiotics'], 'plant surfactants', 'antibiotic resistance', 'ph', 'acidic ph', 'aminoglycoside efficacy', 'e', 'antimicrobial agents', 'licorice extract', 'surfactant-plant adjuvants', 'antibiotic efficacy', 'csh'] 
+
+Reference 83: ['aminoglycoside antibiotics', 'calendula (calendula officinalis)', 'escherichia coli', 'licorice (glycyrrhiza glabra l.)', 'ph modulation', 'plant-derived surfactants'] 
+
+TOP-K 84: ['double-chamber microbial fuel cell', 'rsm-box-behnken design', ['fruit wastes'], 'co-substrate strategy', 'mfc-pww performance', 'cod removal', 'mfc', 'pww', 'box-behnken design', 'power generation', 'chemical oxygen demand', 'biochemical oxygen demand', 'mfc process conditions', 'orange fruit waste', 'mango fruit waste'] 
+
+Reference 84: ['bio-electricity', 'cod', 'coulombic efficiency', 'bod', 'fruit wastes', 'microbial fuel cell', 'pharmaceutical wastewater', 'box-behken design'] 
+
+TOP-K 85: ['benzene', 'btex', 'polycyclic aromatic hydrocarbons', 'ethylbenzene', 'burnt oil-recycling factory', 'naphthalene', 'benzo', 'pahs', 'toluene', 'xylene', 'occupational exposure', 'monte carlo simulation', 'hq values', 'pyrene', 'cancer risk'] 
+
+Reference 85: ['btex compounds', 'pah compounds', 'inhalation exposure', 'health risk assessment', 'burnt oil recycling factory'] 
+
+TOP-K 86: ['sulphur-doped comn oxide', 'mb-dye removal', 'alginate-derived carbon', 'mb', 'm-coacbs', 'adsorption capacity', 'mb removal efficiency', 'machine learning', 'adsorption ability', 'n2 adsorption-desorption isotherms', 'adsorption parameters', 'batch adsorption experiments', 'pseudo-second-order kinetic model', 'ph', 'decolorization performance'] 
+
+Reference 86: ['mesoporous adsorbent', 'alginate-derived carbon beads', 'methylene blue', 'adsorption', 'isotherm and kinetic studies', 'machine learning modeling'] 
+
+TOP-K 87: ['sio2-chitin/moo3 nanocomposite', 'mesoporous sio2-chitin/moo3', 'metal adsorption', 'x-ray photoelectron spectroscopy', 'fourier-transform infrared spectroscopy', 'metal-oxygen/nitrogen coordination', 'well-crystallized moo3 nanoparticles', 'spontaneous chemisorption', 'ftir', 'coulombic electrostatic interactions', 'pb', 'nanocomposite characterization', 'x-ray diffraction', 'new metal-oxygen', 'negative zeta potential'] 
+
+Reference 87: ['xps surface investigation', 'mesoporous nanocomposites', 'metal adsorption isotherm', 'adsorption thermodynamics', 'activation energy'] 
+
+TOP-K 88: [['nanoparticles'], 'nanoparticle fate', 'de-ionized water', 'oral ingestion risk', 'nanoparticle heteroaggregate formation', 'nanoparticle properties', 'gastric fluid', ['antibiotics'], 'high nanoparticle concentration', 'human biological fluids', 'nanoparticle size change', 'gastric system', 'physicochemical properties', 'nanoparticle size', 'human digestive system'] 
+
+Reference 88: ['nanoparticles', 'in-vitro dissolution', 'mixture risk', 'human health risk', 'antibiotics'] 
+
+TOP-K 89: ['canadian water quality guidelines', 'fn-tss concentrations', 'wrtds_bt technique', 'tributaries', 'toronto region conservation authority', 'tss', 'niagara peninsula', ['lake ontario'], 'northern lake erie', 'tp', 'eastern lake huron', 'ontario', 'pwqo limit', 'cwqg', 'cwqg limit'] 
+
+Reference 89: ['wrtds_bt', 'trend analysis', 'total phosphorus', 'total suspended sediments', 'lake erie', 'lake huron', 'lake ontario'] 
+
+TOP-K 90: ['magnetite', 'mössbauer spectroscopy', 'magnetite formation', 'ec', 'infrared spectroscopy', 'microplastics', 'ec-treated wastewater', 'secondary effluent water', 'ps', 'x-ray diffraction', 'lepidocrocite formation', 'mps', 'microplastics removal', ['iron electrodes'], 'nonmagnetic compounds'] 
+
+Reference 90: ['emerging contaminant', 'electrolysis', 'colloidal particles', 'iron electrodes', 'removal efficiency'] 
+
+TOP-K 91: ['integrated soil management', 'soil physicochemical properties', 'portable x-ray fluorescence', 'apple orchard', 'soil', 'erosion control', 'corn stover', 'sustainable management', ['soil organic matter'], 'erosion processes', 'advanced mulching', 'tillage treatment', 'sl', 'ecosystem integrity', 'rainfall simulator'] 
+
+Reference 91: ['orchard management', 'element loss', 'soil cracking', 'seasonal soil variability', 'soil organic matter'] 
+
+TOP-K 92: ['adsorbents', 'adsorbent', 'chitosan composites', ['high grade adsorbents'], ['acid dyes'], 'optimum adsorption conditions', 'high capacity', 'synthetic adsorbents', 'adsorption capacity', 'toxic acid dyes', 'practical adsorbents', 'adsorbent dosage', 'low dosage', 'winner adsorbents', 'high binding capacity'] 
+
+Reference 92: ['high grade adsorbents', 'acid dyes', 'recycling', 'selection guide'] 
+
+TOP-K 93: ['monte-carlo simulations', 'monte carlo', 'flood susceptibility maps', 'flood susceptibility', 'yermasoyia watershed', 'multicriteria decision analysis', 'mc-ahp', 'low-to-intermediate uncertainty levels', 'rainfall intensity', 'advanced mcda methods', 'land use', 'terrain slope', 'ahp', 'mc-ahp predictions', 'flood indicator criteria'] 
+
+Reference 93: ['flooding', 'uncertainty analysis', 'monte carlo simulations', 'analytical hierarchical process', 'gis'] 
+
+TOP-K 94: ['australian agricultural exports', 'australian agricultural export earnings', 'australian agricultural export performance', 'agro-export performance', ['climate change'], 'agricultural exports', 'australian agricultural export growth', 'global climate change', 'australian agricultural sector', 'agricultural export performance', 'environmental pollution', ['environmental degradation'], 'average yearly temperature increase', ['australia'], 'australian economy'] 
+
+Reference 94: ['climate change', 'environmental degradation', 'co2 emissions', 'agro export', 'australia'] 
+
+TOP-K 95: [['wüstebach catchment'], 'water resources management', 'local groundwater-surface water interactions', 'ec mapping', 'groundwater interactions', 'multi-method hydrological approach', 'groundwater contributions', 'groundwater systems', 'multi-method approach', 'western tributaries', 'mitigating drought vulnerability', 'ion concentrations', 'tereno eifel database', 'surface water', 'groundwater levels'] 
+
+Reference 95: ['groundwater-surface water interactions', 'groundwater-dependent ecosystems', 'electrical conductivity', 'stream discharge', 'headwater catchments', 'wüstebach catchment'] 
+
+TOP-K 96: [['baseflow estimation methods'], 'baseflow estimation', 'bflow program', 'baseflow separation methods', 'ewma method', 'salient baseflow estimation techniques', 'daily streamflow data', 'daily precipitation data', 'river basin', 'water resources', 'basin', 'mean monthly streamflow', 'cost-effective approach', 'efficient baseflow separation method', 'bfi'] 
+
+Reference 96: ['streamflow characterization', 'baseflow estimation methods', 'relative evaluation', 'verification of the methods', 'baseflow index', 'goodness-of-fit criteria', 'himalayan region'] 
+
+TOP-K 97: [['gis'], ['flood risk'], 'high-risk areas', ['flood hazard'], 'northeastern greece', ['flood vulnerability'], 'quantitative map data', 'data limitations', 'flood hazard index', 'dematel method', 'sensitivity analysis', 'causality diagrams', 'integrated methodology', 'historical flood data', 'conventional numerical modeling'] 
+
+Reference 97: ['flood risk', 'flood hazard', 'flood vulnerability', 'gis', 'graph theory', 'dematel'] 
+
+TOP-K 98: ['sustainable drainage systems', ['rain gardens'], ['pocket parks'], ['permeable pavements'], 'many north mediterranean regions', 'rainwater management', 'permeable pavement zone', 'urbanization impact', 'small-scale rain garden', 'low-income neighborhood', 'inlet structures', 'urban areas', 'medium intensity rainfall events', 'large ground slope', 'cost'] 
+
+Reference 98: ['densely built area', 'rain run-off', 'rain garden', 'permeable pavement', 'pocket park', 'sustainable drainage systems (suds)'] 
+
+TOP-K 99: ['non-recording rain gauge', 'rainfall-runoff simulations', 'cyclone daniel', 'experimental tbrs', 'daily non-recording rain gauge', 'daily rainfall depth', 'ground sensors', ['data logger'], 'rainfall data', 'rg20', 'electronic boards arduino uno', 'arg100', 'rg28', 'hydrological applications', 'flood forecasting'] 
+
+Reference 99: ['tipping bucket rain gauge', 'data logger', 'electronic board', 'arduino uno', 'raspberry pi', 'athens'] 
+
+
+N=5
+P=0.15
+R=0.13157894736842105
+F1=0.14018691588785046
+
+
+N=10
+P=0.127
+R=0.22280701754385965
+F1=0.16178343949044585
+
+
+N=15
+P=0.102
+R=0.26842105263157895
+F1=0.14782608695652175
+
+max_len: 512
+temp_en: Book:
+temp_de: This book mainly talks about 
+model: base
+enable_filter: True
+enable_pos: True
+position_factor: 120000000.0
+length_factor: 0.6
+Processing time: 60.78571033477783

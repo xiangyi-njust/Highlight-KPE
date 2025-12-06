@@ -1,0 +1,799 @@
+Start Testing ...
+Sorted_Candidate: [['post-mining rehabilitation efforts'], ['accurate data interpolation'], ['sentinel-2 data'], ['inconsistencies'], ['ndmi indices'], ['ndvi'], ['soil moisture dynamics'], ['natural reference areas'], ['robust framework'], ['vegetation health'], ['vegetation recovery'], ['maps'], ['mining quarries'], ['pixels'], ['study'], ['results']] 
+
+Candidates_Dedup: ['post-mining rehabilitation efforts', 'accurate data interpolation', 'sentinel-2 data', 'inconsistencies', 'ndmi indices', 'ndvi', 'soil moisture dynamics', 'natural reference areas', 'robust framework', 'vegetation health', 'vegetation recovery', 'maps', 'mining quarries', 'pixels', 'study', 'results'] 
+
+TOP-K 0: ['post-mining rehabilitation efforts', 'accurate data interpolation', 'sentinel-2 data', 'inconsistencies', 'ndmi indices', 'ndvi', 'soil moisture dynamics', 'natural reference areas', 'robust framework', 'vegetation health', 'vegetation recovery', 'maps', 'mining quarries', 'pixels', 'study'] 
+
+Reference 0: ['Remote Sensing', 'Self-Organizing Maps', 'Vegetation Indices', 'Soil Moisture Monitoring', 'Sentinel-2 Imagery', 'Ecosystem Restoration'] 
+
+Sorted_Candidate: [['high nitrate susceptibility'], ['southeastern aquifer areas'], ['porous aquifers'], ['nitrate contamination vulnerability'], ['land use changes'], ['vulnerability'], ['canter methods'], ['vulnerability maps'], ['groundwater quality'], ['refining drastic'], ['ongoing monitoring'], ['dynamic nature'], ['sustainability'], ['study'], ['importance'], ['accuracy'], ['wells'], ['findings'], ['coastline'], ['need'], ['data']] 
+
+Candidates_Dedup: ['high nitrate susceptibility', 'southeastern aquifer areas', 'porous aquifers', 'nitrate contamination vulnerability', 'land use changes', 'vulnerability', 'canter methods', 'vulnerability maps', 'groundwater quality', 'refining drastic', 'ongoing monitoring', 'dynamic nature', 'sustainability', 'study', 'importance', 'accuracy', 'wells', 'findings', 'coastline', 'need', 'data'] 
+
+TOP-K 1: ['high nitrate susceptibility', 'southeastern aquifer areas', 'porous aquifers', 'nitrate contamination vulnerability', 'land use changes', 'vulnerability', 'canter methods', 'vulnerability maps', 'groundwater quality', 'refining drastic', 'ongoing monitoring', 'dynamic nature', 'sustainability', 'study', 'importance'] 
+
+Reference 1: ['Agricultural basin', 'Groundwater vulnerability', 'Pollution to nitrates', 'DRASTIC-LU', 'Canter-LU', 'AHP'] 
+
+Sorted_Candidate: [['gdant'], ['gdant'], ['gdant'], ['anthropogenic gadolinium'], ['aquifers'], ['aquifers'], ['urban water bodies'], ['sorption'], ['batch experiments'], ['experiments'], ['concentration'], ['concentration'], ['distribution'], ['processes']] 
+
+Candidates_Dedup: ['gdant', 'anthropogenic gadolinium', 'aquifers', 'urban water bodies', 'sorption', 'batch experiments', 'experiments', 'concentration', 'distribution', 'processes'] 
+
+TOP-K 2: ['gdant', 'anthropogenic gadolinium', 'aquifers', 'urban water bodies', ['sorption'], ['batch experiments'], 'experiments', 'concentration', 'distribution', 'processes'] 
+
+Reference 2: ['Gadolinium-based contrast agents', 'Urban aquifer', 'Hydrochemical modelling', 'Batch experiment', 'Sorption'] 
+
+Sorted_Candidate: [['lisflood large-scale hydrological model'], ['ef'], ['ef policy'], ['ef models'], ['ungauged rivers'], ['water management'], ['environmental flow'], ['strong performance'], ['greece'], ['framework'], ['rivers'], ['ensemble'], ['methods'], ['methodology'], ['results']] 
+
+Candidates_Dedup: ['lisflood large-scale hydrological model', 'ef', 'ef policy', 'ef models', 'ungauged rivers', 'water management', 'environmental flow', 'strong performance', 'greece', 'framework', 'rivers', 'ensemble', 'methods', 'methodology', 'results'] 
+
+TOP-K 3: ['lisflood large-scale hydrological model', 'ef', 'ef policy', 'ef models', 'ungauged rivers', 'water management', ['environmental flow'], 'strong performance', 'greece', 'framework', 'rivers', 'ensemble', 'methods', 'methodology', 'results'] 
+
+Reference 3: ['Environmental flow', 'Large scale hydrological modelling', 'Ungauged basins', 'LISFLOOD', 'Greek rivers', 'Water framework directive'] 
+
+Sorted_Candidate: [['pet microplastics'], ['pet microplastics'], ['p3hb microplastics'], ['p3hb'], ['p3hb'], ['root elongation'], ['root elongation'], ['lemna minor shows resilience'], ['chronic microplastic exposure'], ['molecular markers'], ['adaptability'], ['pronounced effect'], ['nutrient loss'], ['pet'], ['weeks']] 
+
+Candidates_Dedup: ['pet microplastics', 'p3hb microplastics', 'p3hb', 'root elongation', 'lemna minor shows resilience', 'chronic microplastic exposure', 'molecular markers', 'adaptability', 'pronounced effect', 'nutrient loss', 'pet', 'weeks'] 
+
+TOP-K 4: ['pet microplastics', 'p3hb microplastics', 'p3hb', ['root elongation'], 'lemna minor shows resilience', 'chronic microplastic exposure', 'molecular markers', 'adaptability', 'pronounced effect', 'nutrient loss', 'pet', 'weeks'] 
+
+Reference 4: ['Aquatic Macrophytes', 'Nutrient Depletion', 'Root Elongation', 'Ecotoxicity', 'Chronic Exposure'] 
+
+Sorted_Candidate: [['wam model simulated spatial nutrient loadings'], ['elevated total nitrogen levels'], ['prw'], ['elevated tp loads'], ['prw outlet'], ['septic systems'], ['tp'], ['watershed source area'], ['phosphate mining lands'], ['urban areas'], ['coastal watershed'], ['source areas'], ['p limitation'], ['areas'], ['elevated levels'], ['charlotte harbor'], ['bmps'], ['florida'], ['agriculture'], ['tn'], ['groundwater']] 
+
+Candidates_Dedup: ['wam model simulated spatial nutrient loadings', 'elevated total nitrogen levels', 'prw', 'elevated tp loads', 'prw outlet', 'septic systems', 'tp', 'watershed source area', 'phosphate mining lands', 'urban areas', 'coastal watershed', 'source areas', 'p limitation', 'areas', 'elevated levels', 'charlotte harbor', 'bmps', 'florida', 'agriculture', 'tn', 'groundwater'] 
+
+TOP-K 5: ['wam model simulated spatial nutrient loadings', 'elevated total nitrogen levels', 'prw', 'elevated tp loads', 'prw outlet', 'septic systems', 'tp', 'watershed source area', 'phosphate mining lands', 'urban areas', ['coastal watershed'], ['source areas'], 'p limitation', 'areas', 'elevated levels'] 
+
+Reference 5: ['Coastal watershed', 'Source area', 'Nutrient loading', 'Nitrogen', 'Phosphorus'] 
+
+Sorted_Candidate: [['dwtr'], ['dwtr'], ['dwtr'], ['phosphate adsorption'], ['adsorption capacity'], ['phpzc'], ['phpzc'], ['phosphate adsorption capacity'], ['water treatment residuals'], ['aluminium content'], ['phosphate removal'], ['key parameter'], ['water utilities'], ['point'], ['charge'], ['ph'], ['model']] 
+
+Candidates_Dedup: ['dwtr', 'phosphate adsorption', 'adsorption capacity', 'phpzc', 'phosphate adsorption capacity', 'water treatment residuals', 'aluminium content', 'phosphate removal', 'key parameter', 'water utilities', 'point', 'charge', 'ph', 'model'] 
+
+TOP-K 6: ['dwtr', ['phosphate adsorption'], 'adsorption capacity', 'phpzc', 'phosphate adsorption capacity', 'water treatment residuals', 'aluminium content', 'phosphate removal', 'key parameter', 'water utilities', 'point', 'charge', 'ph', 'model'] 
+
+Reference 6: ['Drinking water treatment sludge reuse', 'Sludge characterization', 'Phosphate adsorption', 'Water treatment'] 
+
+Sorted_Candidate: [['mj/cm2'], ['mj/cm2'], ['antibiotic-resistant bacteria'], ['arb'], ['insufficient chlorination'], ['antibiotic resistance genes'], ['args'], ['args'], ['aggressive chlorination'], ['arb prevalence'], ['arb removal'], ['uv treatment'], ['biological pathways'], ['cws'], ['natural transformation'], ['chemical']] 
+
+Candidates_Dedup: ['mj/cm2', 'antibiotic-resistant bacteria', 'arb', 'insufficient chlorination', 'antibiotic resistance genes', 'args', 'aggressive chlorination', 'arb prevalence', 'arb removal', 'uv treatment', 'biological pathways', 'cws', 'natural transformation', 'chemical'] 
+
+TOP-K 7: ['mj/cm2', ['antibiotic-resistant bacteria'], 'arb', 'insufficient chlorination', ['antibiotic resistance genes'], 'args', 'aggressive chlorination', 'arb prevalence', 'arb removal', 'uv treatment', 'biological pathways', 'cws', 'natural transformation', 'chemical'] 
+
+Reference 7: ['Antibiotic-resistant bacteria', 'Antibiotic resistance genes', 'Chlorination', 'Constructed wetlands', 'Upflow anaerobic sludge blanket reactors', 'UV disinfection'] 
+
+Sorted_Candidate: [['pi-m-pmda'], ['pi-m-pmda'], ['van der waals regions interaction'], ['pi m-pmda'], ['diclofenac'], ['green ionothermal method'], ['adsorption'], ['halogen bonds'], ['maximum adsorption capacity'], ['eluent'], ['mg g'], ['hydrogen bonds'], ['multiple cycles'], ['ethanol']] 
+
+Candidates_Dedup: ['pi-m-pmda', 'van der waals regions interaction', 'pi m-pmda', 'diclofenac', 'green ionothermal method', 'adsorption', 'halogen bonds', 'maximum adsorption capacity', 'eluent', 'mg g', 'hydrogen bonds', 'multiple cycles', 'ethanol'] 
+
+TOP-K 8: ['pi-m-pmda', 'van der waals regions interaction', 'pi m-pmda', 'diclofenac', 'green ionothermal method', 'adsorption', 'halogen bonds', 'maximum adsorption capacity', 'eluent', 'mg g', 'hydrogen bonds', 'multiple cycles', 'ethanol'] 
+
+Reference 8: ['Green synthesis', 'Porous polyimide', 'Pharmaceutical pollutant', 'Adsorption mechanism'] 
+
+Reference 9: ['Biomass valorisation', 'Pyrolysis', 'Wastewater treatment', 'Dynamic column adsorption', 'Adsorbent regeneration'] 
+
+Sorted_Candidate: [['l.mg-1min-1'], ['box-behnken design optimization'], ['cpf'], ['cpf'], ['cruciferin protein flocculant'], ['cpf-med interaction'], ['short half-life'], ['bioflocculation'], ['kcal/mol'], ['coagulation rate'], ['mustard oil cake'], ['med'], ['ftir'], ['chemical changes'], ['binding energy'], ['docking studies'], ['role'], ['min']] 
+
+Candidates_Dedup: ['l.mg-1min-1', 'box-behnken design optimization', 'cpf', 'cruciferin protein flocculant', 'cpf-med interaction', 'short half-life', 'bioflocculation', 'kcal/mol', 'coagulation rate', 'mustard oil cake', 'med', 'ftir', 'chemical changes', 'binding energy', 'docking studies', 'role', 'min'] 
+
+TOP-K 10: ['l.mg-1min-1', 'box-behnken design optimization', 'cpf', ['cruciferin protein flocculant'], 'cpf-med interaction', 'short half-life', 'bioflocculation', 'kcal/mol', 'coagulation rate', ['mustard oil cake'], 'med', 'ftir', 'chemical changes', 'binding energy', 'docking studies'] 
+
+Reference 10: ['Mustard oil cake', 'Cruciferin protein flocculant', 'Autodock vina', 'Metronidazole', 'Perikinetics', 'Circular economy', 'Agro-waste valorisation', 'Pharmaceutical effluent'] 
+
+Sorted_Candidate: [['phytoplankton'], ['phytoplankton growth rate'], ['phytoplankton growth rate'], ['p/b ratio'], ['gross primary production'], ['kdd approach'], ['plankton'], ['nutrient conditions'], ['phosphorus load'], ['nutrient load'], ['growth'], ['relationship']] 
+
+Candidates_Dedup: ['phytoplankton', 'phytoplankton growth rate', 'p/b ratio', 'gross primary production', 'kdd approach', 'plankton', 'nutrient conditions', 'phosphorus load', 'nutrient load', 'growth', 'relationship'] 
+
+TOP-K 11: ['phytoplankton', ['phytoplankton growth rate'], 'p/b ratio', ['gross primary production'], 'kdd approach', 'plankton', 'nutrient conditions', 'phosphorus load', ['nutrient load'], 'growth', 'relationship'] 
+
+Reference 11: ['Nutrient load', 'Phosphorus', 'Nitrogen', 'Gross primary production', 'Phytoplankton growth rate', 'The KDD approach'] 
+
+Sorted_Candidate: [['future climate change'], ['efe'], ['efe'], ['future climate change impact'], ['efe violations'], ['environmental flow envelope'], ['efe violation'], ['probabilities'], ['frequent violation'], ['river sustainability'], ['boundary'], ['recovery decline'], ['upper boundary'], ['likelihood']] 
+
+Candidates_Dedup: ['future climate change', 'efe', 'future climate change impact', 'efe violations', 'environmental flow envelope', 'efe violation', 'probabilities', 'frequent violation', 'river sustainability', 'boundary', 'recovery decline', 'upper boundary', 'likelihood'] 
+
+TOP-K 12: [['future climate change'], 'efe', 'future climate change impact', 'efe violations', ['environmental flow envelope'], 'efe violation', 'probabilities', 'frequent violation', 'river sustainability', 'boundary', 'recovery decline', 'upper boundary', 'likelihood'] 
+
+Reference 12: ['Environmental flow envelope', 'Streamflow violations', 'Regulated river', 'Future climate change', 'Reliability', 'Resilience', 'Violation ratio', 'Violation frequency', 'CMIP6'] 
+
+Sorted_Candidate: [['hcho'], ['hcho'], ['multiscale geographically weighted regression'], ['hcho levels'], ['hcho levels'], ['urban hcho concentrations'], ['vilnius city centre'], ['viewshed size'], ['environmental factors'], ['spatial variations'], ['dew temperature'], ['road density'], ['co2'], ['distance'], ['buildings'], ['railways'], ['water'], ['locations']] 
+
+Candidates_Dedup: ['hcho', 'multiscale geographically weighted regression', 'hcho levels', 'urban hcho concentrations', 'vilnius city centre', 'viewshed size', 'environmental factors', 'spatial variations', 'dew temperature', 'road density', 'co2', 'distance', 'buildings', 'railways', 'water', 'locations'] 
+
+TOP-K 13: [['hcho'], 'multiscale geographically weighted regression', 'hcho levels', 'urban hcho concentrations', 'vilnius city centre', 'viewshed size', 'environmental factors', 'spatial variations', 'dew temperature', 'road density', 'co2', 'distance', 'buildings', 'railways', 'water'] 
+
+Reference 13: ['Urban environment', 'Formaldehyde', 'HCHO', 'Outdoor air pollution', 'Ecosystem services', 'Air quality', 'Vilnius'] 
+
+Sorted_Candidate: [['microalgae growth'], ['total-p removal'], ['dark conditions'], ['dark conditions'], ['refeeding'], ['additional air supply'], ['additional air'], ['nutrient elimination'], ['nutrient removal'], ['light'], ['light'], ['change'], ['nitrate'], ['values'], ['ph']] 
+
+Candidates_Dedup: ['microalgae growth', 'total-p removal', 'dark conditions', 'refeeding', 'additional air supply', 'additional air', 'nutrient elimination', 'nutrient removal', 'light', 'change', 'nitrate', 'values', 'ph'] 
+
+TOP-K 14: ['microalgae growth', 'total-p removal', 'dark conditions', 'refeeding', 'additional air supply', 'additional air', 'nutrient elimination', 'nutrient removal', 'light', 'change', ['nitrate'], 'values', 'ph'] 
+
+Reference 14: ['Wastewater treatment', 'Microalgae-bacteria consortia', 'Nitrates', 'Phosphorus', 'Removal kinetics', 'Dark-light conditions'] 
+
+Sorted_Candidate: [['fe3'], ['fe3'], ['fe3'], ['fe3'], ['full-scale passive mwts'], ['mwts lagoons'], ['warm season'], ['warm season'], ['lagoons'], ['variation'], ['variation'], ['coal mine drainage'], ['wetlands'], ['wetlands'], ['iron removal'], ['different seasons'], ['summer'], ['spring'], ['r.e.'], ['r.e.'], ['r.e.'], ['r.e.']] 
+
+Candidates_Dedup: ['fe3', 'full-scale passive mwts', 'mwts lagoons', 'warm season', 'lagoons', 'variation', 'coal mine drainage', 'wetlands', 'iron removal', 'different seasons', 'summer', 'spring', 'r.e.'] 
+
+TOP-K 15: ['fe3', 'full-scale passive mwts', 'mwts lagoons', 'warm season', 'lagoons', 'variation', 'coal mine drainage', 'wetlands', ['iron removal'], 'different seasons', 'summer', 'spring', 'r.e.'] 
+
+Reference 15: ['Iron removal', 'Seasonal variation', 'Water treatment', 'Full-scale lagoons', 'Full-scale wetlands', 'Mine discharge'] 
+
+Sorted_Candidate: [['composites'], ['composites'], ['composites'], ['composites'], ['centrifugation'], ['oil sorption capacity'], ['high oil removal'], ['feathers'], ['feathers'], ['multiple cycles'], ['renewable sources'], ['materials'], ['materials'], ['regeneration'], ['use'], ['damage'], ['times'], ['structures'], ['weight']] 
+
+Candidates_Dedup: ['composites', 'centrifugation', 'oil sorption capacity', 'high oil removal', 'feathers', 'multiple cycles', 'renewable sources', 'materials', 'regeneration', 'use', 'damage', 'times', 'structures', 'weight'] 
+
+TOP-K 16: ['composites', 'centrifugation', 'oil sorption capacity', 'high oil removal', 'feathers', 'multiple cycles', 'renewable sources', 'materials', 'regeneration', 'use', 'damage', 'times', 'structures', 'weight'] 
+
+Reference 16: ['Oil spill remediation', 'Contaminated seabird', 'Natural fibers', 'Kapok', 'Sorbent materials', 'Composite regeneration'] 
+
+Sorted_Candidate: [['mxene-modified nanofiltration membranes'], ['excellent antifouling capability'], ['membrane flux recovery rate'], ['industrial viability'], ['conductivity'], ['membranes'], ['textile wastewater'], ['removal rates'], ['flux'], ['h'], ['color'], ['cod'], ['l/m']] 
+
+Candidates_Dedup: ['mxene-modified nanofiltration membranes', 'excellent antifouling capability', 'membrane flux recovery rate', 'industrial viability', 'conductivity', 'membranes', 'textile wastewater', 'removal rates', 'flux', 'h', 'color', 'cod', 'l/m'] 
+
+TOP-K 17: ['mxene-modified nanofiltration membranes', 'excellent antifouling capability', 'membrane flux recovery rate', 'industrial viability', 'conductivity', 'membranes', 'textile wastewater', 'removal rates', 'flux', 'h', 'color', 'cod', 'l/m'] 
+
+Reference 17: ['Actual textile wastewater', 'MXene', 'Nanofiltration membrane', 'COD removal', 'Wastewater treatment'] 
+
+Sorted_Candidate: [['mesoporous sio2-chitin/moo3 nanocomposite'], ['mg/g'], ['mg/g'], ['metal-oxygen/nitrogen coordination'], ['langmuir adsorption capacities'], ['spontaneous chemisorption'], ['adsorption mechanism'], ['metal adsorption'], ['mesoporosity'], ['pb'], ['pb'], ['high surface area'], ['kinetic studies'], ['ftir'], ['xps'], ['cu'], ['cu'], ['removal'], ['functionality']] 
+
+Candidates_Dedup: ['mesoporous sio2-chitin/moo3 nanocomposite', 'mg/g', 'metal-oxygen/nitrogen coordination', 'langmuir adsorption capacities', 'spontaneous chemisorption', 'adsorption mechanism', 'metal adsorption', 'mesoporosity', 'pb', 'high surface area', 'kinetic studies', 'ftir', 'xps', 'cu', 'removal', 'functionality'] 
+
+TOP-K 18: ['mesoporous sio2-chitin/moo3 nanocomposite', 'mg/g', 'metal-oxygen/nitrogen coordination', 'langmuir adsorption capacities', 'spontaneous chemisorption', 'adsorption mechanism', 'metal adsorption', 'mesoporosity', 'pb', 'high surface area', 'kinetic studies', 'ftir', 'xps', 'cu', 'removal'] 
+
+Reference 18: ['XPS surface investigation', 'Mesoporous nanocomposites', 'Metal Adsorption isotherm', 'Adsorption thermodynamics', 'Activation energy'] 
+
+Sorted_Candidate: [['antibiotic-plant surfactant synergy'], ['surfactant-plant adjuvants'], ['membrane permeability aids antibiotics'], ['antibacterial activity'], ['plant surfactants'], ['aminoglycoside efficacy'], ['eco-friendly strategies'], ['licorice extract'], ['tobramycin'], ['antibiotic use'], ['ph'], ['resistance'], ['acidic ph.']] 
+
+Candidates_Dedup: ['antibiotic-plant surfactant synergy', 'surfactant-plant adjuvants', 'membrane permeability aids antibiotics', 'antibacterial activity', 'plant surfactants', 'aminoglycoside efficacy', 'eco-friendly strategies', 'licorice extract', 'tobramycin', 'antibiotic use', 'ph', 'resistance', 'acidic ph.'] 
+
+TOP-K 19: ['antibiotic-plant surfactant synergy', 'surfactant-plant adjuvants', 'membrane permeability aids antibiotics', 'antibacterial activity', 'plant surfactants', 'aminoglycoside efficacy', 'eco-friendly strategies', 'licorice extract', 'tobramycin', 'antibiotic use', 'ph', 'resistance', 'acidic ph.'] 
+
+Reference 19: ['Aminoglycoside antibiotics', 'Calendula (Calendula officinalis)', 'Escherichia coli', 'Licorice (Glycyrrhiza glabra L.)', 'pH modulation', 'Plant-derived surfactants'] 
+
+Sorted_Candidate: [['anthropogenic pressures'], ['fuzzy cognitive maps'], ['fuzzy cognitive maps'], ['mediterranean river basin'], ['multiple key system factors'], ['stakeholder perceptions'], ['scenarios'], ['scenarios'], ['status'], ['rise'], ['analysis']] 
+
+Candidates_Dedup: ['anthropogenic pressures', 'fuzzy cognitive maps', 'mediterranean river basin', 'multiple key system factors', 'stakeholder perceptions', 'scenarios', 'status', 'rise', 'analysis'] 
+
+TOP-K 20: ['anthropogenic pressures', ['fuzzy cognitive maps'], ['mediterranean river basin'], 'multiple key system factors', 'stakeholder perceptions', 'scenarios', 'status', 'rise', 'analysis'] 
+
+Reference 20: ['Fuzzy cognitive maps', 'Stakeholder engagement', 'Integrated water resources management', 'Mediterranean river basin', 'Partnerships for the goals'] 
+
+Sorted_Candidate: [['flood susceptibility maps'], ['decision-making process'], ['susceptibility scores'], ['monte-carlo simulations'], ['deterministic approaches'], ['flood indicator criteria'], ['stakeholder engagement'], ['spatial distribution'], ['robust predictions'], ['statistical properties'], ['realizations'], ['uncertainty propagation'], ['weights'], ['stages'], ['results'], ['generation']] 
+
+Candidates_Dedup: ['flood susceptibility maps', 'decision-making process', 'susceptibility scores', 'monte-carlo simulations', 'deterministic approaches', 'flood indicator criteria', 'stakeholder engagement', 'spatial distribution', 'robust predictions', 'statistical properties', 'realizations', 'uncertainty propagation', 'weights', 'stages', 'results', 'generation'] 
+
+TOP-K 21: ['flood susceptibility maps', 'decision-making process', 'susceptibility scores', 'monte-carlo simulations', 'deterministic approaches', 'flood indicator criteria', 'stakeholder engagement', 'spatial distribution', 'robust predictions', 'statistical properties', 'realizations', 'uncertainty propagation', 'weights', 'stages', 'results'] 
+
+Reference 21: ['Flooding', 'Uncertainty analysis', 'Monte Carlo simulations', 'Analytical hierarchical process', 'GIS'] 
+
+Sorted_Candidate: [['key groundwater-surface water interaction zones'], ['w¨¹stebach catchment'], ['snowmelt'], ['groundwater'], ['streamflow variability'], ['streamflow'], ['western tributaries'], ['groundwater influence'], ['ion concentrations'], ['groundwater levels'], ['ec mapping'], ['precipitation']] 
+
+Candidates_Dedup: ['key groundwater-surface water interaction zones', 'w¨¹stebach catchment', 'snowmelt', 'groundwater', 'streamflow variability', 'streamflow', 'western tributaries', 'groundwater influence', 'ion concentrations', 'groundwater levels', 'ec mapping', 'precipitation'] 
+
+TOP-K 22: ['key groundwater-surface water interaction zones', ['w¨¹stebach catchment'], 'snowmelt', 'groundwater', 'streamflow variability', 'streamflow', 'western tributaries', 'groundwater influence', 'ion concentrations', 'groundwater levels', 'ec mapping', 'precipitation'] 
+
+Reference 22: ['Groundwater-surface water interactions', 'Groundwater-dependent ecosystems', 'Electrical conductivity', 'Stream discharge', 'Headwater catchments', 'W¨¹stebach catchment'] 
+
+Sorted_Candidate: [['biogas production'], ['biogas production'], ['biogas production'], ['acetoclastic methanothrix'], ['rumen fluid'], ['rumen fluid'], ['cloacimonas'], ['cotton stalks'], ['rumen microbiota'], ['syntrophic ca'], ['biomass hydrolysis step'], ['biotreatment'], ['cotton stalks treatment'], ['¦Çigh availability'], ['cotton stalk residues'], ['major taxa']] 
+
+Candidates_Dedup: ['biogas production', 'acetoclastic methanothrix', 'rumen fluid', 'cloacimonas', 'cotton stalks', 'rumen microbiota', 'syntrophic ca', 'biomass hydrolysis step', 'biotreatment', 'cotton stalks treatment', '¦Çigh availability', 'cotton stalk residues', 'major taxa'] 
+
+TOP-K 23: ['biogas production', 'acetoclastic methanothrix', ['rumen fluid'], 'cloacimonas', 'cotton stalks', ['rumen microbiota'], 'syntrophic ca', 'biomass hydrolysis step', 'biotreatment', 'cotton stalks treatment', '¦Çigh availability', ['cotton stalk residues'], 'major taxa'] 
+
+Reference 23: ['Cotton stalk residues', 'Lignocellulose', 'Rumen fluid', 'Rumen microbiota', 'Candidatus Cloacimonas', 'Methanothrix'] 
+
+Sorted_Candidate: [['reliable potable water supply'], ['cost-effective solutions'], ['innovative desalination'], ['wind turbines'], ['energy storage'], ['scarcity'], ['energy reliability'], ['island'], ['energy demand']] 
+
+Candidates_Dedup: ['reliable potable water supply', 'cost-effective solutions', 'innovative desalination', 'wind turbines', 'energy storage', 'scarcity', 'energy reliability', 'island', 'energy demand'] 
+
+TOP-K 24: ['reliable potable water supply', 'cost-effective solutions', 'innovative desalination', 'wind turbines', 'energy storage', 'scarcity', 'energy reliability', 'island', 'energy demand'] 
+
+Reference 24: ['Water management', 'Pumped hydro storage', 'Hydrogen storage solution', 'Desalination', 'Hybrid renewable energy systems', 'Paxos and antipaxos islands'] 
+
+Sorted_Candidate: [['unified open-source platform'], ['up-to-date information'], ['monthly open-source data aggregation'], ['data'], ['platform'], ['platform'], ['data visualization'], ['meteorological data'], ['graphical tools'], ['private sector'], ['statistical analysis'], ['risk management'], ['management'], ['tools'], ['contributions'], ['users']] 
+
+Candidates_Dedup: ['unified open-source platform', 'up-to-date information', 'monthly open-source data aggregation', 'data', 'platform', 'data visualization', 'meteorological data', 'graphical tools', 'private sector', 'statistical analysis', 'risk management', 'management', 'tools', 'contributions', 'users'] 
+
+TOP-K 25: ['unified open-source platform', 'up-to-date information', 'monthly open-source data aggregation', 'data', 'platform', 'data visualization', ['meteorological data'], 'graphical tools', 'private sector', 'statistical analysis', 'risk management', 'management', 'tools', 'contributions', 'users'] 
+
+Reference 25: ['Meteorological Data', 'SQL Database', 'Open-source', 'Weather Stations', 'Crete Region', 'Hydrological Data'] 
+
+Sorted_Candidate: [['ivermectin'], ['ivermectin'], ['ivermectin'], ['delta del paran¨¢ wetland soils'], ['soluble ivermectin'], ['ppb'], ['ppb'], ['ppb'], ['midhill zones'], ['zones'], ['upper zones'], ['high concentrations'], ['water courses'], ['risk']] 
+
+Candidates_Dedup: ['ivermectin', 'delta del paran¨¢ wetland soils', 'soluble ivermectin', 'ppb', 'midhill zones', 'zones', 'upper zones', 'high concentrations', 'water courses', 'risk'] 
+
+TOP-K 26: [['ivermectin'], 'delta del paran¨¢ wetland soils', 'soluble ivermectin', 'ppb', 'midhill zones', 'zones', 'upper zones', 'high concentrations', 'water courses', 'risk'] 
+
+Reference 26: ['Wetland pollution', 'Antiparasitic drugs mobility', 'Ivermectin', 'Livestock', 'Soil organic matter', 'Environmental fate', 'Environmental distribution'] 
+
+Sorted_Candidate: [['sulphur-doped comn oxide'], ['alginate-derived carbon'], ['adsorption ability'], ['adsorption parameters'], ['mb-dye removal'], ['machine learning models'], ['fabric wastewater samples'], ['synergy'], ['ph'], ['performance']] 
+
+Candidates_Dedup: ['sulphur-doped comn oxide', 'alginate-derived carbon', 'adsorption ability', 'adsorption parameters', 'mb-dye removal', 'machine learning models', 'fabric wastewater samples', 'synergy', 'ph', 'performance'] 
+
+TOP-K 27: ['sulphur-doped comn oxide', 'alginate-derived carbon', 'adsorption ability', 'adsorption parameters', 'mb-dye removal', ['machine learning models'], 'fabric wastewater samples', 'synergy', 'ph', 'performance'] 
+
+Reference 27: ['Mesoporous adsorbent', 'Alginate-derived carbon beads', 'Methylene blue', 'Adsorption', 'Isotherm and kinetic studies', 'Machine learning modeling'] 
+
+Sorted_Candidate: [['evaporative-based methods'], ['high-purity salts'], ['pipe freeze crystallization'], ['na2so4'], ['scalable technology'], ['circular economy goals'], ['nacl'], ['clean water'], ['industrial applications'], ['leachate'], ['water'], ['recovery'], ['process']] 
+
+Candidates_Dedup: ['evaporative-based methods', 'high-purity salts', 'pipe freeze crystallization', 'na2so4', 'scalable technology', 'circular economy goals', 'nacl', 'clean water', 'industrial applications', 'leachate', 'water', 'recovery', 'process'] 
+
+TOP-K 28: ['evaporative-based methods', 'high-purity salts', 'pipe freeze crystallization', 'na2so4', 'scalable technology', 'circular economy goals', 'nacl', 'clean water', 'industrial applications', 'leachate', 'water', 'recovery', 'process'] 
+
+Reference 28: ['Sustainable wastewater treatment', 'Energy-efficient desalination', 'Resource recovery technology', 'Zero-waste wastewater treatment', 'Industrial effluent treatment'] 
+
+Sorted_Candidate: [['fertilizer imports'], ['tww'], ['net state domestic product'], ['wastewater generation'], ['asp'], ['uasb'], ['india'], ['sbr'], ['nutrient content'], ['mbbr'], ['wastewater'], ['irrigation'], ['population'], ['op']] 
+
+Candidates_Dedup: ['fertilizer imports', 'tww', 'net state domestic product', 'wastewater generation', 'asp', 'uasb', 'india', 'sbr', 'nutrient content', 'mbbr', 'wastewater', 'irrigation', 'population', 'op'] 
+
+TOP-K 29: ['fertilizer imports', 'tww', 'net state domestic product', 'wastewater generation', 'asp', 'uasb', 'india', 'sbr', 'nutrient content', 'mbbr', 'wastewater', 'irrigation', 'population', 'op'] 
+
+Reference 29: ['Water quality', 'Treated wastewater', 'Reuse', 'Resource utilization'] 
+
+Sorted_Candidate: [['climate change impact'], ['hydrology'], ['river flow'], ['annual basis'], ['spring'], ['precipitation'], ['methodology'], ['projections'], ['winter'], ['river']] 
+
+Candidates_Dedup: ['climate change impact', 'hydrology', 'river flow', 'annual basis', 'spring', 'precipitation', 'methodology', 'projections', 'winter', 'river'] 
+
+TOP-K 30: ['climate change impact', 'hydrology', 'river flow', 'annual basis', 'spring', 'precipitation', 'methodology', 'projections', 'winter', 'river'] 
+
+Reference 30: ['GR2M', 'Hydrological modeling', 'SSP1-2.6 and SSP5-8.5', 'Climate change impact assessment', 'CMIP6', 'Temperature', 'Rainfall', 'Meteorological drought'] 
+
+Sorted_Candidate: [['p-xylene'], ['electro-absorption'], ['electro-absorption'], ['electro-absorption'], ['p-xylene degradation'], ['benzene'], ['benzene'], ['pollutants'], ['pollutant'], ['intermediates speciation'], ['current density'], ['packed column'], ['jet mixer'], ['gas streams'], ['absorption design'], ['mineralization'], ['percent removal']] 
+
+Candidates_Dedup: ['p-xylene', 'electro-absorption', 'p-xylene degradation', 'benzene', 'pollutants', 'pollutant', 'intermediates speciation', 'current density', 'packed column', 'jet mixer', 'gas streams', 'absorption design', 'mineralization', 'percent removal'] 
+
+TOP-K 31: [['p-xylene'], ['electro-absorption'], 'p-xylene degradation', ['benzene'], 'pollutants', 'pollutant', 'intermediates speciation', 'current density', ['packed column'], ['jet mixer'], 'gas streams', 'absorption design', 'mineralization', 'percent removal'] 
+
+Reference 31: ['Gas treatment', 'Electro-absorption', 'Benzene', 'P-xylene', 'Packed column', 'Jet mixer'] 
+
+Sorted_Candidate: [['drinking water systems adaptation'], ['climate change'], ['decision support systems'], ['preventive adaptation'], ['climate change adaptation'], ['drinking water quality'], ['serious impacts'], ['behaviors'], ['perceptions'], ['attitudes']] 
+
+Candidates_Dedup: ['drinking water systems adaptation', 'climate change', 'decision support systems', 'preventive adaptation', 'climate change adaptation', 'drinking water quality', 'serious impacts', 'behaviors', 'perceptions', 'attitudes'] 
+
+TOP-K 32: ['drinking water systems adaptation', 'climate change', ['decision support systems'], 'preventive adaptation', 'climate change adaptation', 'drinking water quality', 'serious impacts', ['behaviors'], ['perceptions'], 'attitudes'] 
+
+Reference 32: ['Climate change impacts', 'Adaptation', 'Drinking water systems', 'Perceptions', 'Behaviors', 'Decision support systems'] 
+
+Sorted_Candidate: [['roof-top harvested rainwater'], ['roof-top harvested rainwater'], ['accomplished filtration systems'], ['rainwater filtration technologies'], ['critical areas'], ['future research'], ['need'], ['sustainability'], ['framework']] 
+
+Candidates_Dedup: ['roof-top harvested rainwater', 'accomplished filtration systems', 'rainwater filtration technologies', 'critical areas', 'future research', 'need', 'sustainability', 'framework'] 
+
+TOP-K 33: ['roof-top harvested rainwater', 'accomplished filtration systems', 'rainwater filtration technologies', 'critical areas', 'future research', 'need', 'sustainability', 'framework'] 
+
+Reference 33: ['Bibliometric analysis', 'Roof-top rainwater harvesting', 'Rainwater quality', 'Microbiological contamination', 'First flush'] 
+
+Sorted_Candidate: [['adsorbents'], ['adsorbent'], ['adsorbent'], ['high grade adsorbents'], ['winner adsorbents'], ['chitosan composites'], ['acid dyes'], ['guide'], ['guide'], ['significant criteria'], ['high capacity'], ['many cycles'], ['efficient ones'], ['materials'], ['recycling']] 
+
+Candidates_Dedup: ['adsorbents', 'adsorbent', 'high grade adsorbents', 'winner adsorbents', 'chitosan composites', 'acid dyes', 'guide', 'significant criteria', 'high capacity', 'many cycles', 'efficient ones', 'materials', 'recycling'] 
+
+TOP-K 34: ['adsorbents', 'adsorbent', ['high grade adsorbents'], 'winner adsorbents', 'chitosan composites', ['acid dyes'], 'guide', 'significant criteria', 'high capacity', 'many cycles', 'efficient ones', 'materials', ['recycling']] 
+
+Reference 34: ['High grade adsorbents', 'Acid dyes', 'Recycling', 'Selection guide'] 
+
+Sorted_Candidate: [['vertical daily hygrothermal patterns'], ['thermal inversions'], ['inversions'], ['early morning'], ['urban canyon structure'], ['low winds'], ['calms'], ['thermal range'], ['clear skies'], ['study'], ['dusk'], ['influence'], ['night'], ['gradient']] 
+
+Candidates_Dedup: ['vertical daily hygrothermal patterns', 'thermal inversions', 'inversions', 'early morning', 'urban canyon structure', 'low winds', 'calms', 'thermal range', 'clear skies', 'study', 'dusk', 'influence', 'night', 'gradient'] 
+
+TOP-K 35: ['vertical daily hygrothermal patterns', ['thermal inversions'], 'inversions', 'early morning', 'urban canyon structure', 'low winds', 'calms', 'thermal range', 'clear skies', 'study', 'dusk', 'influence', 'night', 'gradient'] 
+
+Reference 35: ['Urban morphology', 'Vertical temperature-humidity profiles', 'Thermal inversions', 'Urban canyon microclimate'] 
+
+Sorted_Candidate: [['small datasets'], ['habitat evaluations'], ['regression analysis'], ['aquatic habitats'], ['machine learning'], ['practical use'], ['sefa'], ['original methodology'], ['methodology'], ['method']] 
+
+Candidates_Dedup: ['small datasets', 'habitat evaluations', 'regression analysis', 'aquatic habitats', 'machine learning', 'practical use', 'sefa', 'original methodology', 'methodology', 'method'] 
+
+TOP-K 36: ['small datasets', 'habitat evaluations', ['regression analysis'], 'aquatic habitats', ['machine learning'], 'practical use', 'sefa', 'original methodology', 'methodology', 'method'] 
+
+Reference 36: ['River restoration', 'Habitat quality', 'System of environmental flow analysis', 'Regression analysis', 'Machine learning'] 
+
+Sorted_Candidate: [['similar sediment-phosphorus regimes'], ['clockwise hysteresis loops'], ['middle reaches'], ['nearby streambed areas'], ['runoff increases'], ['phosphorus'], ['clear water'], ['sediment'], ['particles'], ['sediments'], ['floods']] 
+
+Candidates_Dedup: ['similar sediment-phosphorus regimes', 'clockwise hysteresis loops', 'middle reaches', 'nearby streambed areas', 'runoff increases', 'phosphorus', 'clear water', 'sediment', 'particles', 'sediments', 'floods'] 
+
+TOP-K 37: ['similar sediment-phosphorus regimes', 'clockwise hysteresis loops', 'middle reaches', 'nearby streambed areas', 'runoff increases', 'phosphorus', 'clear water', 'sediment', 'particles', 'sediments', 'floods'] 
+
+Reference 37: ['Stream transport capacity', 'Soil loss modelling', 'Phosphorus transport', 'Sediment concentration', 'Eutrophication'] 
+
+Sorted_Candidate: [['groundwater-dependent ecosystem services'], ['groundwater-dependent ecosystem services'], ['ecosystem services'], ['expert-scoring mapping method'], ['un sdgs'], ['classification framework'], ['land uses'], ['links']] 
+
+Candidates_Dedup: ['groundwater-dependent ecosystem services', 'ecosystem services', 'expert-scoring mapping method', 'un sdgs', 'classification framework', 'land uses', 'links'] 
+
+TOP-K 38: ['groundwater-dependent ecosystem services', ['ecosystem services'], 'expert-scoring mapping method', 'un sdgs', 'classification framework', 'land uses', 'links'] 
+
+Reference 38: ['Groundwater footprint', 'Expert opinion', 'Land-scoring mapping method', 'Ecosystem services', 'SDGs', 'Environmental flow'] 
+
+Sorted_Candidate: [['kcc-1'], ['kcc-1'], ['kcc-1 nps'], ['fibrous type kcc-1 nps'], ['pani nanocomposites'], ['¦Ð-¦Ð/electrostatic interactions'], ['adsorption'], ['pani'], ['selective adsorption'], ['wrinkle'], ['ft-ir'], ['hydrogen bonding'], ['morphological study'], ['xrd'], ['crystal violet'], ['sem'], ['tga'], ['tem'], ['detail']] 
+
+Candidates_Dedup: ['kcc-1', 'kcc-1 nps', 'fibrous type kcc-1 nps', 'pani nanocomposites', '¦Ð-¦Ð/electrostatic interactions', 'adsorption', 'pani', 'selective adsorption', 'wrinkle', 'ft-ir', 'hydrogen bonding', 'morphological study', 'xrd', 'crystal violet', 'sem', 'tga', 'tem', 'detail'] 
+
+TOP-K 39: ['kcc-1', 'kcc-1 nps', 'fibrous type kcc-1 nps', 'pani nanocomposites', '¦Ð-¦Ð/electrostatic interactions', 'adsorption', 'pani', 'selective adsorption', 'wrinkle', 'ft-ir', 'hydrogen bonding', 'morphological study', 'xrd', ['crystal violet'], 'sem'] 
+
+Reference 39: ['Mesoporous fibrous silica', 'Polyaniline', 'Hydrothermal synthesis', 'Crystal violet', 'Wastewater treatment'] 
+
+Sorted_Candidate: [['alum sludge'], ['alum sludge'], ['aspcfs'], ['aspcfs'], ['aspcfs'], ['pseudo-second-order kinetics'], ['amoxicillin adsorption'], ['freundlich model'], ['adsorption capacity'], ['conventional sand filters'], ['water treatment'], ['stable ph'], ['levels'], ['kg/m']] 
+
+Candidates_Dedup: ['alum sludge', 'aspcfs', 'pseudo-second-order kinetics', 'amoxicillin adsorption', 'freundlich model', 'adsorption capacity', 'conventional sand filters', 'water treatment', 'stable ph', 'levels', 'kg/m'] 
+
+TOP-K 40: [['alum sludge'], 'aspcfs', 'pseudo-second-order kinetics', 'amoxicillin adsorption', 'freundlich model', 'adsorption capacity', 'conventional sand filters', 'water treatment', 'stable ph', 'levels', 'kg/m'] 
+
+Reference 40: ['Pharmaceuticals', 'Pervious Concrete Filters', 'Alum Sludge', 'Amoxicillin Removal', 'Wastewater Treatment'] 
+
+Reference 41: ['Emerging contaminant', 'Electrolysis', 'Colloidal particles', 'Iron electrodes', 'Removal efficiency'] 
+
+Sorted_Candidate: [['doxorubicin'], ['doxorubicin'], ['one-pot hydrothermal synthesis'], ['stable nitroxide free radical'], ['fluorescein'], ['remediation'], ['pollutants'], ['hydrochar'], ['methylene'], ['wastewater treatment'], ['reactants'], ['removal results'], ['honey'], ['material']] 
+
+Candidates_Dedup: ['doxorubicin', 'one-pot hydrothermal synthesis', 'stable nitroxide free radical', 'fluorescein', 'remediation', 'pollutants', 'hydrochar', 'methylene', 'wastewater treatment', 'reactants', 'removal results', 'honey', 'material'] 
+
+TOP-K 42: [['doxorubicin'], 'one-pot hydrothermal synthesis', 'stable nitroxide free radical', ['fluorescein'], 'remediation', 'pollutants', 'hydrochar', 'methylene', 'wastewater treatment', 'reactants', 'removal results', ['honey'], 'material'] 
+
+Reference 42: ['Honey', 'Hydrothermal', 'Functionalized hydrochar', 'Stable free radical', 'Dye removal', 'Methylene blue', 'Doxorubicin', 'Fluorescein', 'Environmental remediation'] 
+
+Sorted_Candidate: [['acrylonitrile butadiene styrene'], ['igeo values'], ['anthropogenic sources'], ['severe heavy metal accumulation'], ['nemerow pollution index'], ['high correlations'], ['heavy pollution levels'], ['polyamide'], ['heavy metals'], ['high pi'], ['various heavy metals'], ['zn'], ['study areas'], ['cu'], ['vehicles'], ['roads']] 
+
+Candidates_Dedup: ['acrylonitrile butadiene styrene', 'igeo values', 'anthropogenic sources', 'severe heavy metal accumulation', 'nemerow pollution index', 'high correlations', 'heavy pollution levels', 'polyamide', 'heavy metals', 'high pi', 'various heavy metals', 'zn', 'study areas', 'cu', 'vehicles', 'roads'] 
+
+TOP-K 43: ['acrylonitrile butadiene styrene', 'igeo values', 'anthropogenic sources', 'severe heavy metal accumulation', 'nemerow pollution index', 'high correlations', 'heavy pollution levels', 'polyamide', ['heavy metals'], 'high pi', 'various heavy metals', 'zn', 'study areas', 'cu', 'vehicles'] 
+
+Reference 43: ['Highway', 'Heavy metals', 'Microplastics', 'Pollution index', 'Rest area', 'Sediment'] 
+
+Sorted_Candidate: [['ec/us'], ['ultrasound-assisted electrocoagulation'], ['ec/us process'], ['ec/us process'], ['2.5-min operation time'], ['tetracycline'], ['process'], ['tc removal'], ['m3']] 
+
+Candidates_Dedup: ['ec/us', 'ultrasound-assisted electrocoagulation', 'ec/us process', '2.5-min operation time', 'tetracycline', 'process', 'tc removal', 'm3'] 
+
+TOP-K 44: ['ec/us', ['ultrasound-assisted electrocoagulation'], 'ec/us process', '2.5-min operation time', 'tetracycline', 'process', 'tc removal', 'm3'] 
+
+Reference 44: ['Electrocoagulation', 'Ultrasound-assisted Electrocoagulation', 'Tetracycline Remova', 'Al-Fe Electrode', 'Hybrid Electrode', 'Operation Costs'] 
+
+Sorted_Candidate: [['peat biogeochemistry'], ['small spatial scales'], ['shallow peat depths'], ['carbon loss'], ['peat c'], ['n concentrations'], ['peat removal'], ['disturbance'], ['sites']] 
+
+Candidates_Dedup: ['peat biogeochemistry', 'small spatial scales', 'shallow peat depths', 'carbon loss', 'peat c', 'n concentrations', 'peat removal', 'disturbance', 'sites'] 
+
+TOP-K 45: ['peat biogeochemistry', 'small spatial scales', 'shallow peat depths', 'carbon loss', 'peat c', 'n concentrations', 'peat removal', ['disturbance'], 'sites'] 
+
+Reference 45: ['Alpine', 'Carbon emissions', 'Disturbance', 'Soil carbon', 'Sphagnum', 'Subalpine'] 
+
+Sorted_Candidate: [['chlorpyrifos'], ['tetracycline'], ['tetracycline'], ['degrading chlorpyrifos'], ['agtio3 nanoparticles'], ['photocatalytic degradation'], ['nir light spectrum'], ['low ppm levels'], ['hydrothermal method'], ['short time'], ['rapid degradation'], ['uv'], ['water']] 
+
+Candidates_Dedup: ['chlorpyrifos', 'tetracycline', 'degrading chlorpyrifos', 'agtio3 nanoparticles', 'photocatalytic degradation', 'nir light spectrum', 'low ppm levels', 'hydrothermal method', 'short time', 'rapid degradation', 'uv', 'water'] 
+
+TOP-K 46: [['chlorpyrifos'], ['tetracycline'], 'degrading chlorpyrifos', 'agtio3 nanoparticles', 'photocatalytic degradation', 'nir light spectrum', 'low ppm levels', 'hydrothermal method', 'short time', 'rapid degradation', 'uv', 'water'] 
+
+Reference 46: ['AgTiO3', 'Ananas leaf', 'Chlorpyrifos', 'Near-infrared light', 'Perovskite', 'Photocatalysis', 'Tetracycline'] 
+
+Sorted_Candidate: [['rhizobia strains'], ['specific legume-bacteria combination'], ['phytoextraction efficiency'], ['phytoremediation'], ['soil contamination'], ['plant metal tolerance'], ['metal stress'], ['nodulation'], ['level'], ['ability'], ['plants']] 
+
+Candidates_Dedup: ['rhizobia strains', 'specific legume-bacteria combination', 'phytoextraction efficiency', 'phytoremediation', 'soil contamination', 'plant metal tolerance', 'metal stress', 'nodulation', 'level', 'ability', 'plants'] 
+
+TOP-K 47: ['rhizobia strains', 'specific legume-bacteria combination', 'phytoextraction efficiency', ['phytoremediation'], 'soil contamination', 'plant metal tolerance', 'metal stress', 'nodulation', 'level', 'ability', 'plants'] 
+
+Reference 47: ['Phytoremediation', 'Heavy metals', 'Trace elements', 'Soil pollution', 'Bradyrhizobium'] 
+
+Sorted_Candidate: [['corn stover residues'], ['corn stover residues'], ['lignocellulosic residues'], ['biogas production'], ['biogas production'], ['rumen fluid microbiota'], ['rumen fluid'], ['anaerobic digestion'], ['complex structure'], ['improvement'], ['times'], ['control']] 
+
+Candidates_Dedup: ['corn stover residues', 'lignocellulosic residues', 'biogas production', 'rumen fluid microbiota', 'rumen fluid', 'anaerobic digestion', 'complex structure', 'improvement', 'times', 'control'] 
+
+TOP-K 48: ['corn stover residues', 'lignocellulosic residues', 'biogas production', 'rumen fluid microbiota', 'rumen fluid', ['anaerobic digestion'], 'complex structure', 'improvement', 'times', 'control'] 
+
+Reference 48: ['Agricultural residues', 'Anaerobic digestion', 'Biogas enhancement', 'Lignocellulosic biomass hydrolysis', 'Rumen microbiota'] 
+
+Sorted_Candidate: [['intensive agriculture impacts soil health'], ['boost soil quality'], ['advanced mulching'], ['soil'], ['erosion control'], ['seasonal dynamics'], ['integrated soil management'], ['ecosystem integrity'], ['hydrology'], ['sustainability'], ['pollution'], ['orchards'], ['grass']] 
+
+Candidates_Dedup: ['intensive agriculture impacts soil health', 'boost soil quality', 'advanced mulching', 'soil', 'erosion control', 'seasonal dynamics', 'integrated soil management', 'ecosystem integrity', 'hydrology', 'sustainability', 'pollution', 'orchards', 'grass'] 
+
+TOP-K 49: ['intensive agriculture impacts soil health', 'boost soil quality', 'advanced mulching', 'soil', 'erosion control', 'seasonal dynamics', 'integrated soil management', 'ecosystem integrity', 'hydrology', 'sustainability', 'pollution', 'orchards', 'grass'] 
+
+Reference 49: ['Orchard management', 'Element loss', 'Soil cracking', 'Seasonal soil variability', 'Soil organic matter'] 
+
+Sorted_Candidate: [['mfc-pww performance'], ['rsm-box-behnken design'], ['co-substrate'], ['pww'], ['cod removal'], ['cod removal'], ['cod removal'], ['co-substrate strategy'], ['power generation'], ['power generation'], ['mfc process conditions'], ['fruit wastes'], ['optimum power'], ['power output'], ['ce'], ['ce'], ['ph'], ['terms'], ['mw'], ['day'], ['¡ãc']] 
+
+Candidates_Dedup: ['mfc-pww performance', 'rsm-box-behnken design', 'co-substrate', 'pww', 'cod removal', 'co-substrate strategy', 'power generation', 'mfc process conditions', 'fruit wastes', 'optimum power', 'power output', 'ce', 'ph', 'terms', 'mw', 'day', '¡ãc'] 
+
+TOP-K 50: ['mfc-pww performance', 'rsm-box-behnken design', 'co-substrate', 'pww', 'cod removal', 'co-substrate strategy', 'power generation', 'mfc process conditions', ['fruit wastes'], 'optimum power', 'power output', 'ce', 'ph', 'terms', 'mw'] 
+
+Reference 50: ['Bio-electricity', 'COD', 'Coulombic efficiency', 'BOD', 'Fruit wastes', 'Microbial fuel cell', 'Pharmaceutical wastewater', 'Box-Behken design'] 
+
+Sorted_Candidate: [['bentonite'], ['bentonite'], ['organoclay'], ['organoclay'], ['pb2'], ['pb2'], ['bnc'], ['bnc'], ['good sorption capacity'], ['superior mechanical stability'], ['barrier performance'], ['chemical sensitivity']] 
+
+Candidates_Dedup: ['bentonite', 'organoclay', 'pb2', 'bnc', 'good sorption capacity', 'superior mechanical stability', 'barrier performance', 'chemical sensitivity'] 
+
+TOP-K 51: [['bentonite'], ['organoclay'], 'pb2', 'bnc', 'good sorption capacity', 'superior mechanical stability', 'barrier performance', 'chemical sensitivity'] 
+
+Reference 51: ['Hydraulic Barrier', 'Hazardous Leachate', 'Organoclay', 'Heavy Metals', 'Adsorption', 'Bentonite'] 
+
+Sorted_Candidate: [['p-hba'], ['p-hba'], ['p-hba'], ['high silica zeolites'], ['high silica zeolites'], ['toluene'], ['toluene'], ['toluene'], ['zeolites'], ['zsm-5'], ['zsm-5'], ['occupancy sites'], ['p-hba molecules'], ['zeolite'], ['adsorption'], ['frameworks'], ['selectivity'], ['ph.']] 
+
+Candidates_Dedup: ['p-hba', 'high silica zeolites', 'toluene', 'zeolites', 'zsm-5', 'occupancy sites', 'p-hba molecules', 'zeolite', 'adsorption', 'frameworks', 'selectivity', 'ph.'] 
+
+TOP-K 52: ['p-hba', 'high silica zeolites', 'toluene', ['zeolites'], 'zsm-5', 'occupancy sites', 'p-hba molecules', ['zeolite'], 'adsorption', 'frameworks', 'selectivity', 'ph.'] 
+
+Reference 52: ['Organic Contaminants', 'Lignin Derived Phenolic Compounds', 'Zeolites', 'Water Remediation', 'Competitive Adsorption'] 
+
+Sorted_Candidate: [['waste incinerator'], ['promisbiomedicaling disposal approach'], ['biomedical waste incinerator'], ['total operational costs'], ['flue gas'], ['natural gas consumption'], ['maintenance costs'], ['environmental impacts'], ['landfill']] 
+
+Candidates_Dedup: ['waste incinerator', 'promisbiomedicaling disposal approach', 'biomedical waste incinerator', 'total operational costs', 'flue gas', 'natural gas consumption', 'maintenance costs', 'environmental impacts', 'landfill'] 
+
+TOP-K 53: ['waste incinerator', 'promisbiomedicaling disposal approach', 'biomedical waste incinerator', 'total operational costs', ['flue gas'], 'natural gas consumption', 'maintenance costs', 'environmental impacts', 'landfill'] 
+
+Reference 53: ['Life cycle assessment', 'Bottom ash', 'Environmental impact assessment', 'Flue gas', 'Global warming'] 
+
+Sorted_Candidate: [['coagulation-flocculation process'], ['coagulation-flocculation process'], ['decentralized water reuse'], ['industrial paint wastewater'], ['combined treatment technology'], ['treatment efficiency'], ['paint enterprises'], ['economic costs'], ['mechanisms']] 
+
+Candidates_Dedup: ['coagulation-flocculation process', 'decentralized water reuse', 'industrial paint wastewater', 'combined treatment technology', 'treatment efficiency', 'paint enterprises', 'economic costs', 'mechanisms'] 
+
+TOP-K 54: ['coagulation-flocculation process', 'decentralized water reuse', 'industrial paint wastewater', 'combined treatment technology', 'treatment efficiency', 'paint enterprises', 'economic costs', 'mechanisms'] 
+
+Reference 54: ['Paint wastewater', 'Adsorption kinetics', 'Coagulation', 'Decentralized treatment', 'Water reuse', 'Sustainability'] 
+
+Sorted_Candidate: [['asv'], ['froude number'], ['bathymetry'], ['asv potential'], ['bridge'], ['bridge'], ['bridge'], ['efficient data collection'], ['adcp data'], ['mitigation'], ['red river'], ['cold region rivers'], ['lidar'], ['flood mapping'], ['valuable insights'], ['flood management'], ['accuracy'], ['contraction'], ['depth'], ['findings'], ['assessment'], ['study'], ['approach'], ['discharge']] 
+
+Candidates_Dedup: ['asv', 'froude number', 'bathymetry', 'asv potential', 'bridge', 'efficient data collection', 'adcp data', 'mitigation', 'red river', 'cold region rivers', 'lidar', 'flood mapping', 'valuable insights', 'flood management', 'accuracy', 'contraction', 'depth', 'findings', 'assessment', 'study', 'approach', 'discharge'] 
+
+TOP-K 55: ['asv', 'froude number', 'bathymetry', 'asv potential', 'bridge', 'efficient data collection', 'adcp data', 'mitigation', ['red river'], 'cold region rivers', 'lidar', ['flood mapping'], 'valuable insights', 'flood management', 'accuracy'] 
+
+Reference 55: ['Contraction scour depth', 'Flood mapping', 'HEC-RAS model', 'LiDAR data', 'Manning n-coefficient', 'Red River'] 
+
+Sorted_Candidate: [['lake macroinvertebrate communities'], ['pressure-response relationships'], ['specific lakes'], ['freshwater ecosystems'], ['ecological assessment'], ['regression model'], ['reference conditions'], ['findings'], ['insights'], ['management']] 
+
+Candidates_Dedup: ['lake macroinvertebrate communities', 'pressure-response relationships', 'specific lakes', 'freshwater ecosystems', 'ecological assessment', 'regression model', 'reference conditions', 'findings', 'insights', 'management'] 
+
+TOP-K 56: ['lake macroinvertebrate communities', 'pressure-response relationships', 'specific lakes', 'freshwater ecosystems', 'ecological assessment', 'regression model', ['reference conditions'], 'findings', 'insights', 'management'] 
+
+Reference 56: ['Water quality assessment', 'Dinaric karst lakes', 'Freshwater management', 'Macroinvertebrate bioassessment', 'Reference conditions'] 
+
+Sorted_Candidate: [['soil profile truncation approach'], ['genetic horizons thicknesses'], ['crucial factors'], ['soil type'], ['spatial distribution'], ['thickness modelling'], ['erosion maps'], ['relief']] 
+
+Candidates_Dedup: ['soil profile truncation approach', 'genetic horizons thicknesses', 'crucial factors', 'soil type', 'spatial distribution', 'thickness modelling', 'erosion maps', 'relief'] 
+
+TOP-K 57: ['soil profile truncation approach', 'genetic horizons thicknesses', 'crucial factors', ['soil type'], 'spatial distribution', 'thickness modelling', 'erosion maps', 'relief'] 
+
+Reference 57: ['Digital soil mapping', 'Erosion', 'Machine learning', 'Soil thickness', 'Soil type'] 
+
+Sorted_Candidate: [['urban rivers'], ['urban rivers'], ['significant correlations'], ['urban river sediments'], ['cd'], ['cd'], ['significant ecological risks'], ['china'], ['hg'], ['national level'], ['r'], ['hms'], ['elements'], ['.5']] 
+
+Candidates_Dedup: ['urban rivers', 'significant correlations', 'urban river sediments', 'cd', 'significant ecological risks', 'china', 'hg', 'national level', 'r', 'hms', 'elements', '.5'] 
+
+TOP-K 58: [['urban rivers'], 'significant correlations', 'urban river sediments', 'cd', 'significant ecological risks', 'china', 'hg', 'national level', 'r', 'hms', 'elements', '.5'] 
+
+Reference 58: ['Cadmium', 'Urban rivers', 'Sediments', 'Spatial¨Ctemporal distribution', 'Risks', 'Co-occurrence'] 
+
+Sorted_Candidate: [['nanoparticles'], ['nanoparticles'], ['high nanoparticle concentration'], ['maximum allowable concentration'], ['aggregated form'], ['mixture suspension'], ['presence'], ['risks'], ['antibiotics']] 
+
+Candidates_Dedup: ['nanoparticles', 'high nanoparticle concentration', 'maximum allowable concentration', 'aggregated form', 'mixture suspension', 'presence', 'risks', 'antibiotics'] 
+
+TOP-K 59: [['nanoparticles'], 'high nanoparticle concentration', 'maximum allowable concentration', 'aggregated form', 'mixture suspension', 'presence', 'risks', ['antibiotics']] 
+
+Reference 59: ['Nanoparticles', 'In-vitro dissolution', 'Mixture risk', 'Human health risk', 'Antibiotics'] 
+
+Sorted_Candidate: [['nico-mof'], ['nico-mof'], ['dabco'], ['dabco'], ['dabco'], ['dabco'], ['pseudo-first-order model'], ['monometallic co-mof'], ['novel bimetallic nico-mof'], ['cod removal efficiencies'], ['comprehensive characterization techniques'], ['kinetic studies'], ['cp degradation'], ['composites'], ['toc'], ['conditions']] 
+
+Candidates_Dedup: ['nico-mof', 'dabco', 'pseudo-first-order model', 'monometallic co-mof', 'novel bimetallic nico-mof', 'cod removal efficiencies', 'comprehensive characterization techniques', 'kinetic studies', 'cp degradation', 'composites', 'toc', 'conditions'] 
+
+TOP-K 60: [['nico-mof'], 'dabco', 'pseudo-first-order model', 'monometallic co-mof', 'novel bimetallic nico-mof', 'cod removal efficiencies', 'comprehensive characterization techniques', 'kinetic studies', 'cp degradation', 'composites', 'toc', 'conditions'] 
+
+Reference 60: ['§¡ntibiotics', 'Cefoperazone', 'Nanomaterials', 'Co-MOF', 'NiCo-MOF', 'Photocatalytic degradation', 'Water treatment'] 
+
+Sorted_Candidate: [['des synthesis yields cellulose-rich microfibers'], ['hydrothermal alkaline pretreatment'], ['cattail fiber oil adsorption'], ['choline chloride-oxalic acid'], ['raw cattail'], ['des'], ['oil absorption'], ['oil absorption capacity'], ['optimal des synthesis'], ['synthesis'], ['¡ãc']] 
+
+Candidates_Dedup: ['des synthesis yields cellulose-rich microfibers', 'hydrothermal alkaline pretreatment', 'cattail fiber oil adsorption', 'choline chloride-oxalic acid', 'raw cattail', 'des', 'oil absorption', 'oil absorption capacity', 'optimal des synthesis', 'synthesis', '¡ãc'] 
+
+TOP-K 61: ['des synthesis yields cellulose-rich microfibers', 'hydrothermal alkaline pretreatment', 'cattail fiber oil adsorption', 'choline chloride-oxalic acid', 'raw cattail', 'des', 'oil absorption', 'oil absorption capacity', 'optimal des synthesis', 'synthesis', '¡ãc'] 
+
+Reference 61: ['Cattail', 'Hydrothermal-alkaline pretreatment', 'Deep Eutectic solvents', 'Microfiber', 'Oil adsorption'] 
+
+Sorted_Candidate: [['2,4-d herbicide'], ['2,4-d concentration'], ['solid waste cement kiln dust'], ['aqueous solution'], ['chemisorption nature'], ['maximum adsorption capacity'], ['adsorption process'], ['g/100ml'], ['optimal conditions'], ['optimal conditions'], ['ckd'], ['ckd dose'], ['mg/g'], ['mg/l'], ['result'], ['ph']] 
+
+Candidates_Dedup: ['2,4-d herbicide', '2,4-d concentration', 'solid waste cement kiln dust', 'aqueous solution', 'chemisorption nature', 'maximum adsorption capacity', 'adsorption process', 'g/100ml', 'optimal conditions', 'ckd', 'ckd dose', 'mg/g', 'mg/l', 'result', 'ph'] 
+
+TOP-K 62: ['2,4-d herbicide', '2,4-d concentration', 'solid waste cement kiln dust', 'aqueous solution', 'chemisorption nature', 'maximum adsorption capacity', 'adsorption process', 'g/100ml', 'optimal conditions', 'ckd', 'ckd dose', 'mg/g', 'mg/l', 'result', 'ph'] 
+
+Reference 62: ['Adsorption', '2,4-Dichlorophenoxyacetic acid', 'Cement kiln dust', 'Adsorption isotherm', 'Kinetics'] 
+
+Sorted_Candidate: [['novel cu-tio2-aluminosilicate nanocomposite'], ['chlorella sp. algae strains'], ['solvothermal method'], ['cefixime'], ['influential factors'], ['scenedesmus'], ['initial concentration'], ['toxicity evaluation'], ['taguchi'], ['temperature'], ['findings'], ['ph']] 
+
+Candidates_Dedup: ['novel cu-tio2-aluminosilicate nanocomposite', 'chlorella sp. algae strains', 'solvothermal method', 'cefixime', 'influential factors', 'scenedesmus', 'initial concentration', 'toxicity evaluation', 'taguchi', 'temperature', 'findings', 'ph'] 
+
+TOP-K 63: ['novel cu-tio2-aluminosilicate nanocomposite', 'chlorella sp. algae strains', 'solvothermal method', 'cefixime', 'influential factors', 'scenedesmus', 'initial concentration', 'toxicity evaluation', 'taguchi', 'temperature', 'findings', 'ph'] 
+
+Reference 63: ['Cu-TiO2-Aluminosilicate', 'Promising photocatalyst', 'Taguchi method', 'Toxicity assessment'] 
+
+Sorted_Candidate: [['microplastics'], ['abundant microplastic types'], ['fragmented microplastics'], ['major microplastic sources'], ['single-use plastic items'], ['source apportionment'], ['drinking water reservoirs'], ['major contributors'], ['hdpe polymers'], ['human settlements'], ['water'], ['sediments'], ['pet'], ['recreation'], ['films'], ['foam'], ['fibers'], ['tourism']] 
+
+Candidates_Dedup: ['microplastics', 'abundant microplastic types', 'fragmented microplastics', 'major microplastic sources', 'single-use plastic items', 'source apportionment', 'drinking water reservoirs', 'major contributors', 'hdpe polymers', 'human settlements', 'water', 'sediments', 'pet', 'recreation', 'films', 'foam', 'fibers', 'tourism'] 
+
+TOP-K 64: [['microplastics'], 'abundant microplastic types', 'fragmented microplastics', 'major microplastic sources', 'single-use plastic items', 'source apportionment', 'drinking water reservoirs', 'major contributors', 'hdpe polymers', 'human settlements', 'water', 'sediments', 'pet', 'recreation', 'films'] 
+
+Reference 64: ['Microplastics', 'Spatial variation', 'FTIR', 'Pollution Load Index', 'Relative contributory score'] 
+
+Sorted_Candidate: [['organic fouling-resistant photothermal membrane'], ['photothermal membrane operating'], ['water evaporation'], ['sustainable freshwater generation'], ['harsh environmental conditions'], ['steady state'], ['water'], ['wastewater'], ['sit']] 
+
+Candidates_Dedup: ['organic fouling-resistant photothermal membrane', 'photothermal membrane operating', 'water evaporation', 'sustainable freshwater generation', 'harsh environmental conditions', 'steady state', 'water', 'wastewater', 'sit'] 
+
+TOP-K 65: ['organic fouling-resistant photothermal membrane', 'photothermal membrane operating', 'water evaporation', 'sustainable freshwater generation', 'harsh environmental conditions', 'steady state', 'water', 'wastewater', 'sit'] 
+
+Reference 65: ['Fouling', 'Humic acid', 'Carbon nanotubes', 'Silver nanoparticles', 'Solar-interfacial evaporation'] 
+
+Sorted_Candidate: [['pwqo limit'], ['pwqo limit'], ['cwqg'], ['mg/l'], ['mg/l'], ['fn-tp'], ['fn-tss'], ['cwqg limit'], ['tributaries'], ['tributaries'], ['tributaries'], ['tributaries'], ['management practices'], ['concentrations'], ['concentrations'], ['bmps'], ['concentration']] 
+
+Candidates_Dedup: ['pwqo limit', 'cwqg', 'mg/l', 'fn-tp', 'fn-tss', 'cwqg limit', 'tributaries', 'management practices', 'concentrations', 'bmps', 'concentration'] 
+
+TOP-K 66: ['pwqo limit', 'cwqg', 'mg/l', 'fn-tp', 'fn-tss', 'cwqg limit', 'tributaries', 'management practices', 'concentrations', 'bmps', 'concentration'] 
+
+Reference 66: ['WRTDS_BT', 'Trend Analysis', 'Total Phosphorus', 'Total Suspended Sediments', 'Lake Erie', 'Lake Huron', 'Lake Ontario'] 
+
+Reference 67: ['Dewatering plant', 'Polymer dosage', 'Flocculation', 'Image analysis', 'Semantic segmentation', 'Automatic control'] 
+
+Sorted_Candidate: [['electron hole-pair recombination'], ['g-c3n4 surface'], ['facile one-step calcination process'], ['photocatalytic reduction'], ['ag'], ['excellent performance'], ['cr'], ['cr'], ['edta'], ['reduction'], ['vi'], ['vi'], ['addition'], ['ag/g-c 3n4 photocatalyst'], ['ag/g-c 3n4']] 
+
+Candidates_Dedup: ['electron hole-pair recombination', 'g-c3n4 surface', 'facile one-step calcination process', 'photocatalytic reduction', 'ag', 'excellent performance', 'cr', 'edta', 'reduction', 'vi', 'addition', 'ag/g-c 3n4 photocatalyst', 'ag/g-c 3n4'] 
+
+TOP-K 68: ['electron hole-pair recombination', 'g-c3n4 surface', 'facile one-step calcination process', 'photocatalytic reduction', 'ag', 'excellent performance', 'cr', 'edta', 'reduction', 'vi', 'addition', 'ag/g-c 3n4 photocatalyst', 'ag/g-c 3n4'] 
+
+Reference 68: ['Photocatalytic Cr(VI) Reduction', 'Ag/g-C3N4', 'Hole Scavenger', 'Visible Light Irradiation', 'Electron-hole Pair Recombination'] 
+
+Sorted_Candidate: [['sandy tidal flat shorelines'], ['sandy tidal flat shorelines'], ['bulk oil removal mitigation'], ['sandy beach shorelines'], ['sandy tidal flat beaches'], ['sandy beach'], ['sediment microbial communities'], ['biostimulation'], ['hydrocarbon dissolution'], ['oil movement'], ['large changes'], ['oil fate'], ['behaviour']] 
+
+Candidates_Dedup: ['sandy tidal flat shorelines', 'bulk oil removal mitigation', 'sandy beach shorelines', 'sandy tidal flat beaches', 'sandy beach', 'sediment microbial communities', 'biostimulation', 'hydrocarbon dissolution', 'oil movement', 'large changes', 'oil fate', 'behaviour'] 
+
+TOP-K 69: ['sandy tidal flat shorelines', 'bulk oil removal mitigation', 'sandy beach shorelines', 'sandy tidal flat beaches', 'sandy beach', 'sediment microbial communities', 'biostimulation', 'hydrocarbon dissolution', 'oil movement', 'large changes', 'oil fate', 'behaviour'] 
+
+Reference 69: ['Microbial Community', 'Oil Fate and Effect', 'Low Energy Tidal Flushing', 'Sediments'] 
+
+Sorted_Candidate: [['tx-nm border'], ['tight-oil'], ['water'], ['tight-oil formations'], ['water chemistry dataset'], ['west texas'], ['water treatment'], ['delaware basin'], ['water management'], ['previous literature'], ['water volumes'], ['water needs'], ['area'], ['chemistry'], ['basis'], ['production'], ['west texas?irrigation water shortage']] 
+
+Candidates_Dedup: ['tx-nm border', 'tight-oil', 'water', 'tight-oil formations', 'water chemistry dataset', 'west texas', 'water treatment', 'delaware basin', 'water management', 'previous literature', 'water volumes', 'water needs', 'area', 'chemistry', 'basis', 'production', 'west texas?irrigation water shortage'] 
+
+TOP-K 70: ['tx-nm border', 'tight-oil', 'water', 'tight-oil formations', 'water chemistry dataset', 'west texas', 'water treatment', 'delaware basin', 'water management', 'previous literature', 'water volumes', 'water needs', 'area', 'chemistry', 'basis'] 
+
+Reference 70: ['Produced water management', 'Saltwater disposal', 'Unconventional formations', 'Water chemistry', 'Hydraulic fracturing'] 
+
+Sorted_Candidate: [['fractured aquifers'], ['flow model aids groundwater pollution monitoring'], ['localized leachate percolation'], ['fractured aquifer pathways'], ['conductive zones'], ['geophysical data'], ['sustainable groundwater management'], ['volcanic rock'], ['pollution monitoring'], ['findings']] 
+
+Candidates_Dedup: ['fractured aquifers', 'flow model aids groundwater pollution monitoring', 'localized leachate percolation', 'fractured aquifer pathways', 'conductive zones', 'geophysical data', 'sustainable groundwater management', 'volcanic rock', 'pollution monitoring', 'findings'] 
+
+TOP-K 71: ['fractured aquifers', 'flow model aids groundwater pollution monitoring', 'localized leachate percolation', 'fractured aquifer pathways', 'conductive zones', 'geophysical data', 'sustainable groundwater management', 'volcanic rock', 'pollution monitoring', 'findings'] 
+
+Reference 71: ['Hydrogeophysics', 'Geophysical imaging', 'Fractured basalt', 'Site conceptual model', 'Groundwater pollution', 'Landfills'] 
+
+Sorted_Candidate: [['cryoconites'], ['cryoconites'], ['cryoconites'], ['mt. elbrus ecosystems'], ['microbial activity'], ['translocation'], ['soils'], ['soils'], ['labile carbon'], ['key chemical features'], ['trace elements'], ['local transfer'], ['pollution level'], ['local soils'], ['environmental indicator'], ['dominant source'], ['migration'], ['redistribution'], ['material'], ['glaciers']] 
+
+Candidates_Dedup: ['cryoconites', 'mt. elbrus ecosystems', 'microbial activity', 'translocation', 'soils', 'labile carbon', 'key chemical features', 'trace elements', 'local transfer', 'pollution level', 'local soils', 'environmental indicator', 'dominant source', 'migration', 'redistribution', 'material', 'glaciers'] 
+
+TOP-K 72: ['cryoconites', 'mt. elbrus ecosystems', 'microbial activity', 'translocation', ['soils'], 'labile carbon', 'key chemical features', ['trace elements'], 'local transfer', 'pollution level', 'local soils', 'environmental indicator', 'dominant source', 'migration', 'redistribution'] 
+
+Reference 72: ['Glaciers', 'Organomineral sediments', 'Soils', 'Organic carbon', 'Biogeochemical cycles', 'Trace elements'] 
+
+Sorted_Candidate: [['in-stream bioreactor'], ['in-stream bioreactor'], ['septic systems'], ['septic systems'], ['nitrogen-chloride ratios'], ['denitrification'], ['nitrogen management goals'], ['nitrogen'], ['nitrate isotope data'], ['n'], ['n'], ['aquatic ecosystems'], ['novel use'], ['n concentration'], ['water quality'], ['basins'], ['approach'], ['masses']] 
+
+Candidates_Dedup: ['in-stream bioreactor', 'septic systems', 'nitrogen-chloride ratios', 'denitrification', 'nitrogen management goals', 'nitrogen', 'nitrate isotope data', 'n', 'aquatic ecosystems', 'novel use', 'n concentration', 'water quality', 'basins', 'approach', 'masses'] 
+
+TOP-K 73: ['in-stream bioreactor', ['septic systems'], 'nitrogen-chloride ratios', ['denitrification'], 'nitrogen management goals', ['nitrogen'], 'nitrate isotope data', 'n', 'aquatic ecosystems', 'novel use', 'n concentration', 'water quality', 'basins', 'approach', 'masses'] 
+
+Reference 73: ['Nitrogen', 'Bioreactor', 'Wastewater', 'Denitrification', 'In-stream processing', 'Septic system'] 
+
+Sorted_Candidate: [['tryptophan'], ['mm l-tryptophan'], ['indole'], ['mm indole'], ['fluorescence regions'], ['fluorescence intensity'], ['broth'], ['high accuracy'], ['fib'], ['concentrations'], ['strains']] 
+
+Candidates_Dedup: ['tryptophan', 'mm l-tryptophan', 'indole', 'mm indole', 'fluorescence regions', 'fluorescence intensity', 'broth', 'high accuracy', 'fib', 'concentrations', 'strains'] 
+
+TOP-K 74: [['tryptophan'], 'mm l-tryptophan', 'indole', 'mm indole', 'fluorescence regions', 'fluorescence intensity', 'broth', 'high accuracy', 'fib', 'concentrations', 'strains'] 
+
+Reference 74: ['Water quality monitoring', 'Fluorescence spectroscopy', 'E. coli', 'Tryptophan', 'Indole pulse'] 
+
+Sorted_Candidate: [['australian agro exports co2 emissions'], ['climate change'], ['agro-export performance'], ['climate change climate change'], ['one-third'], ['australian agricultural exports'], ['australian aggregate export earnings'], ['environmental quality'], ['light'], ['impact'], ['temperature'], ['indicators'], ['agriculture'], ['paper']] 
+
+Candidates_Dedup: ['australian agro exports co2 emissions', 'climate change', 'agro-export performance', 'climate change climate change', 'one-third', 'australian agricultural exports', 'australian aggregate export earnings', 'environmental quality', 'light', 'impact', 'temperature', 'indicators', 'agriculture', 'paper'] 
+
+TOP-K 75: ['australian agro exports co2 emissions', ['climate change'], 'agro-export performance', 'climate change climate change', 'one-third', 'australian agricultural exports', 'australian aggregate export earnings', 'environmental quality', 'light', 'impact', 'temperature', 'indicators', 'agriculture', 'paper'] 
+
+Reference 75: ['Climate Change', 'Environmental Degradation', 'CO2 Emissions', 'Agro Export', 'Australia'] 
+
+Sorted_Candidate: [['heterogeneous fenton catalysis'], ['electrospun f-pu membrane'], ['f-pu/fecl3'], ['good recyclability'], ['electrospun pu'], ['pu membrane'], ['porous nature'], ['high efficiency removal'], ['wettability'], ['novel support'], ['cr'], ['mb'], ['mo'], ['min'], ['membranes'], ['tea']] 
+
+Candidates_Dedup: ['heterogeneous fenton catalysis', 'electrospun f-pu membrane', 'f-pu/fecl3', 'good recyclability', 'electrospun pu', 'pu membrane', 'porous nature', 'high efficiency removal', 'wettability', 'novel support', 'cr', 'mb', 'mo', 'min', 'membranes', 'tea'] 
+
+TOP-K 76: ['heterogeneous fenton catalysis', 'electrospun f-pu membrane', 'f-pu/fecl3', 'good recyclability', 'electrospun pu', 'pu membrane', 'porous nature', 'high efficiency removal', 'wettability', 'novel support', 'cr', 'mb', 'mo', 'min', 'membranes'] 
+
+Reference 76: ['Electrospinning', 'Polyurethane', 'Fenton catalyst', 'Reaction kinetics', 'Degradation'] 
+
+Sorted_Candidate: [['polyethylene terephthalate'], ['common microplastics colors'], ['common microplastics shapes'], ['polyethylene polymers'], ['high hazard risk'], ['polypropylene'], ['polyamide'], ['common polymers'], ['fibers']] 
+
+Candidates_Dedup: ['polyethylene terephthalate', 'common microplastics colors', 'common microplastics shapes', 'polyethylene polymers', 'high hazard risk', 'polypropylene', 'polyamide', 'common polymers', 'fibers'] 
+
+TOP-K 77: ['polyethylene terephthalate', 'common microplastics colors', 'common microplastics shapes', 'polyethylene polymers', 'high hazard risk', 'polypropylene', 'polyamide', 'common polymers', 'fibers'] 
+
+Reference 77: ['Plastic', 'Microplastic', 'Hospital wastewater', 'Polymer', 'Abundance'] 
+
+Sorted_Candidate: [['cost-recovery mechanism'], ['non-financial recovery'], ['water services'], ['water services'], ['income classification'], ['water uses'], ['financial costs'], ['cost recovery'], ['indirect methods'], ['islands'], ['proportions']] 
+
+Candidates_Dedup: ['cost-recovery mechanism', 'non-financial recovery', 'water services', 'income classification', 'water uses', 'financial costs', 'cost recovery', 'indirect methods', 'islands', 'proportions'] 
+
+TOP-K 78: ['cost-recovery mechanism', 'non-financial recovery', 'water services', 'income classification', 'water uses', 'financial costs', 'cost recovery', 'indirect methods', 'islands', 'proportions'] 
+
+Reference 78: ['River Basin Management Plan', 'Water Pricing', 'Water Management Efficiency', 'Economic Instruments'] 
+
+Sorted_Candidate: [['methodology'], ['methodology'], ['methodology'], ['methodology'], ['climate change adaptation'], ['water infrastructures'], ['wastewater system'], ['european guidelines'], ['literature survey'], ['critical infrastructure'], ['application'], ['greece']] 
+
+Candidates_Dedup: ['methodology', 'climate change adaptation', 'water infrastructures', 'wastewater system', 'european guidelines', 'literature survey', 'critical infrastructure', 'application', 'greece'] 
+
+TOP-K 79: ['methodology', ['climate change adaptation'], ['water infrastructures'], 'wastewater system', 'european guidelines', 'literature survey', 'critical infrastructure', 'application', 'greece'] 
+
+Reference 79: ['Climate change adaptation', 'Water infrastructure', 'Climate proofing', 'Climate risk and vulnerability assessment'] 
+
+Sorted_Candidate: [['axarquia'], ['axarquia'], ['axarquia'], ['gwh/year surge'], ['water-energy confluence'], ['avocados'], ['hm3 water deficit'], ['co2'], ['energy methods'], ['subtropical crops'], ['water constraints'], ['tco2'], ['mangoes'], ['crops'], ['crop demands'], ['agricultural usage'], ['agriculture'], ['sustainability'], ['increase'], ['spain']] 
+
+Candidates_Dedup: ['axarquia', 'gwh/year surge', 'water-energy confluence', 'avocados', 'hm3 water deficit', 'co2', 'energy methods', 'subtropical crops', 'water constraints', 'tco2', 'mangoes', 'crops', 'crop demands', 'agricultural usage', 'agriculture', 'sustainability', 'increase', 'spain'] 
+
+TOP-K 80: ['axarquia', 'gwh/year surge', 'water-energy confluence', 'avocados', 'hm3 water deficit', 'co2', 'energy methods', ['subtropical crops'], 'water constraints', 'tco2', 'mangoes', 'crops', 'crop demands', 'agricultural usage', 'agriculture'] 
+
+Reference 80: ['Water-energy nexus', 'Carbon balance', 'Axarquia (Spain)', 'Deficit irrigation', 'Non-conventional water sources', 'Subtropical crops', 'Climate change', 'CO2 equivalent'] 
+
+Sorted_Candidate: [['phosphate removal'], ['phosphate removal'], ['carbon black flow electrode'], ['carbon flow electrode'], ['dominant phosphate removal mechanism'], ['electrosorption'], ['fcdi'], ['applied voltage'], ['clean water'], ['initial ph'], ['nutrients'], ['wastewater']] 
+
+Candidates_Dedup: ['phosphate removal', 'carbon black flow electrode', 'carbon flow electrode', 'dominant phosphate removal mechanism', 'electrosorption', 'fcdi', 'applied voltage', 'clean water', 'initial ph', 'nutrients', 'wastewater'] 
+
+TOP-K 81: [['phosphate removal'], 'carbon black flow electrode', 'carbon flow electrode', 'dominant phosphate removal mechanism', 'electrosorption', 'fcdi', 'applied voltage', 'clean water', 'initial ph', 'nutrients', 'wastewater'] 
+
+Reference 81: ['Flow electrode capacitive deionization', 'Carbon black', 'Activated carbon', 'Phosphate removal', 'Removal and recovery', 'Response surface methodology', 'Optimization'] 
+
+Sorted_Candidate: [['mapped.a participatory decision-making process'], ['decision-making process'], ['feasible mar areas.mar-related criteria'], ['managed aquifer recharge'], ['mar typology.stakeholders'], ['thematic layers.the recharge problem'], ['mar'], ['suitable areas'], ['different components'], ['terms']] 
+
+Candidates_Dedup: ['mapped.a participatory decision-making process', 'decision-making process', 'feasible mar areas.mar-related criteria', 'managed aquifer recharge', 'mar typology.stakeholders', 'thematic layers.the recharge problem', 'mar', 'suitable areas', 'different components', 'terms'] 
+
+TOP-K 82: ['mapped.a participatory decision-making process', 'decision-making process', 'feasible mar areas.mar-related criteria', 'managed aquifer recharge', 'mar typology.stakeholders', 'thematic layers.the recharge problem', 'mar', 'suitable areas', 'different components', 'terms'] 
+
+Reference 82: ['MAR typology', 'Stakeholder-adapted approach', 'Analytical hierarchical process', 'MAR planning', 'Decision-making'] 
+
+Sorted_Candidate: [['atrazine'], ['atrazine'], ['atrazine'], ['metolachlor'], ['u.s. midwest'], ['metolachlor trends'], ['long-term assessment'], ['simazine concentrations'], ['simazine'], ['annual concentration trends'], ['drinking water standards'], ['cover crop adoption'], ['spring'], ['usage']] 
+
+Candidates_Dedup: ['atrazine', 'metolachlor', 'u.s. midwest', 'metolachlor trends', 'long-term assessment', 'simazine concentrations', 'simazine', 'annual concentration trends', 'drinking water standards', 'cover crop adoption', 'spring', 'usage'] 
+
+TOP-K 83: [['atrazine'], ['metolachlor'], 'u.s. midwest', 'metolachlor trends', 'long-term assessment', 'simazine concentrations', ['simazine'], 'annual concentration trends', 'drinking water standards', 'cover crop adoption', 'spring', 'usage'] 
+
+Reference 83: ['Herbicides', 'Water quality', 'Time series analysis', 'Conservation practices', 'Atrazine', 'Metolachlor', 'Simazine'] 
+
+Sorted_Candidate: [['subsurface karst flow'], ['long-term ambient noise variations'], ['karst system dynamics'], ['ambient noise surface monitoring'], ['power law quantitative relation'], ['discharge correlation'], ['seismic signals']] 
+
+Candidates_Dedup: ['subsurface karst flow', 'long-term ambient noise variations', 'karst system dynamics', 'ambient noise surface monitoring', 'power law quantitative relation', 'discharge correlation', 'seismic signals'] 
+
+TOP-K 84: ['subsurface karst flow', 'long-term ambient noise variations', 'karst system dynamics', 'ambient noise surface monitoring', 'power law quantitative relation', 'discharge correlation', 'seismic signals'] 
+
+Reference 84: ['Karst hydrogeology', 'Ambient noise monitoring', 'Non-invasive investigation', 'Flow dynamics and turbulence'] 
+
+Sorted_Candidate: [['groundwater quality'], ['machine learning models'], ['groundwater quality index'], ['arid region'], ['permissible limits'], ['dataset'], ['ranking analyses'], ['estimations'], ['ml model'], ['reliability'], ['scenarios'], ['wells']] 
+
+Candidates_Dedup: ['groundwater quality', 'machine learning models', 'groundwater quality index', 'arid region', 'permissible limits', 'dataset', 'ranking analyses', 'estimations', 'ml model', 'reliability', 'scenarios', 'wells'] 
+
+TOP-K 85: ['groundwater quality', 'machine learning models', ['groundwater quality index'], 'arid region', 'permissible limits', 'dataset', 'ranking analyses', 'estimations', 'ml model', 'reliability', 'scenarios', 'wells'] 
+
+Reference 85: ['Groundwater quality index', 'Water quality parameters', 'Machine learning', 'Multi-gene genetic programming', 'XGBoost'] 
+
+Sorted_Candidate: [['determinants.several econometric methods'], ['load capacity factor'], ['thailands time series data.economic growth'], ['load capacity factor.globalization'], ['load capacity factor.we'], ['sustainable development'], ['technology innovation'], ['nexus'], ['energy'], ['policies']] 
+
+Candidates_Dedup: ['determinants.several econometric methods', 'load capacity factor', 'thailands time series data.economic growth', 'load capacity factor.globalization', 'load capacity factor.we', 'sustainable development', 'technology innovation', 'nexus', 'energy', 'policies'] 
+
+TOP-K 86: ['determinants.several econometric methods', ['load capacity factor'], 'thailands time series data.economic growth', 'load capacity factor.globalization', 'load capacity factor.we', ['sustainable development'], ['technology innovation'], 'nexus', 'energy', 'policies'] 
+
+Reference 86: ['Technological innovation', 'Load capacity factor', 'Globalization', 'Economic growth', 'Energy use', 'Sustainable development'] 
+
+Sorted_Candidate: [['variational mode decomposition'], ['extreme learning machine'], ['vmd'], ['vmd'], ['input variables'], ['hybrid elm'], ['water temperature'], ['superior performance'], ['elm'], ['tw'], ['air temperature'], ['river discharge'], ['variants'], ['analysis'], ['ta'], ['results'], ['q'], ['comparison']] 
+
+Candidates_Dedup: ['variational mode decomposition', 'extreme learning machine', 'vmd', 'input variables', 'hybrid elm', 'water temperature', 'superior performance', 'elm', 'tw', 'air temperature', 'river discharge', 'variants', 'analysis', 'ta', 'results', 'q', 'comparison'] 
+
+TOP-K 87: ['variational mode decomposition', 'extreme learning machine', 'vmd', 'input variables', 'hybrid elm', 'water temperature', 'superior performance', 'elm', 'tw', 'air temperature', 'river discharge', 'variants', 'analysis', 'ta', 'results'] 
+
+Reference 87: ['Desorption', 'Vancomycin', 'Rifampicin', 'Activated carbon', 'Antibiotic resistance', 'Water treatment'] 
+
+Sorted_Candidate: [['in-depth analysis'], ['graphite intercalation compound'], ['various artificial intelligence optimization techniques'], ['monte carlo simulation'], ['artificial intelligence'], ['machine learning algorithms'], ['advanced statistical analysis'], ['data fitting techniques'], ['prediction efficiency'], ['analysis'], ['uncertainties'], ['removal'], ['responses'], ['variability']] 
+
+Candidates_Dedup: ['in-depth analysis', 'graphite intercalation compound', 'various artificial intelligence optimization techniques', 'monte carlo simulation', 'artificial intelligence', 'machine learning algorithms', 'advanced statistical analysis', 'data fitting techniques', 'prediction efficiency', 'analysis', 'uncertainties', 'removal', 'responses', 'variability'] 
+
+TOP-K 88: ['in-depth analysis', 'graphite intercalation compound', 'various artificial intelligence optimization techniques', ['monte carlo simulation'], 'artificial intelligence', 'machine learning algorithms', 'advanced statistical analysis', 'data fitting techniques', 'prediction efficiency', 'analysis', 'uncertainties', 'removal', 'responses', 'variability'] 
+
+Reference 88: ['Dye removal', 'Adsorption and electrochemical treatment', 'Artificial neural network', 'Support vector machine', 'Random forest', 'Monte Carlo simulation'] 
+
+Sorted_Candidate: [['vmd offerssuperior performance'], ['variational mode decomposition'], ['threevariants'], ['extreme learning machine'], ['vmd'], ['input variables'], ['hybrid elm'], ['water temperature'], ['elm'], ['air temperature'], ['tw'], ['river discharge'], ['analysis'], ['results'], ['comparison'], ['ta'], ['q']] 
+
+Candidates_Dedup: ['vmd offerssuperior performance', 'variational mode decomposition', 'threevariants', 'extreme learning machine', 'vmd', 'input variables', 'hybrid elm', 'water temperature', 'elm', 'air temperature', 'tw', 'river discharge', 'analysis', 'results', 'comparison', 'ta', 'q'] 
+
+TOP-K 89: ['vmd offerssuperior performance', 'variational mode decomposition', 'threevariants', 'extreme learning machine', 'vmd', 'input variables', 'hybrid elm', ['water temperature'], 'elm', ['air temperature'], 'tw', ['river discharge'], 'analysis', 'results', 'comparison'] 
+
+Reference 89: ['Machine learning', 'Air temperature', 'Water temperature', 'River discharge', 'Signal decomposition', 'Extreme learning machine (ELM)', 'ORELM', 'RELM', 'WRELM'] 
+
+Sorted_Candidate: [['dibenzanthracene'], ['naphthalene'], ['benzopyrene'], ['burnt oil-recycling factory'], ['pyrene'], ['monte carlo simulation'], ['benzo'], ['occupational exposure'], ['cr values'], ['benzene'], ['control measures'], ['btex'], ['acceptable level'], ['hq values'], ['pahs'], ['operational units'], ['uncertainty'], ['assessment'], ['workers']] 
+
+Candidates_Dedup: ['dibenzanthracene', 'naphthalene', 'benzopyrene', 'burnt oil-recycling factory', 'pyrene', 'monte carlo simulation', 'benzo', 'occupational exposure', 'cr values', 'benzene', 'control measures', 'btex', 'acceptable level', 'hq values', 'pahs', 'operational units', 'uncertainty', 'assessment', 'workers'] 
+
+TOP-K 90: ['dibenzanthracene', 'naphthalene', 'benzopyrene', 'burnt oil-recycling factory', 'pyrene', 'monte carlo simulation', 'benzo', 'occupational exposure', 'cr values', 'benzene', 'control measures', 'btex', 'acceptable level', 'hq values', 'pahs'] 
+
+Reference 90: ['BTEX compounds', 'PAH compounds', 'Inhalation exposure', 'Health risk assessment', 'Burnt oil recycling factory'] 
+
+Sorted_Candidate: [['high-priority sub-basins'], ['gis-based fahp'], ['ranking variations sub-basins'], ['sensitivity analysis'], ['sensitivity analysis'], ['water monitoring network'], ['hot-spots'], ['thorough sensitivity analysis'], ['robustness'], ['weight criteria'], ['study area'], ['clusters'], ['model']] 
+
+Candidates_Dedup: ['high-priority sub-basins', 'gis-based fahp', 'ranking variations sub-basins', 'sensitivity analysis', 'water monitoring network', 'hot-spots', 'thorough sensitivity analysis', 'robustness', 'weight criteria', 'study area', 'clusters', 'model'] 
+
+TOP-K 91: ['high-priority sub-basins', 'gis-based fahp', 'ranking variations sub-basins', ['sensitivity analysis'], ['water monitoring network'], 'hot-spots', 'thorough sensitivity analysis', 'robustness', 'weight criteria', 'study area', 'clusters', 'model'] 
+
+Reference 91: ['Fuzzy-AHP', 'Analytic Hierarchy Process', 'Multi-criteria decision analysis', 'Sensitivity analysis', 'Water monitoring network', 'River monitoring', 'Automatic stations'] 
+
+Sorted_Candidate: [['flocculation'], ['flocculation'], ['differential nanostructural gelation'], ['3d cryo-hrsem images'], ['morphotypes'], ['organic carbon molecular weights'], ['organic carbon diffusion'], ['high molecular weight'], ['sedimentation'], ['water column'], ['diffusion']] 
+
+Candidates_Dedup: ['flocculation', 'differential nanostructural gelation', '3d cryo-hrsem images', 'morphotypes', 'organic carbon molecular weights', 'organic carbon diffusion', 'high molecular weight', 'sedimentation', 'water column', 'diffusion'] 
+
+TOP-K 92: ['flocculation', 'differential nanostructural gelation', '3d cryo-hrsem images', 'morphotypes', 'organic carbon molecular weights', 'organic carbon diffusion', 'high molecular weight', 'sedimentation', 'water column', 'diffusion'] 
+
+Reference 92: ['Dissolved Organic Carbon (DOC)', 'Tangential ultrafiltration', 'Cryo-HRSEM', 'Coagulated Dissolved Organic Matter (DOM)', '3D micromorphology', 'Nanostructural gelation', 'Monimolimnion', 'Lac Pavin'] 
+
+Sorted_Candidate: [['klebsiella aerogenes'], ['klebsiella aerogenes'], ['devulcanization'], ['maximum weight loss'], ['rubber degradation'], ['rubber degradation'], ['scs bonds'], ['mnp enzyme'], ['rubber'], ['novel use'], ['degradation'], ['short duration'], ['laccase'], ['bacteria']] 
+
+Candidates_Dedup: ['klebsiella aerogenes', 'devulcanization', 'maximum weight loss', 'rubber degradation', 'scs bonds', 'mnp enzyme', 'rubber', 'novel use', 'degradation', 'short duration', 'laccase', 'bacteria'] 
+
+TOP-K 93: [['klebsiella aerogenes'], ['devulcanization'], 'maximum weight loss', 'rubber degradation', 'scs bonds', 'mnp enzyme', 'rubber', 'novel use', 'degradation', 'short duration', 'laccase', 'bacteria'] 
+
+Reference 93: ['Natural rubber glove', 'Klebsiella aerogenes', 'Biodegradation', 'Devulcanization', 'Waste to enzymes', 'Rubber waste management'] 
+
+Sorted_Candidate: [['microplastics'], ['microplastics'], ['vaal river'], ['hdpe'], ['surface water'], ['polymers'], ['ldpe'], ['pp']] 
+
+Candidates_Dedup: ['microplastics', 'vaal river', 'hdpe', 'surface water', 'polymers', 'ldpe', 'pp'] 
+
+TOP-K 94: ['microplastics', 'vaal river', 'hdpe', 'surface water', 'polymers', 'ldpe', 'pp'] 
+
+Reference 94: ['Physical characteristics', 'Polymer composition', 'Size', 'Shape'] 
+
+Sorted_Candidate: [['carbon-based nanocomposites'], ['uv light.the nanocomposites'], ['ammonia degradation.the nanocomposites'], ['developed.the nanocomposites'], ['co-precipitation method.mixed design ratios'], ['cuo nanoparticles'], ['excellent photocatalytic activity'], ['promising photocatalysts'], ['cuo nps'], ['recyclability'], ['mwcnts'], ['rgo'], ['high stability']] 
+
+Candidates_Dedup: ['carbon-based nanocomposites', 'uv light.the nanocomposites', 'ammonia degradation.the nanocomposites', 'developed.the nanocomposites', 'co-precipitation method.mixed design ratios', 'cuo nanoparticles', 'excellent photocatalytic activity', 'promising photocatalysts', 'cuo nps', 'recyclability', 'mwcnts', 'rgo', 'high stability'] 
+
+TOP-K 95: ['carbon-based nanocomposites', 'uv light.the nanocomposites', 'ammonia degradation.the nanocomposites', 'developed.the nanocomposites', 'co-precipitation method.mixed design ratios', ['cuo nanoparticles'], 'excellent photocatalytic activity', 'promising photocatalysts', 'cuo nps', 'recyclability', 'mwcnts', 'rgo', 'high stability'] 
+
+Reference 95: ['CuO nanoparticles', 'Graphene oxide', 'Multi-walled carbon nanotubes', 'UV irradiation', 'Photocatalyst', 'Ammonia'] 
+
+Sorted_Candidate: [['causality diagram addresses'], ['causality diagram addresses data gaps'], ['high-risk areas'], ['flood vulnerability index precision'], ['dematel method'], ['causality diagrams'], ['quantitative map data'], ['flood hazard index'], ['gis'], ['hazard'], ['vulnerability'], ['sensitivity']] 
+
+Candidates_Dedup: ['causality diagram addresses', 'causality diagram addresses data gaps', 'high-risk areas', 'flood vulnerability index precision', 'dematel method', 'causality diagrams', 'quantitative map data', 'flood hazard index', 'gis', 'hazard', 'vulnerability', 'sensitivity'] 
+
+TOP-K 96: ['causality diagram addresses', 'causality diagram addresses data gaps', 'high-risk areas', 'flood vulnerability index precision', 'dematel method', 'causality diagrams', 'quantitative map data', 'flood hazard index', ['gis'], 'hazard', 'vulnerability', 'sensitivity'] 
+
+Reference 96: ['Flood risk', 'Flood hazard', 'Flood vulnerability', 'GIS', 'Graph theory', 'DEMATEL'] 
+
+Sorted_Candidate: [['permeable pavements'], ['discussed.an application'], ['explained.cost analysis'], ['presented.the assets'], ['pocket parks'], ['suds'], ['urban area'], ['available funds'], ['rain gardens'], ['multiple benefits'], ['works'], ['works'], ['possibility'], ['combination'], ['areas']] 
+
+Candidates_Dedup: ['permeable pavements', 'discussed.an application', 'explained.cost analysis', 'presented.the assets', 'pocket parks', 'suds', 'urban area', 'available funds', 'rain gardens', 'multiple benefits', 'works', 'possibility', 'combination', 'areas'] 
+
+TOP-K 97: [['permeable pavements'], 'discussed.an application', 'explained.cost analysis', 'presented.the assets', ['pocket parks'], 'suds', 'urban area', 'available funds', ['rain gardens'], 'multiple benefits', 'works', 'possibility', 'combination', 'areas'] 
+
+Reference 97: ['Densely Built area', 'Rain run-off', 'Rain Garden', 'Permeable Pavement', 'Pocket park', 'Sustainable Drainage Systems (SuDS)'] 
+
+Sorted_Candidate: [['time intervals.the experimental data logger'], ['arg100'], ['arg100'], ['arg100'], ['rg28.the variations'], ['rg28'], ['non-recording rain gauge'], ['daily rainfall depth'], ['10-min scale'], ['rg20'], ['respective variations'], ['rain']] 
+
+Candidates_Dedup: ['time intervals.the experimental data logger', 'arg100', 'rg28.the variations', 'rg28', 'non-recording rain gauge', 'daily rainfall depth', '10-min scale', 'rg20', 'respective variations', 'rain'] 
+
+TOP-K 98: ['time intervals.the experimental data logger', 'arg100', 'rg28.the variations', 'rg28', 'non-recording rain gauge', 'daily rainfall depth', '10-min scale', 'rg20', 'respective variations', 'rain'] 
+
+Reference 98: ['Tipping bucket rain gauge', 'Data logger', 'Electronic board', 'Arduino UNO', 'Raspberry Pi', 'Athens'] 
+
+Sorted_Candidate: [['himalayas.a novel'], ['efficient baseflow separation method'], ['baseflow.the'], ['cost-effective approach'], ['baseflow separation methods'], ['basin'], ['basin'], ['study']] 
+
+Candidates_Dedup: ['himalayas.a novel', 'efficient baseflow separation method', 'baseflow.the', 'cost-effective approach', 'baseflow separation methods', 'basin', 'study'] 
+
+TOP-K 99: ['himalayas.a novel', 'efficient baseflow separation method', 'baseflow.the', 'cost-effective approach', 'baseflow separation methods', 'basin', 'study'] 
+
+Reference 99: ['Streamflow characterization', 'Baseflow estimation methods', 'Relative evaluation', 'Verification of the methods', 'Baseflow Index', 'Goodness-of-fit criteria', 'Himalayan region'] 
+
+
+N=5
+P=0.122
+R=0.10701754385964912
+F1=0.11401869158878504
+
+N=10
+P=0.09489795918367347
+R=0.1631578947368421
+F1=0.12000000000000001
+
+N=15
+P=0.07981220657276995
+R=0.17894736842105263
+F1=0.1103896103896104
+Processing time: 20.03878951072693
