@@ -511,7 +511,7 @@ If you use this code or dataset in your research, please cite the following pape
   author={Xiang, Yi and Zhang, Chengzhi},
   journal={Scientometrics},
   year={2025},
-  note={Submitted}
+  doi={10.1007/s11192-026-05646-6}
 }
 ```
 
