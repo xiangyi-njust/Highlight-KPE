@@ -510,7 +510,7 @@ If you use this code or dataset in your research, please cite the following pape
   title={Enhancing Unsupervised Keyword Extraction in Academic Papers through the Integration of Highlights and Abstracts},
   author={Xiang, Yi and Zhang, Chengzhi},
   journal={Scientometrics},
-  year={2025},
+  year={2026},
   doi={10.1007/s11192-026-05646-6}
 }
 ```
