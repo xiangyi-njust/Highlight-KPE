@@ -517,7 +517,7 @@ If you use this code or dataset in your research, please cite the following pape
 
 **Alternative citation format:**
 
->Yi Xiang, Chengzhi Zhang\*. Enhancing Unsupervised Keyword Extraction in Academic Papers through Integrating Highlights with Abstract. ***Scientometrics***. 2026,  [[doi]](https://doi.org/10.1007/s11192-026-05646-6)  [[arXiv]](http://arxiv.org/abs/2604.19505)  [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-KPE)
+>Yi Xiang, Chengzhi Zhang\*. Enhancing Unsupervised Keyword Extraction in Academic Papers through Integrating Highlights with Abstract. ***Scientometrics***. 2026, 131(5): 3585–3621.  [[doi]](https://doi.org/10.1007/s11192-026-05646-6)  [[arXiv]](http://arxiv.org/abs/2604.19505)  [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-KPE)
 
 ## License
 
